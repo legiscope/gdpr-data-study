@@ -39,7 +39,9 @@ def frame(title, subtitle, footnote):
 def save(figure, name):
     folder = ROOT / 'charts'
     folder.mkdir(exist_ok=True)
-    figure.savefig(folder / f'{name}.svg', metadata={'Date': None, 'Creator': 'Legiscope'})
+    svg = folder / f'{name}.svg'
+    figure.savefig(svg, metadata={'Date': None, 'Creator': 'Legiscope'})
+    svg.write_text('\n'.join(line.rstrip() for line in svg.read_text().splitlines()) + '\n')
     figure.savefig(folder / f'{name}.png', dpi=160, metadata={'Software': 'Legiscope'})
     plt.close(figure)
 

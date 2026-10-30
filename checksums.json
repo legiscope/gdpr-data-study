@@ -43,8 +43,8 @@
     },
     {
       "path": "charts/amount-coverage.svg",
-      "bytes": 16074,
-      "sha256": "81366ee847f524e17b555947da28bd67d54d3a38bb2c129e588b14d627b626a7"
+      "bytes": 15964,
+      "sha256": "bfe0e36795e96f32da90a9896772242b4c2b12d769ac01e88e707136546debd8"
     },
     {
       "path": "charts/amounts-per-resident.png",
@@ -53,8 +53,8 @@
     },
     {
       "path": "charts/amounts-per-resident.svg",
-      "bytes": 16750,
-      "sha256": "7b7365c6c9a856f1f6b577a429ee45120352eb452247340288815e453b3d9aed"
+      "bytes": 16684,
+      "sha256": "3e690d814cdd002f0a83b64da5856fbd0492980062e3a3a44d78ba93ea129440"
     },
     {
       "path": "charts/france-themes.png",
@@ -63,8 +63,8 @@
     },
     {
       "path": "charts/france-themes.svg",
-      "bytes": 16613,
-      "sha256": "05fbd7bfb31a6abbead5a95e27b04aeff79c630cd602c55d6d733444999f4194"
+      "bytes": 16543,
+      "sha256": "2d8f29bae8923c573a0c96130442d76b5f9790abd55a059e9b610e20202070a8"
     },
     {
       "path": "data/case-themes.csv",
@@ -478,8 +478,8 @@
     },
     {
       "path": "scripts/charts.py",
-      "bytes": 5218,
-      "sha256": "f7a0e9b21877f00167825a31cea2ccf4e5b83afdb42aef4bbe46695168857a9b"
+      "bytes": 5325,
+      "sha256": "ad3d57a1eb0341210579f676dbc44d7950e146c6a7df546efc6fc85bcea7a491"
     },
     {
       "path": "source/audit-2026-10-25.fr.md",
