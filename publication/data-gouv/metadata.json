@@ -1,6 +1,6 @@
 {
   "title": "Sanctions de protection des données : 200 décisions françaises documentées",
-  "description": "200 décisions françaises de protection des données documentées dans la collecte Legiscope. Les régimes RGPD, cookies et règles nationales liées peuvent être inclus. Montants, sources, motifs et notes de recours conservés. Il ne s’agit pas d’un recensement national exhaustif. Étude et méthode : https://www.legiscope.com/blog/amendes-rgpd-europe-comparaison-pays.html ; version 2026.10.30.1. Contributions originales CC BY 4.0 ; les documents sources conservent leurs propres droits.",
+  "description": "200 décisions françaises de protection des données documentées dans la collecte Legiscope. Les régimes RGPD, cookies et règles nationales liées peuvent être inclus. Montants, sources, motifs et notes de recours conservés. Il ne s’agit pas d’un recensement national exhaustif. Étude et méthode : https://www.legiscope.com/blog/europe-data-protection-fines-per-capita.html ; version 2026.10.30.2. Contributions originales CC BY 4.0 ; les documents sources conservent leurs propres droits.",
   "license": "cc-by",
   "frequency": "unknown",
   "tags": [
@@ -14,19 +14,19 @@
       "title": "Décisions françaises CSV",
       "file": "fr-cases.csv",
       "format": "csv",
-      "url": "https://raw.githubusercontent.com/legiscope/gdpr-data-study/v2026.10.30.1/publication/data-gouv/fr-cases.csv"
+      "url": "https://raw.githubusercontent.com/legiscope/gdpr-data-study/v2026.10.30.2/publication/data-gouv/fr-cases.csv"
     },
     {
       "title": "Données et notes de couverture JSON",
       "file": "fr-data.json",
       "format": "json",
-      "url": "https://raw.githubusercontent.com/legiscope/gdpr-data-study/v2026.10.30.1/publication/data-gouv/fr-data.json"
+      "url": "https://raw.githubusercontent.com/legiscope/gdpr-data-study/v2026.10.30.2/publication/data-gouv/fr-data.json"
     },
     {
       "title": "Thèmes documentés",
       "file": "fr-themes.csv",
       "format": "csv",
-      "url": "https://raw.githubusercontent.com/legiscope/gdpr-data-study/v2026.10.30.1/publication/data-gouv/fr-themes.csv"
+      "url": "https://raw.githubusercontent.com/legiscope/gdpr-data-study/v2026.10.30.2/publication/data-gouv/fr-themes.csv"
     }
   ],
   "account_step": "Choose the actual Legiscope organisation in the platform; no organisation identifier is invented here.",

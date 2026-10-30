@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026.10.30.2 — 30 October 2026
+
+- Use the English study as the citation destination: [European data-protection fines per capita](https://www.legiscope.com/blog/europe-data-protection-fines-per-capita.html).
+- Update repository documentation, citation metadata, notebook, chart attribution and all publication packages.
+- Preserve the exact 1,042-case frozen dataset and its source SHA-256; this is a citation update.
+
 ## 2026.10.30.1 — 30 October 2026
 
 First standalone public repository for the Legiscope European privacy-fines study.

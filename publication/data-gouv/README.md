@@ -10,8 +10,8 @@
 
 Official guide: <https://guides.data.gouv.fr/jeux-de-donnees/publier-un-jeu-de-donnees>
 
-Study and source attribution: <https://www.legiscope.com/blog/amendes-rgpd-europe-comparaison-pays.html>
+Study and source attribution: <https://www.legiscope.com/blog/europe-data-protection-fines-per-capita.html>
 
-Exact release and licence scope: <https://github.com/legiscope/gdpr-data-study/tree/v2026.10.30.1>
+Exact release and licence scope: <https://github.com/legiscope/gdpr-data-study/tree/v2026.10.30.2>
 
 The French selection contains 200 documented decisions. It includes related data-protection regimes, not exclusively GDPR, and is not a complete national census. Themes are multi-label and must not multiply monetary totals.

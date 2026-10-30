@@ -4,9 +4,9 @@
 
 Open research by [Legiscope](https://www.legiscope.com/). Download the case records, inspect their official source links, reproduce the calculations and reuse the country extracts and charts.
 
-**[Read the study and explore the decisions →](https://www.legiscope.com/blog/amendes-rgpd-europe-comparaison-pays.html)**
+**[Read the study and explore the decisions →](https://www.legiscope.com/blog/europe-data-protection-fines-per-capita.html)**
 
-[Download this version](https://github.com/legiscope/gdpr-data-study/archive/refs/tags/v2026.10.30.1.zip) · [Methodology](docs/methodology.md) · [Data dictionary](docs/data-dictionary.md) · [Publication packages](publication/README.md) · [Cite this dataset](CITATION.cff)
+[Download this version](https://github.com/legiscope/gdpr-data-study/archive/refs/tags/v2026.10.30.2.zip) · [Methodology](docs/methodology.md) · [Data dictionary](docs/data-dictionary.md) · [Publication packages](publication/README.md) · [Cite this dataset](CITATION.cff)
 
 ## What the data covers
 
@@ -99,9 +99,9 @@ The [publication folder](publication/README.md) contains data.gouv.fr resources,
 
 Suggested attribution:
 
-> Legiscope, *European privacy fines: documented decisions and amounts per resident*, version 2026.10.30.1, collection as of 25 October 2026. [Study and methodology](https://www.legiscope.com/blog/amendes-rgpd-europe-comparaison-pays.html). Original contributions licensed CC BY 4.0. State any changes when reusing.
+> Legiscope, *European privacy fines: documented decisions and amounts per resident*, version 2026.10.30.2, collection as of 25 October 2026. [Study and methodology](https://www.legiscope.com/blog/europe-data-protection-fines-per-capita.html). Original contributions licensed CC BY 4.0. State any changes when reusing.
 
-Use the article URL when citing the study and the [versioned repository](https://github.com/legiscope/gdpr-data-study/tree/v2026.10.30.1) when identifying this exact data release. Machine-readable citation metadata is in [CITATION.cff](CITATION.cff).
+Use the article URL when citing the study and the [versioned repository](https://github.com/legiscope/gdpr-data-study/tree/v2026.10.30.2) when identifying this exact data release. Machine-readable citation metadata is in [CITATION.cff](CITATION.cff).
 
 ## Provenance, corrections and licences
 

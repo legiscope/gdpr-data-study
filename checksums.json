@@ -3,18 +3,18 @@
   "files": [
     {
       "path": ".zenodo.json",
-      "bytes": 1066,
-      "sha256": "2b7fdc361eba17a9aca3c858c0c8e871dd0c46312cdde40b60f040d39973de0d"
+      "bytes": 1072,
+      "sha256": "40c2f0b897e212ed8a1dcf6bf93cb578253cae60d33379ae28c2e40f9771f812"
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 839,
-      "sha256": "d06c51f013cdc667a1c6824f2ae10a619902fea0541643267bd8d095e4fc42cd"
+      "bytes": 1262,
+      "sha256": "afaf449febfdaa1770c224ce057918efe89ac0dde32b23f4affe0c6346f345b7"
     },
     {
       "path": "CITATION.cff",
-      "bytes": 1079,
-      "sha256": "fa0b2537c467f5d6c2c8b023e0ae7be68098a5969d2efe88e9b809d35ee0fcab"
+      "bytes": 1082,
+      "sha256": "d62bab1ea450b5baa9a19446af55912fed3097e6a68be51146dd82bbea3ecb32"
     },
     {
       "path": "LICENSE",
@@ -28,43 +28,43 @@
     },
     {
       "path": "LICENSING.md",
-      "bytes": 1376,
-      "sha256": "4859ef0998b961b6d06851772f44939ca498f0e0897fc87c342ce6330c6e4102"
+      "bytes": 1379,
+      "sha256": "ea47af7b4c409c04c3ee4c173c6839f0f0617bed49d54d0b39a818efc7fafa18"
     },
     {
       "path": "README.md",
-      "bytes": 7613,
-      "sha256": "6f0278157613a8026f4fc77ef191f9c8245a28e0fab5a50f1581954f89840769"
+      "bytes": 7619,
+      "sha256": "124e8d77c2c38ccf9f7a6b339147f01c4f3b024fdf2154e7d3eac8b6d155f574"
     },
     {
       "path": "charts/amount-coverage.png",
-      "bytes": 136572,
-      "sha256": "796d79ddf77ccb0169a6ef5359075f098aa8d235813f58ace7a72bf77357b1c3"
+      "bytes": 136510,
+      "sha256": "e9339f7a29e6636a50817ca05395d3ebe2cc6e10f61585680d81411c248c722a"
     },
     {
       "path": "charts/amount-coverage.svg",
-      "bytes": 15964,
-      "sha256": "bfe0e36795e96f32da90a9896772242b4c2b12d769ac01e88e707136546debd8"
+      "bytes": 15967,
+      "sha256": "42427d823d5fc6e03b65266d909b2dc501a30eb49c7ad1f8c3f1ff37ed2107d5"
     },
     {
       "path": "charts/amounts-per-resident.png",
-      "bytes": 162006,
-      "sha256": "0e604d15b1f6cab8e1db43910020d337b5558751784bda6f6803360014dc5b83"
+      "bytes": 161943,
+      "sha256": "ac89a979b3bc7ceb612f56b2b263017185dd3bfe9003f5e360dceebeca5a1739"
     },
     {
       "path": "charts/amounts-per-resident.svg",
-      "bytes": 16684,
-      "sha256": "3e690d814cdd002f0a83b64da5856fbd0492980062e3a3a44d78ba93ea129440"
+      "bytes": 16687,
+      "sha256": "da1cb8884870f24b3a0ffa809b71070a1efc4db1754e7bf7fb55a9086210312d"
     },
     {
       "path": "charts/france-themes.png",
-      "bytes": 202536,
-      "sha256": "88f4a0a0e799a5bdb184c5c59b46e9108e4f497f0dafb6cfb62e741a440f342a"
+      "bytes": 202474,
+      "sha256": "92513634cf8d77e19242ac53993dce503bb19cdeacd06ec4320993252d5847f6"
     },
     {
       "path": "charts/france-themes.svg",
-      "bytes": 16543,
-      "sha256": "2d8f29bae8923c573a0c96130442d76b5f9790abd55a059e9b610e20202070a8"
+      "bytes": 16546,
+      "sha256": "c8947a1191a22003b6a5024c19edc8961cde69b292aef2e4a30e9ed522263d71"
     },
     {
       "path": "data/case-themes.csv",
@@ -249,27 +249,27 @@
     {
       "path": "docs/methodology.md",
       "bytes": 5802,
-      "sha256": "1b83ab2d79ee27c5a2bd5370be3b5896a13bc91a26ead0500f0b2fdcb9eb4e4b"
+      "sha256": "f38970d31fa1ec254c829697b99a8e0f5cad4ed57994a4302b05ba7f8da46319"
     },
     {
       "path": "notebooks/study.ipynb",
-      "bytes": 8532,
-      "sha256": "4d704aa9eab8800e18bfafc5faf3e47fef520f46f89e7e83c060c936b0cc3f95"
+      "bytes": 8538,
+      "sha256": "042fa1cf5913a025edacb366892245512a5ae54bc6264381a5e14efa975cd8fb"
     },
     {
       "path": "provenance.json",
-      "bytes": 1057,
-      "sha256": "bb3c02589fb56849a517c6d387034e35cee56a3707ef60a803d36d734f40ac74"
+      "bytes": 1060,
+      "sha256": "a3022755125067067a4b9626f44236a1a7be18105085d8d863fff885d33babc1"
     },
     {
       "path": "publication/README.md",
-      "bytes": 3979,
-      "sha256": "e3757b5fa8ab20c17c31a9027ed3c3d1bfe1416f5dff30ec9c1ccf5fb05f77d2"
+      "bytes": 3985,
+      "sha256": "1a1eacc4c19bb42fdf6362c7b90575d4708b35601a0c7927b3fd71ce5a9a2cc3"
     },
     {
       "path": "publication/data-gouv/README.md",
-      "bytes": 1187,
-      "sha256": "149bb19dc5df1b6aa00f971864dcc1c197e88e5e829754771640bc56fc6752eb"
+      "bytes": 1190,
+      "sha256": "1a570b4f5515c41af45a73ac0190a5aff4ad2235ec07df21f6629bc9cbc5e697"
     },
     {
       "path": "publication/data-gouv/fr-cases.csv",
@@ -288,13 +288,13 @@
     },
     {
       "path": "publication/data-gouv/metadata.json",
-      "bytes": 1674,
-      "sha256": "a60f8aaf54404b4bbc50328f8ca818c187bffef7a0bb9db35362512af109966f"
+      "bytes": 1677,
+      "sha256": "3914cda7fd2ac074f01d894b73a87d502d74df4c315d5c282263810447a0617f"
     },
     {
       "path": "publication/datawrapper/README.md",
-      "bytes": 1220,
-      "sha256": "eda2e52dc55e497c69e2410708da4bb17f3bd56d8b9de39e2a6ffcf08c6984d3"
+      "bytes": 1223,
+      "sha256": "c75553ecea045b666759af2e80adfdf6b5a9e84249e0cf894e7714776cb17da0"
     },
     {
       "path": "publication/datawrapper/amounts-per-resident.csv",
@@ -303,8 +303,8 @@
     },
     {
       "path": "publication/datawrapper/chart-metadata.json",
-      "bytes": 655,
-      "sha256": "1c67d10c4239e3f23479d787925baf3bff2cd69a627bdd6bc56f82b7c961172d"
+      "bytes": 658,
+      "sha256": "54780d5719f78f5e5099f59f232ebd71894a76036fdf04661abacbf7f9431240"
     },
     {
       "path": "publication/datawrapper/france-themes.csv",
@@ -313,8 +313,8 @@
     },
     {
       "path": "publication/flourish/README.md",
-      "bytes": 876,
-      "sha256": "0648731bf4b7d86986ca2ece7d5e8f7c18420543ba4abd462c6293889c47d1a4"
+      "bytes": 879,
+      "sha256": "f6f8a18407ab176a22e6ad1c0bdf3ecb07c1afe39783ef4d44b2025f12415eb3"
     },
     {
       "path": "publication/flourish/amounts-per-resident.csv",
@@ -328,8 +328,8 @@
     },
     {
       "path": "publication/hugging-face/CITATION.cff",
-      "bytes": 1079,
-      "sha256": "fa0b2537c467f5d6c2c8b023e0ae7be68098a5969d2efe88e9b809d35ee0fcab"
+      "bytes": 1082,
+      "sha256": "d62bab1ea450b5baa9a19446af55912fed3097e6a68be51146dd82bbea3ecb32"
     },
     {
       "path": "publication/hugging-face/LICENSE",
@@ -343,13 +343,13 @@
     },
     {
       "path": "publication/hugging-face/LICENSING.md",
-      "bytes": 1376,
-      "sha256": "4859ef0998b961b6d06851772f44939ca498f0e0897fc87c342ce6330c6e4102"
+      "bytes": 1379,
+      "sha256": "ea47af7b4c409c04c3ee4c173c6839f0f0617bed49d54d0b39a818efc7fafa18"
     },
     {
       "path": "publication/hugging-face/README.md",
-      "bytes": 2170,
-      "sha256": "8f15922479c1168a0a5850e8660dcb555913b18464c70b59e601778c23079e12"
+      "bytes": 2176,
+      "sha256": "04ee868476e3e01e034b032f020ee71e9fc8159087367c650b4b00556dd46c0a"
     },
     {
       "path": "publication/hugging-face/cases.csv",
@@ -378,8 +378,8 @@
     },
     {
       "path": "publication/kaggle/CITATION.cff",
-      "bytes": 1079,
-      "sha256": "fa0b2537c467f5d6c2c8b023e0ae7be68098a5969d2efe88e9b809d35ee0fcab"
+      "bytes": 1082,
+      "sha256": "d62bab1ea450b5baa9a19446af55912fed3097e6a68be51146dd82bbea3ecb32"
     },
     {
       "path": "publication/kaggle/LICENSE",
@@ -393,13 +393,13 @@
     },
     {
       "path": "publication/kaggle/LICENSING.md",
-      "bytes": 1376,
-      "sha256": "4859ef0998b961b6d06851772f44939ca498f0e0897fc87c342ce6330c6e4102"
+      "bytes": 1379,
+      "sha256": "ea47af7b4c409c04c3ee4c173c6839f0f0617bed49d54d0b39a818efc7fafa18"
     },
     {
       "path": "publication/kaggle/README.md",
-      "bytes": 1186,
-      "sha256": "0622425e4b5fb0950581830752f5b94204caa49601929887975da9e8a8bc6961"
+      "bytes": 1189,
+      "sha256": "fc7369dbf39eff755f0e229bb922f84a5e40dfc209793f8ad87cf73b88181ecf"
     },
     {
       "path": "publication/kaggle/cases.csv",
@@ -413,8 +413,8 @@
     },
     {
       "path": "publication/kaggle/dataset-metadata.template.json",
-      "bytes": 607,
-      "sha256": "932d89c3ebff5756bd5a7aba9d97558b5c3373b7ade599aa31b24feb111a4e33"
+      "bytes": 610,
+      "sha256": "05fcefdba61ce6128d75eaf60f0f45325bc800dbd15bee7adabbaa2df907e300"
     },
     {
       "path": "publication/kaggle/dataset.json",
@@ -428,8 +428,8 @@
     },
     {
       "path": "publication/kaggle/study.ipynb",
-      "bytes": 8532,
-      "sha256": "4d704aa9eab8800e18bfafc5faf3e47fef520f46f89e7e83c060c936b0cc3f95"
+      "bytes": 8538,
+      "sha256": "042fa1cf5913a025edacb366892245512a5ae54bc6264381a5e14efa975cd8fb"
     },
     {
       "path": "publication/kaggle/themes.csv",
@@ -438,8 +438,8 @@
     },
     {
       "path": "publication/tableau/README.md",
-      "bytes": 990,
-      "sha256": "9f3f72b4336fe44878c4eac1a2287abea6d8af1971dce3859f1dd06f9de24ddf"
+      "bytes": 993,
+      "sha256": "56e64313dbdffe88ca1f8da9a99c46266512967320f055178e8cbcbc1c9b8bfa"
     },
     {
       "path": "publication/tableau/case-themes.csv",
@@ -458,13 +458,13 @@
     },
     {
       "path": "publication/zenodo/README.md",
-      "bytes": 1096,
-      "sha256": "a7a0c71af231d78e48485a08cd167fd7ffbdfa6dd0efc9f08e8acd5f40704ddd"
+      "bytes": 1099,
+      "sha256": "4c32556106b634c277a8a0c1173b649fcaff8a794d506475eed5e6587dc5a29a"
     },
     {
       "path": "publication/zenodo/metadata.json",
-      "bytes": 1136,
-      "sha256": "4ce591fb5f56d75329fa8fbf89c25481c2bb37ec39124fd797faa54962d0459e"
+      "bytes": 1142,
+      "sha256": "4c0fc577ee94e8751b8e8ca6a38c5c9885c7562c43741c40a688ccb3c5545377"
     },
     {
       "path": "requirements-charts.txt",
@@ -473,13 +473,13 @@
     },
     {
       "path": "scripts/build.py",
-      "bytes": 31716,
-      "sha256": "ab8436d478386d5d99da21afcc1eeebc5897d9470ec9f10025e32f1590f7074a"
+      "bytes": 31719,
+      "sha256": "77495752a930627e9155b0552002e7a63ef1a5316b46fcaed815d2082d203dbc"
     },
     {
       "path": "scripts/charts.py",
-      "bytes": 5375,
-      "sha256": "24c2f5cac2c4bb33928c3c8fb763912b2cd38f0a8ac7148c8b080974f961beae"
+      "bytes": 5378,
+      "sha256": "093dce01d3585ae19c4f1c7b468d096bc099ff6f2948ffab8b2726f65b7503f8"
     },
     {
       "path": "source/audit-2026-10-25.fr.md",

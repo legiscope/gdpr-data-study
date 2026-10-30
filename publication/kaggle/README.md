@@ -10,6 +10,6 @@ The case table and country-summary table are different statistical units. Do not
 
 Metadata reference: <https://github.com/Kaggle/kaggle-cli/blob/main/docs/datasets_metadata.md>
 
-Study: <https://www.legiscope.com/blog/amendes-rgpd-europe-comparaison-pays.html>
+Study: <https://www.legiscope.com/blog/europe-data-protection-fines-per-capita.html>
 
-Release: <https://github.com/legiscope/gdpr-data-study/tree/v2026.10.30.1>
+Release: <https://github.com/legiscope/gdpr-data-study/tree/v2026.10.30.2>

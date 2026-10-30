@@ -13,12 +13,12 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = json.loads((ROOT / 'data/dataset.json').read_text(encoding='utf-8'))
 NAMES = dict(FR='France', DE='Germany', ES='Spain', LT='Lithuania', PL='Poland',
              LV='Latvia', IT='Italy', EE='Estonia', LU='Luxembourg', GR='Greece')
-SOURCE = 'https://www.legiscope.com/blog/amendes-rgpd-europe-comparaison-pays.html'
+SOURCE = 'https://www.legiscope.com/blog/europe-data-protection-fines-per-capita.html'
 BLUE, INK, GREY = '#2563eb', '#172033', '#dce2ea'
 plt.rcParams.update({'font.family': 'DejaVu Sans', 'font.size': 11, 'text.color': INK,
     'axes.labelcolor': INK, 'xtick.color': INK, 'ytick.color': INK,
     'axes.spines.top': False, 'axes.spines.right': False, 'axes.spines.left': False,
-    'axes.edgecolor': GREY, 'svg.fonttype': 'none', 'svg.hashsalt': 'legiscope-2026.10.30.1'})
+    'axes.edgecolor': GREY, 'svg.fonttype': 'none', 'svg.hashsalt': 'legiscope-2026.10.30.2'})
 
 
 def frame(title, subtitle, footnote):
@@ -28,7 +28,7 @@ def frame(title, subtitle, footnote):
     figure.text(.055, .89, title, fontsize=22, weight='bold')
     figure.text(.055, .85, subtitle, fontsize=10.5)
     figure.text(.055, .105, footnote, fontsize=9, linespacing=1.65)
-    figure.text(.055, .045, 'Source: Legiscope study · release 2026.10.30.1 · collection as of 25 October 2026',
+    figure.text(.055, .045, 'Source: Legiscope study · release 2026.10.30.2 · collection as of 25 October 2026',
                  fontsize=9, color=BLUE, url=SOURCE)
     axis.set_axisbelow(True)
     axis.grid(axis='x', color='#edf0f4')

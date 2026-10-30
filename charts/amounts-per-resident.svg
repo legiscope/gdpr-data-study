@@ -41,16 +41,16 @@ z
      <g id="line2d_1">
       <path d="M 164.16 466.416
 L 164.16 118.08
-" clip-path="url(#p72c36a8fa5)" style="fill: none; stroke: #edf0f4; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p2b4f1e9491)" style="fill: none; stroke: #edf0f4; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_2">
       <defs>
-       <path id="m35afeb93c4" d="M 0 0
+       <path id="mb72527b020" d="M 0 0
 L 0 3.5
 " style="stroke: #172033; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m35afeb93c4" x="164.16" y="466.416" style="fill: #172033; stroke: #172033; stroke-width: 0.8"/>
+       <use xlink:href="#mb72527b020" x="164.16" y="466.416" style="fill: #172033; stroke: #172033; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
@@ -61,11 +61,11 @@ L 0 3.5
      <g id="line2d_3">
       <path d="M 259.000999 466.416
 L 259.000999 118.08
-" clip-path="url(#p72c36a8fa5)" style="fill: none; stroke: #edf0f4; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p2b4f1e9491)" style="fill: none; stroke: #edf0f4; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m35afeb93c4" x="259.000999" y="466.416" style="fill: #172033; stroke: #172033; stroke-width: 0.8"/>
+       <use xlink:href="#mb72527b020" x="259.000999" y="466.416" style="fill: #172033; stroke: #172033; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
@@ -76,11 +76,11 @@ L 259.000999 118.08
      <g id="line2d_5">
       <path d="M 353.841998 466.416
 L 353.841998 118.08
-" clip-path="url(#p72c36a8fa5)" style="fill: none; stroke: #edf0f4; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p2b4f1e9491)" style="fill: none; stroke: #edf0f4; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_6">
       <g>
-       <use xlink:href="#m35afeb93c4" x="353.841998" y="466.416" style="fill: #172033; stroke: #172033; stroke-width: 0.8"/>
+       <use xlink:href="#mb72527b020" x="353.841998" y="466.416" style="fill: #172033; stroke: #172033; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
@@ -91,11 +91,11 @@ L 353.841998 118.08
      <g id="line2d_7">
       <path d="M 448.682997 466.416
 L 448.682997 118.08
-" clip-path="url(#p72c36a8fa5)" style="fill: none; stroke: #edf0f4; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p2b4f1e9491)" style="fill: none; stroke: #edf0f4; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_8">
       <g>
-       <use xlink:href="#m35afeb93c4" x="448.682997" y="466.416" style="fill: #172033; stroke: #172033; stroke-width: 0.8"/>
+       <use xlink:href="#mb72527b020" x="448.682997" y="466.416" style="fill: #172033; stroke: #172033; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
@@ -106,11 +106,11 @@ L 448.682997 118.08
      <g id="line2d_9">
       <path d="M 543.523996 466.416
 L 543.523996 118.08
-" clip-path="url(#p72c36a8fa5)" style="fill: none; stroke: #edf0f4; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p2b4f1e9491)" style="fill: none; stroke: #edf0f4; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_10">
       <g>
-       <use xlink:href="#m35afeb93c4" x="543.523996" y="466.416" style="fill: #172033; stroke: #172033; stroke-width: 0.8"/>
+       <use xlink:href="#mb72527b020" x="543.523996" y="466.416" style="fill: #172033; stroke: #172033; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
@@ -121,11 +121,11 @@ L 543.523996 118.08
      <g id="line2d_11">
       <path d="M 638.364995 466.416
 L 638.364995 118.08
-" clip-path="url(#p72c36a8fa5)" style="fill: none; stroke: #edf0f4; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p2b4f1e9491)" style="fill: none; stroke: #edf0f4; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_12">
       <g>
-       <use xlink:href="#m35afeb93c4" x="638.364995" y="466.416" style="fill: #172033; stroke: #172033; stroke-width: 0.8"/>
+       <use xlink:href="#mb72527b020" x="638.364995" y="466.416" style="fill: #172033; stroke: #172033; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_6">
@@ -136,11 +136,11 @@ L 638.364995 118.08
      <g id="line2d_13">
       <path d="M 733.205994 466.416
 L 733.205994 118.08
-" clip-path="url(#p72c36a8fa5)" style="fill: none; stroke: #edf0f4; stroke-width: 0.8; stroke-linecap: square"/>
+" clip-path="url(#p2b4f1e9491)" style="fill: none; stroke: #edf0f4; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
      <g id="line2d_14">
       <g>
-       <use xlink:href="#m35afeb93c4" x="733.205994" y="466.416" style="fill: #172033; stroke: #172033; stroke-width: 0.8"/>
+       <use xlink:href="#mb72527b020" x="733.205994" y="466.416" style="fill: #172033; stroke: #172033; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_7">
@@ -219,7 +219,7 @@ L 268.881017 133.913455
 L 268.881017 154.630124
 L 164.16 154.630124
 z
-" clip-path="url(#p72c36a8fa5)" style="fill: #2563eb"/>
+" clip-path="url(#p2b4f1e9491)" style="fill: #2563eb"/>
    </g>
    <g id="patch_4">
     <path d="M 164.16 166.797057
@@ -227,7 +227,7 @@ L 618.232993 166.797057
 L 618.232993 187.513726
 L 164.16 187.513726
 z
-" clip-path="url(#p72c36a8fa5)" style="fill: #2563eb"/>
+" clip-path="url(#p2b4f1e9491)" style="fill: #2563eb"/>
    </g>
    <g id="patch_5">
     <path d="M 164.16 199.680659
@@ -235,7 +235,7 @@ L 193.036088 199.680659
 L 193.036088 220.397329
 L 164.16 220.397329
 z
-" clip-path="url(#p72c36a8fa5)" style="fill: #2563eb"/>
+" clip-path="url(#p2b4f1e9491)" style="fill: #2563eb"/>
    </g>
    <g id="patch_6">
     <path d="M 164.16 232.564262
@@ -243,7 +243,7 @@ L 335.239927 232.564262
 L 335.239927 253.280931
 L 164.16 253.280931
 z
-" clip-path="url(#p72c36a8fa5)" style="fill: #2563eb"/>
+" clip-path="url(#p2b4f1e9491)" style="fill: #2563eb"/>
    </g>
    <g id="patch_7">
     <path d="M 164.16 265.447864
@@ -251,7 +251,7 @@ L 194.099527 265.447864
 L 194.099527 286.164534
 L 164.16 286.164534
 z
-" clip-path="url(#p72c36a8fa5)" style="fill: #2563eb"/>
+" clip-path="url(#p2b4f1e9491)" style="fill: #2563eb"/>
    </g>
    <g id="patch_8">
     <path d="M 164.16 298.331466
@@ -259,7 +259,7 @@ L 211.271162 298.331466
 L 211.271162 319.048136
 L 164.16 319.048136
 z
-" clip-path="url(#p72c36a8fa5)" style="fill: #2563eb"/>
+" clip-path="url(#p2b4f1e9491)" style="fill: #2563eb"/>
    </g>
    <g id="patch_9">
     <path d="M 164.16 331.215069
@@ -267,7 +267,7 @@ L 217.746134 331.215069
 L 217.746134 351.931738
 L 164.16 351.931738
 z
-" clip-path="url(#p72c36a8fa5)" style="fill: #2563eb"/>
+" clip-path="url(#p2b4f1e9491)" style="fill: #2563eb"/>
    </g>
    <g id="patch_10">
     <path d="M 164.16 364.098671
@@ -275,7 +275,7 @@ L 203.535488 364.098671
 L 203.535488 384.815341
 L 164.16 384.815341
 z
-" clip-path="url(#p72c36a8fa5)" style="fill: #2563eb"/>
+" clip-path="url(#p2b4f1e9491)" style="fill: #2563eb"/>
    </g>
    <g id="patch_11">
     <path d="M 164.16 396.982274
@@ -283,7 +283,7 @@ L 189.168195 396.982274
 L 189.168195 417.698943
 L 164.16 417.698943
 z
-" clip-path="url(#p72c36a8fa5)" style="fill: #2563eb"/>
+" clip-path="url(#p2b4f1e9491)" style="fill: #2563eb"/>
    </g>
    <g id="patch_12">
     <path d="M 164.16 429.865876
@@ -291,7 +291,7 @@ L 180.988028 429.865876
 L 180.988028 450.582545
 L 164.16 450.582545
 z
-" clip-path="url(#p72c36a8fa5)" style="fill: #2563eb"/>
+" clip-path="url(#p2b4f1e9491)" style="fill: #2563eb"/>
    </g>
    <g id="patch_13">
     <path d="M 164.16 466.416
@@ -373,13 +373,13 @@ L 786.24 466.416
    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #172033" transform="translate(47.52 528.408)">Not an annual rate, enforcement-severity ranking or amount paid by residents. Original contributions: CC BY 4.0.</text>
   </g>
   <g id="text_43">
-   <a xlink:href="https://www.legiscope.com/blog/amendes-rgpd-europe-comparaison-pays.html">
-    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2563eb" x="47.52" y="563.832" transform="rotate(-0 47.52 563.832)">Source: Legiscope study · release 2026.10.30.1 · collection as of 25 October 2026</text>
+   <a xlink:href="https://www.legiscope.com/blog/europe-data-protection-fines-per-capita.html">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2563eb" x="47.52" y="563.832" transform="rotate(-0 47.52 563.832)">Source: Legiscope study · release 2026.10.30.2 · collection as of 25 October 2026</text>
    </a>
   </g>
  </g>
  <defs>
-  <clipPath id="p72c36a8fa5">
+  <clipPath id="p2b4f1e9491">
    <rect x="164.16" y="118.08" width="622.08" height="348.336"/>
   </clipPath>
  </defs>

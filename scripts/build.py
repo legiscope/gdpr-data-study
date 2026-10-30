@@ -14,7 +14,7 @@ from pathlib import Path
 from urllib.parse import urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
-STUDY = 'https://www.legiscope.com/blog/amendes-rgpd-europe-comparaison-pays.html'
+STUDY = 'https://www.legiscope.com/blog/europe-data-protection-fines-per-capita.html'
 REPOSITORY = 'https://github.com/legiscope/gdpr-data-study'
 NAMES = dict(FR='France', DE='Germany', ES='Spain', LT='Lithuania', PL='Poland',
              LV='Latvia', IT='Italy', EE='Estonia', LU='Luxembourg', GR='Greece')

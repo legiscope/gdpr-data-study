@@ -1,6 +1,6 @@
 # Methodology and interpretation
 
-Study: [Amendes de protection des données en Europe](https://www.legiscope.com/blog/amendes-rgpd-europe-comparaison-pays.html). Release: **2026.10.30.1**. Collection as of **25 October 2026**, with sources rechecked and corrections published on **30 October 2026**. Population reference: **1 January 2026**.
+Study: [European data-protection fines per capita](https://www.legiscope.com/blog/europe-data-protection-fines-per-capita.html). Release: **2026.10.30.2**. Collection as of **25 October 2026**, with sources rechecked and corrections published on **30 October 2026**. Population reference: **1 January 2026**.
 
 ## Observation and selection
 

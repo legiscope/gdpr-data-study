@@ -1,6 +1,6 @@
 # Publish useful resources from this release
 
-The [study](https://www.legiscope.com/blog/amendes-rgpd-europe-comparaison-pays.html) is the public explanation and citation destination. This repository supplies its versioned data and reproduction files. Use both links where helpful, and retain the amount-coverage and national-source notes.
+The [study](https://www.legiscope.com/blog/europe-data-protection-fines-per-capita.html) is the public explanation and citation destination. This repository supplies its versioned data and reproduction files. Use both links where helpful, and retain the amount-coverage and national-source notes.
 
 ## First publication batch
 
@@ -27,11 +27,11 @@ The prior 20-route distribution project also considered Postman, CodePen, DEV, M
 
 Suggested short source label: **Legiscope — European privacy fines study**.
 
-Study URL: <https://www.legiscope.com/blog/amendes-rgpd-europe-comparaison-pays.html>
+Study URL: <https://www.legiscope.com/blog/europe-data-protection-fines-per-capita.html>
 
-Exact release: <https://github.com/legiscope/gdpr-data-study/tree/v2026.10.30.1>
+Exact release: <https://github.com/legiscope/gdpr-data-study/tree/v2026.10.30.2>
 
-Attribution should identify version **2026.10.30.1**, collection as of **25 October 2026**, the relevant country scope, original CC BY 4.0 contributions and any modifications. The repository's scoped licensing does not relicense third-party sources.
+Attribution should identify version **2026.10.30.2**, collection as of **25 October 2026**, the relevant country scope, original CC BY 4.0 contributions and any modifications. The repository's scoped licensing does not relicense third-party sources.
 
 ## Check each actual placement
 

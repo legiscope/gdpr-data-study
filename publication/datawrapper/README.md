@@ -10,6 +10,6 @@ Set the source name and source URL in **Visualize → Annotate**, then publish a
 
 Official guide: <https://www.datawrapper.de/academy/how-to-insert-links>
 
-Study: <https://www.legiscope.com/blog/amendes-rgpd-europe-comparaison-pays.html>
+Study: <https://www.legiscope.com/blog/europe-data-protection-fines-per-capita.html>
 
-Reusable rendered figures and versioned source: <https://github.com/legiscope/gdpr-data-study/tree/v2026.10.30.1/charts>
+Reusable rendered figures and versioned source: <https://github.com/legiscope/gdpr-data-study/tree/v2026.10.30.2/charts>

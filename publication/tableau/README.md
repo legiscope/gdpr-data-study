@@ -6,6 +6,6 @@ Keep original currencies, unknown amounts and appeal/source information visible 
 
 Build and review a native workbook, then publish it under the actual authorized Tableau Public account. These files are CSV inputs, not an already-verified Tableau workbook.
 
-Study and source link: <https://www.legiscope.com/blog/amendes-rgpd-europe-comparaison-pays.html>
+Study and source link: <https://www.legiscope.com/blog/europe-data-protection-fines-per-capita.html>
 
-Exact release and scoped licences: <https://github.com/legiscope/gdpr-data-study/tree/v2026.10.30.1>
+Exact release and scoped licences: <https://github.com/legiscope/gdpr-data-study/tree/v2026.10.30.2>

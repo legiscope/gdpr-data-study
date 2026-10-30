@@ -6,11 +6,11 @@
       "name": "Legiscope"
     }
   ],
-  "version": "2026.10.30.1",
+  "version": "2026.10.30.2",
   "publication_date": "2026-10-30",
   "access_right": "open",
   "license": "cc-by-4.0",
-  "description": "Frozen collection of 1042 documented decisions across ten countries. Collection as of 2026-10-25; population on 1 January 2026. Unequal periods, mixed legal regimes, missing amounts and recorded appeal stages retained. Not a national census or enforcement-risk ranking. Study: https://www.legiscope.com/blog/amendes-rgpd-europe-comparaison-pays.html. CC BY 4.0 covers original Legiscope data/documentation; utility code is MIT and third-party source rights remain reserved.",
+  "description": "Frozen collection of 1042 documented decisions across ten countries. Collection as of 2026-10-25; population on 1 January 2026. Unequal periods, mixed legal regimes, missing amounts and recorded appeal stages retained. Not a national census or enforcement-risk ranking. Study: https://www.legiscope.com/blog/europe-data-protection-fines-per-capita.html. CC BY 4.0 covers original Legiscope data/documentation; utility code is MIT and third-party source rights remain reserved.",
   "keywords": [
     "privacy",
     "GDPR",
@@ -19,7 +19,7 @@
   ],
   "related_identifiers": [
     {
-      "identifier": "https://www.legiscope.com/blog/amendes-rgpd-europe-comparaison-pays.html",
+      "identifier": "https://www.legiscope.com/blog/europe-data-protection-fines-per-capita.html",
       "relation": "isSupplementTo",
       "scheme": "url"
     }

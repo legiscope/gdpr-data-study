@@ -2,9 +2,9 @@
   "title": "Documented privacy-fine amounts per resident",
   "description": "Selected published decisions; unequal periods, coverage and legal regimes.",
   "source_name": "Legiscope — documented European privacy decisions",
-  "source_url": "https://www.legiscope.com/blog/amendes-rgpd-europe-comparaison-pays.html",
+  "source_url": "https://www.legiscope.com/blog/europe-data-protection-fines-per-capita.html",
   "byline": "Legiscope",
-  "release_version": "2026.10.30.1",
+  "release_version": "2026.10.30.2",
   "notes": "Population on 1 January 2026. Known EUR amounts only. Not an annual rate or a ranking of enforcement severity. Retain known/unknown case counts.",
   "native_status": "CSV and metadata prepared; chart must be imported, reviewed and published in the platform."
 }
