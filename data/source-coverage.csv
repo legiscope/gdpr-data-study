@@ -1,0 +1,30 @@
+﻿country_code,source_level,case_count,known_amount_count,unknown_amount_count
+FR,official_authority_summary,165,165,0
+FR,operative_provisions_checked,35,35,0
+DE,official_authority_summary,102,43,59
+ES,official_full_decision_operative_provisions_reviewed,134,134,0
+LT,court_fulltext,4,4,0
+LT,court_text_republication,1,1,0
+LT,fulltext,9,9,0
+LT,official_aggregate_case_description,1,1,0
+LT,official_annual_case_description,1,1,0
+LT,official_summary,23,20,3
+LT,official_summary_with_court_verification,1,1,0
+PL,fulltext,114,109,5
+PL,official_annual_report,5,5,0
+PL,official_annual_report_and_court,1,1,0
+PL,official_press_release,1,1,0
+PL,official_summary,20,19,1
+LV,official_administrative_appeal_decision,10,10,0
+LV,official_authority_summary,2,2,0
+LV,official_decision,26,25,1
+IT,Communiqué et newsletter officiels du Garante pour le montant; décision officielle partiellement occultée,2,2,0
+IT,"Décision officielle du Garante, dispositif pécuniaire occulté",7,0,7
+IT,Newsletter officielle du Garante pour le montant; décision officielle partiellement occultée,1,1,0
+IT,Newsletter officielle du Garante pour le montant; notice de décision retirée,1,1,0
+IT,"Texte intégral officiel du Garante, dispositif",188,187,1
+IT,"Texte intégral officiel du Garante, dispositif et note de statut judiciaire",1,1,0
+EE,official_authority_notice_and_court_order_copy,1,1,0
+EE,official_full_decision,1,1,0
+LU,Texte intégral de la décision CNPD (dispositif),55,55,0
+GR,operative_provisions_checked,130,130,0

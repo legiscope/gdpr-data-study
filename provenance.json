@@ -1,0 +1,21 @@
+{
+  "release_version": "2026.10.30.1",
+  "release_tag": "v2026.10.30.1",
+  "prepared_on": "2026-10-30",
+  "dataset_version": "2026-10-30-source-audit",
+  "data_as_of": "2026-10-25",
+  "population_date": "2026-01-01",
+  "study_url": "https://www.legiscope.com/blog/amendes-rgpd-europe-comparaison-pays.html",
+  "dataset_url": "https://www.legiscope.com/resources/europe-fines/dataset.json",
+  "repository_url": "https://github.com/legiscope/gdpr-data-study",
+  "source_commit": "40fd49adabadd50571b25a23f1559cae3b01d135",
+  "source_path": "frontend/public/resources/europe-fines/dataset.json",
+  "snapshot_sha256": "058dc6a6bcb28be6f6af95e99e701c24c2395848324256ad32e6e37e42b536c2",
+  "snapshot_bytes": 1975170,
+  "published_snapshot_checked_on": "2026-10-30",
+  "published_snapshot_match": true,
+  "case_count": 1042,
+  "country_count": 10,
+  "basis": "Byte-identical snapshot of the publicly served dataset. Exports reproduce this version; source collection and legal review are not rerun by the release builder.",
+  "sources_rechecked_on": "2026-10-30"
+}

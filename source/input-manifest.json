@@ -1,0 +1,62 @@
+[
+  {
+    "path": "frontend/public/resources/cnil/dataset.json",
+    "sha256": "a42756cc696e1a90587376c2999f8287154c4bd0cafe69047a43f183109ee8c0"
+  },
+  {
+    "path": "tools/europe-fines/audits/2026-10-25/gdpr200-GR-reaudit.json",
+    "sha256": "b99f6afa67af78baf1d3e4b6f2431406e38458aa1afec40d0a3753269ebab4f6"
+  },
+  {
+    "path": "tools/europe-fines/inputs/DE.json",
+    "sha256": "74d7505338a91dfa1cb10b831c838abb1bc32c4d2a40f3b2f7ebfe055fc9d0b2"
+  },
+  {
+    "path": "tools/europe-fines/inputs/EE.json",
+    "sha256": "e1032b12ef7be21d7f926b1ef1d3d3d03c78f748249aee5038083923ec761817"
+  },
+  {
+    "path": "tools/europe-fines/inputs/ES.json",
+    "sha256": "97a5dd6d229c1fd818d68e75851c55eca4f75d54bec32db9612f60680ffc16bf"
+  },
+  {
+    "path": "tools/europe-fines/inputs/FR-reassessment.json",
+    "sha256": "ef1a1789e61f19a667040e4f206e58d70275bbda9754e9637369b6f1c6b3b690"
+  },
+  {
+    "path": "tools/europe-fines/inputs/GR.json",
+    "sha256": "dce7f45c56af48c714ba668f36a6acf8bd4d7bc6a457af2e6302e0b22625e0eb"
+  },
+  {
+    "path": "tools/europe-fines/inputs/IT.json",
+    "sha256": "1be6d37b03b91917045df04b055d2ad7b6bc2e6c60468c0bd981234a3f937639"
+  },
+  {
+    "path": "tools/europe-fines/inputs/LT.json",
+    "sha256": "27dcd0c9fee6949523040ddc01c049fb4c38bd1962e1bbd23f75661a233711a5"
+  },
+  {
+    "path": "tools/europe-fines/inputs/LU.json",
+    "sha256": "03cc80b53057ec85be4ac66d28ef36ccd667b35143c8464079c36a35f0195c21"
+  },
+  {
+    "path": "tools/europe-fines/inputs/LV.json",
+    "sha256": "5883cd683af87bed6c60683b12c4a4a362f1b62902e23d8d2e454d286a190473"
+  },
+  {
+    "path": "tools/europe-fines/inputs/PL.json",
+    "sha256": "71ffb0ee8f40f589f70712b67c980c2fe833f0441b9478d83dcffe3d1190185f"
+  },
+  {
+    "path": "tools/europe-fines/inputs/ecb-pln-eur-2019-2026.csv",
+    "sha256": "462ef3e10af98aa4f7950f0a4efa47054c25f83af9a33b1e7c750fee4a02d391"
+  },
+  {
+    "path": "tools/europe-fines/inputs/population-2026.json",
+    "sha256": "504cd28def08a3d439026d9c85688b200f2003f1fa9a7ca7bb712c25a591ed25"
+  },
+  {
+    "path": "tools/europe-fines/inputs/source-manifest.json",
+    "sha256": "c59675d86088964f1beb2b7373675712b50a40916c65874b7870473f981f8b07"
+  }
+]

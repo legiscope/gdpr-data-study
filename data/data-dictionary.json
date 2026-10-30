@@ -1,0 +1,499 @@
+[
+  {
+    "field": "id",
+    "types": [
+      "str"
+    ],
+    "absent_count": 0,
+    "null_count": 0,
+    "description": "Stable case identifier in this collection."
+  },
+  {
+    "field": "country_code",
+    "types": [
+      "str"
+    ],
+    "absent_count": 0,
+    "null_count": 0,
+    "description": "Two-letter country code; GR denotes Greece."
+  },
+  {
+    "field": "authority",
+    "types": [
+      "str"
+    ],
+    "absent_count": 0,
+    "null_count": 0,
+    "description": "Authority or court identified in the source record."
+  },
+  {
+    "field": "date",
+    "types": [
+      "str"
+    ],
+    "absent_count": 0,
+    "null_count": 114,
+    "description": "Recorded date; interpret together with date_kind, not as an exact decision date by default."
+  },
+  {
+    "field": "date_kind",
+    "types": [
+      "str"
+    ],
+    "absent_count": 0,
+    "null_count": 11,
+    "description": "Source-specific description of the date precision and meaning."
+  },
+  {
+    "field": "organisation",
+    "types": [
+      "str"
+    ],
+    "absent_count": 0,
+    "null_count": 135,
+    "description": "Organization or source-provided anonymized case description."
+  },
+  {
+    "field": "decision_reference",
+    "types": [
+      "str"
+    ],
+    "absent_count": 0,
+    "null_count": 323,
+    "description": "Reference as recorded or normalized in the source collection."
+  },
+  {
+    "field": "amount_original",
+    "types": [
+      "float",
+      "int"
+    ],
+    "absent_count": 0,
+    "null_count": 69,
+    "description": "Original recorded amount in currency; may be null."
+  },
+  {
+    "field": "currency",
+    "types": [
+      "str"
+    ],
+    "absent_count": 0,
+    "null_count": 0,
+    "description": "Currency of amount_original; EUR and PLN occur in this snapshot."
+  },
+  {
+    "field": "amount_status",
+    "types": [
+      "str"
+    ],
+    "absent_count": 281,
+    "null_count": 0,
+    "description": "Source-specific description of the amount stage or availability."
+  },
+  {
+    "field": "source_url",
+    "types": [
+      "str"
+    ],
+    "absent_count": 0,
+    "null_count": 0,
+    "description": "Main cited source URL."
+  },
+  {
+    "field": "decision_url",
+    "types": [
+      "str"
+    ],
+    "absent_count": 542,
+    "null_count": 165,
+    "description": "Direct decision document URL where recorded."
+  },
+  {
+    "field": "source_level",
+    "types": [
+      "str"
+    ],
+    "absent_count": 0,
+    "null_count": 0,
+    "description": "Original source/review-depth label; vocabularies differ between countries."
+  },
+  {
+    "field": "summary_fr",
+    "types": [
+      "str"
+    ],
+    "absent_count": 0,
+    "null_count": 0,
+    "description": "French-language authored summary retained from the published snapshot."
+  },
+  {
+    "field": "themes",
+    "types": [
+      "list"
+    ],
+    "absent_count": 0,
+    "null_count": 0,
+    "description": "Zero or more common theme IDs; an empty array need not mean no findings."
+  },
+  {
+    "field": "evidence",
+    "types": [
+      "list"
+    ],
+    "absent_count": 0,
+    "null_count": 0,
+    "description": "Recorded finding paraphrases and source references, with source-specific structure."
+  },
+  {
+    "field": "appeal_note",
+    "types": [
+      "str"
+    ],
+    "absent_count": 267,
+    "null_count": 30,
+    "description": "Recorded appeal or payment qualification; not an exhaustive current appeal survey."
+  },
+  {
+    "field": "fine_count",
+    "types": [
+      "int"
+    ],
+    "absent_count": 0,
+    "null_count": 174,
+    "description": "Recorded number of fine components; do not substitute for the decision count."
+  },
+  {
+    "field": "amount_eur",
+    "types": [
+      "float"
+    ],
+    "absent_count": 0,
+    "null_count": 77,
+    "description": "Retained EUR amount used in this snapshot; null means no attributable convertible amount."
+  },
+  {
+    "field": "amount_source_url",
+    "types": [
+      "str"
+    ],
+    "absent_count": 536,
+    "null_count": 0,
+    "description": "Additional source for the monetary amount."
+  },
+  {
+    "field": "scope_classification",
+    "types": [
+      "str"
+    ],
+    "absent_count": 865,
+    "null_count": 0,
+    "description": "Recorded classification of the legal scope."
+  },
+  {
+    "field": "legal_basis_verified",
+    "types": [
+      "bool"
+    ],
+    "absent_count": 810,
+    "null_count": 0,
+    "description": "Recorded verification flag; absence does not establish legal basis."
+  },
+  {
+    "field": "scope_source_url",
+    "types": [
+      "str"
+    ],
+    "absent_count": 1012,
+    "null_count": 0,
+    "description": "Source for the legal-scope classification."
+  },
+  {
+    "field": "legal_provisions",
+    "types": [
+      "list"
+    ],
+    "absent_count": 604,
+    "null_count": 0,
+    "description": "Legal provisions retained from the source collection."
+  },
+  {
+    "field": "amount_current_eur",
+    "types": [
+      "int"
+    ],
+    "absent_count": 1031,
+    "null_count": 2,
+    "description": "Separately recorded current or revised EUR amount, if supplied."
+  },
+  {
+    "field": "amount_before_reduction_eur",
+    "types": [
+      "float",
+      "int"
+    ],
+    "absent_count": 902,
+    "null_count": 0,
+    "description": "Recorded EUR amount before a retained reduction."
+  },
+  {
+    "field": "appeal_source_urls",
+    "types": [
+      "list"
+    ],
+    "absent_count": 1018,
+    "null_count": 0,
+    "description": "Source links retained for appeal or court outcomes."
+  },
+  {
+    "field": "publication_date",
+    "types": [
+      "str"
+    ],
+    "absent_count": 734,
+    "null_count": 17,
+    "description": "Publication date when separately recorded."
+  },
+  {
+    "field": "date_note",
+    "types": [
+      "str"
+    ],
+    "absent_count": 914,
+    "null_count": 0,
+    "description": "Qualification of the recorded date."
+  },
+  {
+    "field": "amount_description",
+    "types": [
+      "str"
+    ],
+    "absent_count": 996,
+    "null_count": 0,
+    "description": "Additional description of the source monetary statement."
+  },
+  {
+    "field": "amount_note",
+    "types": [
+      "str"
+    ],
+    "absent_count": 856,
+    "null_count": 0,
+    "description": "Qualification of amount, allocation or source coverage."
+  },
+  {
+    "field": "case_status_notice",
+    "types": [
+      "str"
+    ],
+    "absent_count": 621,
+    "null_count": 0,
+    "description": "Recorded warning about case status or subsequent developments."
+  },
+  {
+    "field": "legal_regime",
+    "types": [
+      "str"
+    ],
+    "absent_count": 467,
+    "null_count": 0,
+    "description": "Legal-regime description where explicitly recorded."
+  },
+  {
+    "field": "report_year",
+    "types": [
+      "int"
+    ],
+    "absent_count": 942,
+    "null_count": 0,
+    "description": "Annual report year; not necessarily a decision year."
+  },
+  {
+    "field": "decision_year",
+    "types": [
+      "int"
+    ],
+    "absent_count": 918,
+    "null_count": 0,
+    "description": "Decision year when recorded without a complete date."
+  },
+  {
+    "field": "date_source_url",
+    "types": [
+      "str"
+    ],
+    "absent_count": 763,
+    "null_count": 0,
+    "description": "Additional source for the recorded date."
+  },
+  {
+    "field": "fine_components_eur",
+    "types": [
+      "list"
+    ],
+    "absent_count": 894,
+    "null_count": 0,
+    "description": "Separately recorded EUR fine components; not additional rows to add to amount_eur."
+  },
+  {
+    "field": "amount_locator",
+    "types": [
+      "str"
+    ],
+    "absent_count": 415,
+    "null_count": 0,
+    "description": "Location of the monetary statement in the source."
+  },
+  {
+    "field": "amount_exclusion_reason",
+    "types": [
+      "str"
+    ],
+    "absent_count": 1035,
+    "null_count": 0,
+    "description": "Documented reason to exclude an amount from the retained EUR total."
+  },
+  {
+    "field": "unmapped_findings",
+    "types": [
+      "list"
+    ],
+    "absent_count": 1041,
+    "null_count": 0,
+    "description": "Recorded findings not mapped to the common theme dictionary."
+  },
+  {
+    "field": "register_status_original",
+    "types": [
+      "str"
+    ],
+    "absent_count": 909,
+    "null_count": 0,
+    "description": "Original status label in the source register at collection."
+  },
+  {
+    "field": "register_status_fr",
+    "types": [
+      "str"
+    ],
+    "absent_count": 909,
+    "null_count": 0,
+    "description": "French rendering of the recorded register status."
+  },
+  {
+    "field": "register_status_source_url",
+    "types": [
+      "str"
+    ],
+    "absent_count": 909,
+    "null_count": 0,
+    "description": "Source for the recorded register status."
+  },
+  {
+    "field": "fine_components_pln",
+    "types": [
+      "list"
+    ],
+    "absent_count": 901,
+    "null_count": 0,
+    "description": "Separately recorded PLN fine components; not additional rows to add to amount_eur."
+  },
+  {
+    "field": "fx_date",
+    "types": [
+      "str"
+    ],
+    "absent_count": 907,
+    "null_count": 0,
+    "description": "Recorded ECB reference-rate date used for the indicative PLN conversion."
+  },
+  {
+    "field": "fx_rate_pln_per_eur",
+    "types": [
+      "float"
+    ],
+    "absent_count": 907,
+    "null_count": 0,
+    "description": "Recorded number of PLN for one EUR at fx_date."
+  },
+  {
+    "field": "fx_source_url",
+    "types": [
+      "str"
+    ],
+    "absent_count": 907,
+    "null_count": 0,
+    "description": "ECB source for the indicative exchange rate."
+  },
+  {
+    "field": "amount_current_pln",
+    "types": [
+      "int"
+    ],
+    "absent_count": 1036,
+    "null_count": 5,
+    "description": "Separately recorded retained or revised PLN amount; explicit null does not restore the original amount."
+  },
+  {
+    "field": "amount_revised_pln",
+    "types": [
+      "int"
+    ],
+    "absent_count": 1040,
+    "null_count": 0,
+    "description": "Separately recorded revised PLN amount, if supplied."
+  },
+  {
+    "field": "amount_revised_source_url",
+    "types": [
+      "str"
+    ],
+    "absent_count": 1040,
+    "null_count": 0,
+    "description": "Source for the separately recorded revised amount."
+  },
+  {
+    "field": "source_topics",
+    "types": [
+      "list"
+    ],
+    "absent_count": 722,
+    "null_count": 0,
+    "description": "Original topic labels retained without claiming common-taxonomy mapping."
+  },
+  {
+    "field": "doc_web_id",
+    "types": [
+      "str"
+    ],
+    "absent_count": 842,
+    "null_count": 0,
+    "description": "Identifier of a document in an official web archive."
+  },
+  {
+    "field": "source_reference_as_printed",
+    "types": [
+      "str"
+    ],
+    "absent_count": 1039,
+    "null_count": 0,
+    "description": "Reference exactly as printed in the underlying source."
+  },
+  {
+    "field": "amount_gdpr_only_eur",
+    "types": [
+      "int"
+    ],
+    "absent_count": 912,
+    "null_count": 10,
+    "description": "Separately recorded GDPR-only EUR component when the source distinguishes regimes."
+  },
+  {
+    "field": "source_title_original",
+    "types": [
+      "str"
+    ],
+    "absent_count": 912,
+    "null_count": 1,
+    "description": "Original-language title of the cited source."
+  }
+]

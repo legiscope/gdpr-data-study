@@ -1,0 +1,1720 @@
+{
+  "meta": {
+    "version": "2026-10-30-source-audit",
+    "case_count": 38,
+    "data_as_of": "2026-10-25",
+    "sources_rechecked_on": "2026-10-30",
+    "analysis_status": "documented_collection",
+    "case_scope": "Jusqu’à 200 décisions de protection des données par pays, parmi les plus récentes de la collecte, RGPD et règles nationales liées inclus. Les montants connus sont rapportés à la population ; la sélection ne constitue pas un recensement national exhaustif.",
+    "recent_population_date": "2026-01-01",
+    "recent_selection_limit": 200,
+    "country_count": 1
+  },
+  "recent": [
+    {
+      "country_code": "LV",
+      "country_name": "Lettonie",
+      "population": 1845096,
+      "population_status": null,
+      "population_source_url": "https://ec.europa.eu/eurostat/databrowser/view/tps00001/default/table?lang=fr",
+      "decision_count": 38,
+      "exact_date_count": 38,
+      "individual_reference_count": 37,
+      "amount_known_count": 37,
+      "amount_unknown_count": 1,
+      "amount_eur": 1833059.93,
+      "eur_per_resident": 0.9934767242463265,
+      "certified_latest_200": false,
+      "comparison_status": "documented_collection",
+      "date_start": "2019-08-26",
+      "date_end": "2026-07-31",
+      "coverage": "38 décisions de protection des données documentées par la DVI, du 26 août 2019 au 31 juillet 2026. Le fondement sous l’article 83 du RGPD est vérifié dans les textes, résumés ou communiqués officiels ; deux amendes de procédure générale ASL 3(4) sont exclues. Ce corpus publié n’est pas un recensement national exhaustif.",
+      "limitations": [
+        "Les montants sont ceux documentés, avec les réductions connues intégrées ; les recours et paiements ne sont pas suivis systématiquement.",
+        "Andy corporation comporte deux amendes dont les chiffres et les lettres se contredisent : 491,28 € selon les chiffres, 491,18 € selon le registre et les lettres. Le montant est écarté de la somme sans être assimilé à zéro.",
+        "Pour K4K, le registre et le montant chiffré concordent à 500 €, mais le montant en lettres indique 600 € ; la discordance est signalée.",
+        "Le communiqué relatif à l’amende de 7 000 € de 2019 cite l’article 83 ; le texte intégral de la décision initiale n’a pas été retrouvé.",
+        "Les sanctions procédurales fondées uniquement sur la loi administrative générale ASL 3(4) sont exclues ; les sanctions de non-coopération fondées sur l’article 83 restent incluses."
+      ],
+      "authority_coverage": "Datu valsts inspekcija (Lettonie) ; recours dédoublonnés et montants après révision administrative quand elle est connue.",
+      "amount_note": "EUR ; montant actuellement documenté après recours administratif quand celui-ci a réduit la sanction. Le montant initial figure séparément lorsque vérifié.",
+      "fx_note": null,
+      "source_register_url": "https://www.dvi.gov.lv/lv/lemumi"
+    }
+  ],
+  "countries": [
+    {
+      "code": "LV",
+      "name": "Lettonie",
+      "case_count": 38,
+      "individual_reference_count": 37,
+      "coverage": "38 décisions de protection des données documentées par la DVI, du 26 août 2019 au 31 juillet 2026. Le fondement sous l’article 83 du RGPD est vérifié dans les textes, résumés ou communiqués officiels ; deux amendes de procédure générale ASL 3(4) sont exclues. Ce corpus publié n’est pas un recensement national exhaustif.",
+      "authority_coverage": "Datu valsts inspekcija (Lettonie) ; recours dédoublonnés et montants après révision administrative quand elle est connue.",
+      "limitations": [
+        "Les montants sont ceux documentés, avec les réductions connues intégrées ; les recours et paiements ne sont pas suivis systématiquement.",
+        "Andy corporation comporte deux amendes dont les chiffres et les lettres se contredisent : 491,28 € selon les chiffres, 491,18 € selon le registre et les lettres. Le montant est écarté de la somme sans être assimilé à zéro.",
+        "Pour K4K, le registre et le montant chiffré concordent à 500 €, mais le montant en lettres indique 600 € ; la discordance est signalée.",
+        "Le communiqué relatif à l’amende de 7 000 € de 2019 cite l’article 83 ; le texte intégral de la décision initiale n’a pas été retrouvé.",
+        "Les sanctions procédurales fondées uniquement sur la loi administrative générale ASL 3(4) sont exclues ; les sanctions de non-coopération fondées sur l’article 83 restent incluses."
+      ],
+      "amount_note": "EUR ; montant actuellement documenté après recours administratif quand celui-ci a réduit la sanction. Le montant initial figure séparément lorsque vérifié.",
+      "date_start": "2019-08-26",
+      "date_end": "2026-07-31",
+      "input_status": "partial_audited_official_decisions_2019_2026"
+    }
+  ],
+  "themes": [
+    {
+      "id": "transparency",
+      "label": "Mal informer les personnes",
+      "definition": "Information insuffisante sur l’utilisation des données ou l’exercice des droits.",
+      "check": "Vérifier que les personnes comprennent les usages de leurs données et les moyens d’exercer leurs droits."
+    },
+    {
+      "id": "rights",
+      "label": "Ne pas respecter les demandes des personnes",
+      "definition": "Accès, effacement, opposition et autres droits mentionnés dans la source.",
+      "check": "Tester le circuit de réception, de suivi et de réponse aux demandes."
+    },
+    {
+      "id": "security",
+      "label": "Protéger insuffisamment les données",
+      "definition": "Mesures de sécurité jugées insuffisantes ; une fuite seule ne prouve pas un manquement.",
+      "check": "Contrôler les accès, l’authentification, les mises à jour et la détection des accès anormaux."
+    },
+    {
+      "id": "cooperation",
+      "label": "Ne pas coopérer avec l’autorité de contrôle",
+      "definition": "Défaut de coopération explicitement mentionné ; distinct d’une simple injonction de mise en conformité.",
+      "check": "Désigner un responsable et conserver les réponses aux demandes de l’autorité."
+    },
+    {
+      "id": "minimization",
+      "label": "Collecter ou surveiller de façon excessive",
+      "definition": "Données excessives ou surveillance disproportionnée mentionnées par la source.",
+      "check": "Vérifier quelles données sont indispensables à chaque objectif."
+    },
+    {
+      "id": "retention",
+      "label": "Conserver les données trop longtemps",
+      "definition": "Durées de conservation non conformes ou suppression insuffisante.",
+      "check": "Vérifier que les durées définies sont effectivement appliquées dans les outils et sauvegardes concernés."
+    },
+    {
+      "id": "lawfulness",
+      "label": "Ne pas respecter les conditions légales d’utilisation",
+      "definition": "Licéité ou base légale explicitement en cause.",
+      "check": "Documenter le fondement de chaque usage, sans supposer que le consentement convient à tout."
+    },
+    {
+      "id": "cookies",
+      "label": "Ne pas respecter les règles sur les cookies",
+      "definition": "Information, consentement ou opposition aux cookies/traceurs en cause.",
+      "check": "Tester le dépôt de traceurs et les choix proposés avant et après refus."
+    },
+    {
+      "id": "consent",
+      "label": "Mal recueillir ou gérer le consentement",
+      "definition": "Consentement hors cookies, preuve ou retrait explicitement en cause.",
+      "check": "Vérifier la preuve du consentement, sa portée et la possibilité de le retirer."
+    },
+    {
+      "id": "processors",
+      "label": "Ne pas respecter les obligations de sous-traitance",
+      "definition": "Obligations d’un sous-traitant ou encadrement de la relation responsable de traitement/sous-traitant explicitement en cause.",
+      "check": "Vérifier les engagements et responsabilités des prestataires qui traitent des données."
+    },
+    {
+      "id": "dpia",
+      "label": "Omettre ou mal réaliser l’analyse d’impact requise",
+      "definition": "Analyse d’impact requise et absente ou défaillante.",
+      "check": "Examiner si le traitement nécessite une analyse d’impact et tenir cette analyse à jour."
+    },
+    {
+      "id": "register",
+      "label": "Mal tenir le registre des traitements",
+      "definition": "Registre des activités de traitement explicitement en cause.",
+      "check": "Vérifier que le registre décrit les traitements réellement effectués."
+    },
+    {
+      "id": "breach_response",
+      "label": "Mal gérer une violation de données",
+      "definition": "Documentation, notification à l’autorité ou communication aux personnes défaillante.",
+      "check": "Préparer un circuit de documentation et d’évaluation des notifications et communications nécessaires."
+    },
+    {
+      "id": "purpose",
+      "label": "Ne pas respecter la finalité prévue",
+      "definition": "Limitation ou compatibilité des finalités explicitement en cause.",
+      "check": "Vérifier la compatibilité d’un nouvel usage avant de réutiliser des données."
+    },
+    {
+      "id": "accuracy",
+      "label": "Utiliser des données inexactes",
+      "definition": "Exactitude ou actualisation des données en cause.",
+      "check": "Prévoir un moyen de rectifier et de mettre à jour les données."
+    },
+    {
+      "id": "dpo",
+      "label": "Mal organiser la fonction de DPO",
+      "definition": "Désignation, indépendance ou missions du délégué explicitement en cause.",
+      "check": "Vérifier le rôle, les moyens et les éventuels conflits d’intérêts du DPO."
+    },
+    {
+      "id": "privacy_by_design",
+      "label": "Négliger la protection dès la conception",
+      "definition": "Protection dès la conception ou par défaut explicitement en cause.",
+      "check": "Examiner les paramètres par défaut et les données accessibles dès la conception."
+    },
+    {
+      "id": "sensitive_data",
+      "label": "Traiter des données sensibles sans condition valable",
+      "definition": "Régime des données sensibles explicitement en cause, au-delà du simple contexte santé.",
+      "check": "Vérifier les conditions spécifiques applicables avant de traiter ces données."
+    },
+    {
+      "id": "health_authorization",
+      "label": "Ne pas respecter les règles des traitements de santé",
+      "definition": "Règles spécifiques au traitement de données de santé explicitement en cause ; une autorisation ou une disposition précise n’est pas présumée.",
+      "check": "Vérifier les formalités applicables au projet de traitement de données de santé."
+    },
+    {
+      "id": "international_transfers",
+      "label": "Mal encadrer un transfert international",
+      "definition": "Transferts de données hors du cadre autorisé explicitement en cause.",
+      "check": "Identifier les destinations et les garanties applicables aux transferts."
+    },
+    {
+      "id": "automated_decisions",
+      "label": "Prendre une décision automatisée sans garanties",
+      "definition": "Décision automatisée ou garanties associées explicitement en cause.",
+      "check": "Examiner les effets de la décision et les garanties requises pour les personnes."
+    },
+    {
+      "id": "accountability",
+      "label": "Ne pas démontrer le respect des règles",
+      "definition": "Principe de responsabilité ou obligation de pouvoir justifier la licéité du traitement explicitement en cause. La preuve du consentement et le registre restent dans leurs thèmes spécifiques.",
+      "check": "Conserver des preuves des choix, contrôles et mesures de conformité appliqués."
+    },
+    {
+      "id": "joint_controllers",
+      "label": "Mal définir les responsabilités entre organismes",
+      "definition": "Obligations entre responsables conjoints explicitement en cause.",
+      "check": "Définir et communiquer la répartition des obligations entre responsables conjoints."
+    },
+    {
+      "id": "criminal_data",
+      "label": "Mal encadrer les données pénales",
+      "definition": "Traitement de données relatives aux infractions ou condamnations explicitement en cause, distinct des catégories particulières de données.",
+      "check": "Vérifier les règles spécifiques et habilitations applicables aux données relatives aux infractions et condamnations."
+    },
+    {
+      "id": "direct_marketing_unspecified",
+      "label": "Ne pas respecter les règles de prospection (motif non précisé)",
+      "definition": "Le résumé cite les règles de prospection électronique sans préciser si le grief porte sur le consentement, l’opposition ou une autre obligation. Ce thème de repli n’est pas ajouté lorsque le résumé précise déjà le manquement.",
+      "check": "Vérifier les conditions d’envoi et les moyens d’opposition applicables à chaque campagne."
+    },
+    {
+      "id": "authority_orders",
+      "label": "Ne pas exécuter une injonction",
+      "definition": "Une mesure corrective imposée par l’autorité n’a pas été exécutée.",
+      "check": "Suivre chaque injonction, son délai et la preuve de son exécution."
+    }
+  ],
+  "cases": [
+    {
+      "id": "LV-20260731-500-SIA-K4K",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2026-07-31",
+      "date_kind": "decision_date",
+      "organisation": "SIA K4K",
+      "amount_original": 500,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/5011/download",
+      "source_level": "official_decision",
+      "summary_fr": "Amende publiée dans le registre des décisions de la DVI; fondement juridique à confirmer dans la décision.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_note": "Le registre officiel et le montant chiffré du dispositif indiquent 500 €. Le texte en lettres indique 600 € ; cette incohérence de rédaction est signalée sans remplacer le montant chiffré concordant avec le registre.",
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/5011/download",
+      "amount_locator": "p. 6, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Entré en vigueur",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(e)"
+      ],
+      "source_topics": [],
+      "amount_eur": 500.0
+    },
+    {
+      "id": "LV-20260702-1000-SIA-4YOU-MEBELES",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2026-07-02",
+      "date_kind": "decision_date",
+      "organisation": "SIA 4YOU MEBELES",
+      "amount_original": 1000,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/4919/download",
+      "source_level": "official_decision",
+      "summary_fr": "Amende publiée dans le registre des décisions de la DVI; fondement juridique à confirmer dans la décision.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/4919/download",
+      "amount_locator": "p. 6, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Entré en vigueur",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(e)"
+      ],
+      "source_topics": [],
+      "amount_eur": 1000.0
+    },
+    {
+      "id": "LV-20260604-600-SIA-MCS-TIMBER",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2026-06-04",
+      "date_kind": "decision_date",
+      "organisation": "SIA MCS Timber",
+      "amount_original": 600,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/5113/download",
+      "source_level": "official_decision",
+      "summary_fr": "Amende publiée dans le registre des décisions de la DVI; fondement juridique à confirmer dans la décision.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/5113/download",
+      "amount_locator": "p. 5, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Entré en vigueur",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(e)"
+      ],
+      "source_topics": [],
+      "amount_eur": 600.0
+    },
+    {
+      "id": "LV-20260330-800-SIA-DP-CONCEPT",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2026-03-30",
+      "date_kind": "decision_date",
+      "organisation": "SIA DP Concept",
+      "amount_original": 800,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/5116/download",
+      "source_level": "official_decision",
+      "summary_fr": "Amende publiée dans le registre des décisions de la DVI; fondement juridique à confirmer dans la décision.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/5116/download",
+      "amount_locator": "p. 6, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Entré en vigueur",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(e)"
+      ],
+      "source_topics": [],
+      "amount_eur": 800.0
+    },
+    {
+      "id": "LV-20260324-1500-SIA-FITSYPRO",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2026-03-24",
+      "date_kind": "decision_date",
+      "organisation": "SIA Fitsypro",
+      "amount_original": 1500,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/4718/download",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/4718/download",
+      "source_level": "official_decision",
+      "summary_fr": "Amende pour défaut de fourniture des informations demandées par la DVI dans une enquête sur les droits d’accès, de rectification et d’effacement ; fondement RGPD vérifié dans la décision.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/4718/download",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/4718/download",
+      "amount_locator": "p. 6, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Entré en vigueur",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(e)"
+      ],
+      "source_topics": [],
+      "amount_eur": 1500.0
+    },
+    {
+      "id": "LV-20260224-500-SIA-IZDEVNIECIBA-DIENAS-",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2026-02-24",
+      "date_kind": "decision_date",
+      "organisation": "SIA Izdevniecība DIENAS ŽURNĀLI",
+      "amount_original": 500,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/4802/download",
+      "source_level": "official_decision",
+      "summary_fr": "Amende publiée dans le registre des décisions de la DVI; fondement juridique à confirmer dans la décision.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/4802/download",
+      "amount_locator": "p. 6, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Entré en vigueur",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(e)"
+      ],
+      "source_topics": [],
+      "amount_eur": 500.0
+    },
+    {
+      "id": "LV-20251124-25000-SIA-EUROPARK-LATVIA",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": "01630000100425-3",
+      "date": "2025-11-24",
+      "date_kind": "decision_date",
+      "date_note": "Amende initiale le 2025-11-24 ; recours administratif décidé le 2026-01-06.",
+      "organisation": "SIA EUROPARK LATVIA",
+      "amount_original": 25000,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/4655/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/4655/download",
+      "source_level": "official_decision",
+      "summary_fr": "Utilisation de coordonnées et d’adresses historiques de propriétaires de véhicules pour recouvrer des frais de stationnement ; amende de 25 000 €.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/4655/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/4658/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": "Recours administratif tranché le 6 janvier 2026 ; le registre DVI indique ensuite un recours juridictionnel. Son issue n’a pas été retrouvée.",
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/4655/download",
+      "amount_locator": "p. 21, operative sanction paragraph; p. 1 heading",
+      "date_source_url": "https://www.dvi.gov.lv/lv/media/4655/download?attachment=",
+      "case_status_notice": "Recours juridictionnel signalé dans le registre DVI",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(a)"
+      ],
+      "source_topics": [],
+      "amount_eur": 25000.0
+    },
+    {
+      "id": "LV-20251104-150-FIZISKA-PERSONA",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2025-11-04",
+      "date_kind": "decision_date",
+      "organisation": "Personne physique (anonymisée)",
+      "amount_original": 150,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/4199/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/4199/download",
+      "source_level": "official_decision",
+      "summary_fr": "Traitement illicite de données personnelles obtenues via un accès professionnel et divulguées à un tiers ; amende confirmée par la décision DVI.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/4199/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/4199/download",
+      "amount_locator": "p. 5, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Entré en vigueur",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(a)"
+      ],
+      "source_topics": [],
+      "amount_eur": 150.0
+    },
+    {
+      "id": "LV-20251103-250-FIZISKAS-PERSONA",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2025-11-03",
+      "date_kind": "decision_date",
+      "organisation": "Personne physique (anonymisée)",
+      "amount_original": 250,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/4310/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/4310/download",
+      "source_level": "official_decision",
+      "summary_fr": "Accès non autorisé à des données de santé par une professionnelle; infraction à l’article 83, paragraphe 5, point a), du RGPD.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/4310/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/4310/download",
+      "amount_locator": "p. 8, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Entré en vigueur",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(a)"
+      ],
+      "source_topics": [],
+      "amount_eur": 250.0
+    },
+    {
+      "id": "LV-20250723-300000-SIA-ZZ-DATS",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2025-07-23",
+      "date_kind": "decision_date",
+      "decision_year": 2025,
+      "date_note": "Décision initiale le 23 juillet 2025 : 400 000 €. Décision du directeur le 8 septembre 2025 : 300 000 € et seul le manquement de l’agent de traitement à l’art. 32 RGPD est retenu.",
+      "organisation": "SIA ZZ Dats",
+      "amount_original": 400000,
+      "amount_current_eur": 300000,
+      "currency": "EUR",
+      "amount_status": "reduced_after_review",
+      "amount_before_reduction_eur": 400000,
+      "source_url": "https://www.dvi.gov.lv/lv/media/4160/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/4160/download?attachment=",
+      "source_level": "official_authority_summary",
+      "summary_fr": "Fuite de données dans le système d’un sous-traitant : mesures de sécurité insuffisantes au regard de l’article 32 du RGPD ; amende ramenée de 400 000 € à 300 000 €.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/4631/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/4160/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": "Le directeur de la DVI a écarté la violation de l’art. 83(5)(a) imputée au responsable de traitement et maintenu la responsabilité du sous-traitant sous l’art. 83(4)(a). La société a saisi le tribunal ; issue non vérifiée.",
+      "fine_count": 1,
+      "amount_note": "400 000 € à l’origine ; 300 000 € après le recours administratif du 8 septembre 2025.",
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/4160/download",
+      "amount_locator": "p.1, opening original-sanction paragraph and final appeal-sanction/litigation paragraphs",
+      "date_source_url": "https://www.dvi.gov.lv/lv/media/4160/download?attachment=",
+      "case_status_notice": "Recours juridictionnel pendant selon la DVI",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(4)(a)"
+      ],
+      "source_topics": [],
+      "amount_eur": 300000.0
+    },
+    {
+      "id": "LV-20250306-500-SIA-VSV-ZOO",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2025-03-06",
+      "date_kind": "decision_date",
+      "organisation": "SIA VSV ZOO",
+      "amount_original": 500,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/4115/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/4115/download",
+      "source_level": "official_decision",
+      "summary_fr": "Amende de 500 € pour refus de communiquer les informations demandées par la DVI, sanctionné au titre de l’article 83(5)(e) du RGPD.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/4115/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/4115/download",
+      "amount_locator": "p. 6, operative sanction paragraph; p. 1 heading",
+      "date_source_url": "https://www.dvi.gov.lv/lv/media/4115/download?attachment=",
+      "case_status_notice": "Entré en vigueur",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(e)"
+      ],
+      "source_topics": [],
+      "amount_eur": 500.0
+    },
+    {
+      "id": "LV-20241203-500-FIZISKA-PERSONA",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2024-12-03",
+      "date_kind": "decision_date",
+      "organisation": "Personne physique (anonymisée)",
+      "amount_original": 500,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/4259/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/4259/download",
+      "source_level": "official_decision",
+      "summary_fr": "Consultation non autorisée de données de santé ; amende confirmée par la décision DVI.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/4259/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/4259/download",
+      "amount_locator": "p. 9, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Entré en vigueur",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(a)"
+      ],
+      "source_topics": [],
+      "amount_eur": 500.0
+    },
+    {
+      "id": "LV-20241101-500-SIA-NORTH-TECHNOLOGY-GRO",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2024-11-01",
+      "date_kind": "decision_date",
+      "organisation": "SIA North Technology Group",
+      "amount_original": 500,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/3710/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/3710/download",
+      "source_level": "official_decision",
+      "summary_fr": "Amende publiée dans le registre des décisions de la DVI; fondement juridique à confirmer dans la décision.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/3710/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/3710/download",
+      "amount_locator": "p. 5, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Entré en vigueur",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(e)"
+      ],
+      "source_topics": [],
+      "amount_eur": 500.0
+    },
+    {
+      "id": "LV-20240918-2000-PAULA-STRADINA-KLINISKA-",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2024-09-18",
+      "date_kind": "decision_date",
+      "organisation": "Paula Stradiņa klīniskā universitātes slimnīca",
+      "amount_original": 2000,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/3564/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/3564/download",
+      "source_level": "official_decision",
+      "summary_fr": "Amende publiée dans le registre des décisions de la DVI; fondement juridique à confirmer dans la décision.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/3564/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/3564/download",
+      "amount_locator": "p. 8, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Entré en vigueur",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(e)"
+      ],
+      "source_topics": [],
+      "amount_eur": 2000.0
+    },
+    {
+      "id": "LV-20240806-100-FIZISKA-PERSONA",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2024-08-06",
+      "date_kind": "decision_date",
+      "organisation": "Personne physique (anonymisée)",
+      "amount_original": 100,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/3561/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/3561/download",
+      "source_level": "official_decision",
+      "summary_fr": "Amende pour traitement de données en violation du RGPD, confirmée par la décision DVI.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/3561/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/3561/download",
+      "amount_locator": "p. 7, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Entré en vigueur",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(a)"
+      ],
+      "source_topics": [],
+      "amount_eur": 100.0
+    },
+    {
+      "id": "LV-20240516-100-FIZISKA-PERSONA",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2024-05-16",
+      "date_kind": "decision_date",
+      "organisation": "Personne physique (anonymisée)",
+      "amount_original": 100,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/3138/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/3138/download",
+      "source_level": "official_decision",
+      "summary_fr": "Amende pour traitement de données en violation du RGPD, confirmée par la décision DVI.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/3138/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/3138/download",
+      "amount_locator": "p. 7, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Entré en vigueur",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(a)"
+      ],
+      "source_topics": [],
+      "amount_eur": 100.0
+    },
+    {
+      "id": "LV-20240328-1000-SIA-JK-MEDIA-GROUP",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2024-03-28",
+      "date_kind": "decision_date",
+      "organisation": "SIA JK Media group",
+      "amount_original": 1000,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/3123/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/3123/download",
+      "source_level": "official_decision",
+      "summary_fr": "Amende publiée dans le registre des décisions de la DVI; fondement juridique à confirmer dans la décision.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/3123/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/3123/download",
+      "amount_locator": "p. 13, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Entré en vigueur",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(a)",
+        "GDPR Article 83(5)(b)",
+        "GDPR Article 83(5)(e)"
+      ],
+      "source_topics": [],
+      "amount_eur": 1000.0
+    },
+    {
+      "id": "LV-20240215-100-FIZISKA-PERSONA",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2024-02-15",
+      "date_kind": "decision_date",
+      "organisation": "Personne physique (anonymisée)",
+      "amount_original": 100,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/3135/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/3135/download",
+      "source_level": "official_decision",
+      "summary_fr": "Amende pour traitement de données en violation du RGPD, confirmée par la décision DVI.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/3135/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/3135/download",
+      "amount_locator": "p. 9, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Entré en vigueur",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(a)"
+      ],
+      "source_topics": [],
+      "amount_eur": 100.0
+    },
+    {
+      "id": "LV-20240118-250-FIZISKA-PERSONA",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2024-01-18",
+      "date_kind": "decision_date",
+      "organisation": "Personne physique (anonymisée)",
+      "amount_original": 250,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/3144/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/3144/download",
+      "source_level": "official_decision",
+      "summary_fr": "Amende pour traitement de données en violation du RGPD, confirmée par la décision DVI.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/3144/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/3144/download",
+      "amount_locator": "p. 13, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Entré en vigueur",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(a)"
+      ],
+      "source_topics": [],
+      "amount_eur": 250.0
+    },
+    {
+      "id": "LV-20231215-1000-SIA-AQUAPHOTO",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2023-12-15",
+      "date_kind": "decision_date",
+      "decision_year": 2023,
+      "date_note": "Amende initiale le 2023-12-15 ; le 2024-02-02 correspond au recours administratif.",
+      "organisation": "SIA AQUAPHOTO",
+      "amount_original": 1000,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/2943/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/2943/download?attachment=",
+      "source_level": "official_administrative_appeal_decision",
+      "summary_fr": "Photographies des visiteurs de Līvu akvaparks sans information suffisante ni consentement valable ; amende du 15 décembre 2023 rétablie en appel.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/2943/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/4631/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": "La cour régionale de Riga a infirmé le jugement de première instance le 27 mai 2025 et rétabli l’amende DVI de 1 000 € du 15 décembre 2023. Un éventuel recours ultérieur n’a pas été vérifié.",
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/2943/download",
+      "amount_locator": "p. 1, original-decision recital; p. 13, operative appeal disposition",
+      "date_source_url": "https://www.dvi.gov.lv/lv/media/2943/download?attachment=",
+      "case_status_notice": "Amende rétablie par la cour d’appel le 27 mai 2025 ; éventuel pourvoi non vérifié",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(a)",
+        "GDPR Article 83(5)(b)"
+      ],
+      "source_topics": [],
+      "amount_eur": 1000.0
+    },
+    {
+      "id": "LV-20230227-1000-SIA-FITSYPRO",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2023-02-27",
+      "date_kind": "decision_date",
+      "organisation": "SIA Fitsypro",
+      "amount_original": 1000,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/2412/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/2412/download",
+      "source_level": "official_decision",
+      "summary_fr": "Amende publiée dans le registre des décisions de la DVI; fondement juridique à confirmer dans la décision.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/2412/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/2412/download",
+      "amount_locator": "p. 6, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Entré en vigueur",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(e)"
+      ],
+      "source_topics": [],
+      "amount_eur": 1000.0
+    },
+    {
+      "id": "LV-20230126-20000-SIA-EURONICS-LATVIA",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2023-01-26",
+      "date_kind": "decision_date",
+      "decision_year": 2023,
+      "date_note": "Amende initiale le 2023-01-26 ; le 2023-03-07 correspond au recours administratif.",
+      "organisation": "SIA Euronics Latvia",
+      "amount_original": 20000,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/2940/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/2940/download?attachment=",
+      "source_level": "official_administrative_appeal_decision",
+      "summary_fr": "Cookies sans base légale ni information suffisante, et absence de réponse aux demandes de la DVI ; amende de 20 000 € maintenue en recours administratif.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/2940/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/2940/download",
+      "amount_locator": "p. 1, original-decision recital; p. 5, operative appeal disposition",
+      "date_source_url": "https://www.dvi.gov.lv/lv/media/2940/download?attachment=",
+      "case_status_notice": "Entré en vigueur",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(a)",
+        "GDPR Article 83(5)(b)",
+        "GDPR Article 83(5)(e)"
+      ],
+      "source_topics": [],
+      "amount_eur": 20000.0
+    },
+    {
+      "id": "LV-20230126-1900-SIA-BUSINESS-MAGAZINE",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2023-01-26",
+      "date_kind": "decision_date",
+      "organisation": "SIA Business magazine",
+      "amount_original": 1900,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/2418/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/2418/download",
+      "source_level": "official_decision",
+      "summary_fr": "Amende publiée dans le registre des décisions de la DVI; fondement juridique à confirmer dans la décision.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/2418/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/2418/download",
+      "amount_locator": "p.6 section 5 (legal basis); p.7 calculation; p.8 operative sanction",
+      "case_status_notice": "Entré en vigueur",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(b)",
+        "GDPR Article 83(5)(e)"
+      ],
+      "source_topics": [],
+      "amount_eur": 1900.0
+    },
+    {
+      "id": "LV-20221020-500-IK-RIGAS-KOMUNAL-SERVICE",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2022-10-20",
+      "date_kind": "decision_date",
+      "decision_year": 2022,
+      "date_note": "Amende initiale le 2022-10-20 ; le 2022-12-02 correspond au recours administratif.",
+      "organisation": "IK Rigas Komunal Service",
+      "amount_original": 500,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/2134/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/2134/download?attachment=",
+      "source_level": "official_administrative_appeal_decision",
+      "summary_fr": "Amende publiée dans le registre des décisions de la DVI; fondement juridique à confirmer dans la décision.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/2134/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": "Recours signalé",
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/2134/download",
+      "amount_locator": "p. 1, original-decision recital; p. 5, operative appeal disposition",
+      "date_source_url": "https://www.dvi.gov.lv/lv/media/2134/download?attachment=",
+      "case_status_notice": "Recours signalé",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(e)"
+      ],
+      "source_topics": [],
+      "amount_eur": 500.0
+    },
+    {
+      "id": "LV-20220902-200-FIZISKA-PERSONA",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2022-09-02",
+      "date_kind": "decision_date",
+      "organisation": "Personne physique (anonymisée)",
+      "amount_original": 200,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/2126/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/2126/download",
+      "source_level": "official_decision",
+      "summary_fr": "Amende pour manquement au devoir de coopération avec l’Inspection en vertu du RGPD, confirmée par la décision DVI.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/2126/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/2126/download",
+      "amount_locator": "p. 6, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Entré en vigueur",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(e)"
+      ],
+      "source_topics": [],
+      "amount_eur": 200.0
+    },
+    {
+      "id": "LV-20220715-1200000-SIA-TET",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2022-07-15",
+      "date_kind": "decision_date",
+      "decision_year": 2022,
+      "date_note": "Amende initiale le 2022-07-15 ; le 2022-09-09 correspond au recours administratif.",
+      "organisation": "SIA TET",
+      "amount_original": 3200000,
+      "amount_current_eur": 1200000,
+      "currency": "EUR",
+      "amount_status": "reduced_after_review",
+      "amount_before_reduction_eur": 3200000,
+      "source_url": "https://www.dvi.gov.lv/lv/media/1874/download",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/1874/download",
+      "source_level": "official_administrative_appeal_decision",
+      "summary_fr": "Amende publiée dans le registre des décisions de la DVI; fondement juridique à confirmer dans la décision.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/1874/download",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/2982/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": "L’amende de 1 200 000 €, réduite en recours administratif, a été confirmée par le tribunal de Riga le 20 avril 2023 puis par un arrêt d’appel définitif de la cour régionale de Riga.",
+      "fine_count": 1,
+      "amount_note": "Amende initiale de 3 200 000 € ; montant de 1 200 000 € après recours administratif du 9 septembre 2022, confirmé le 18 juin 2024. La possibilité initiale de paiement réduit n’est pas additionnée.",
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/1874/download",
+      "amount_locator": "p. 1, original-decision recital; p. 23, operative appeal disposition",
+      "date_source_url": "https://www.dvi.gov.lv/lv/media/1874/download",
+      "case_status_notice": "Amende réduite confirmée par jugement d’appel définitif",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(a)"
+      ],
+      "source_topics": [],
+      "amount_eur": 1200000.0
+    },
+    {
+      "id": "LV-20220510-17495-SIA-DEPO-DIY",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2022-05-10",
+      "date_kind": "decision_date",
+      "decision_year": 2022,
+      "date_note": "Amende initiale le 2022-05-10 ; le 2022-07-07 correspond au recours administratif.",
+      "organisation": "SIA DEPO DIY",
+      "amount_original": 4373818.52,
+      "amount_current_eur": 17495,
+      "currency": "EUR",
+      "amount_status": "reduced_after_review",
+      "amount_before_reduction_eur": 4373818.52,
+      "source_url": "https://www.dvi.gov.lv/lv/media/2024/download",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/2024/download",
+      "source_level": "official_administrative_appeal_decision",
+      "summary_fr": "Collecte et consentement pour la carte client DEPO ; amende initiale fortement réduite en recours administratif.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/2024/download",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_note": "Montant initial 4373818.52 EUR ; montant révisé 17495 EUR.",
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/2024/download",
+      "amount_locator": "p.1 original amount/date recital; pp.15-16 operative reduction",
+      "date_source_url": "https://www.dvi.gov.lv/lv/media/2024/download",
+      "case_status_notice": "Entré en vigueur",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(a)"
+      ],
+      "source_topics": [],
+      "amount_eur": 17495.0
+    },
+    {
+      "id": "LV-20220421-1464.13-SIA-YOUR-MOVE",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2022-04-21",
+      "date_kind": "decision_date",
+      "organisation": "SIA Your Move",
+      "amount_original": 1464.13,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/1670/download",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/1670/download",
+      "source_level": "official_decision",
+      "summary_fr": "Amende publiée dans le registre des décisions de la DVI; fondement juridique à confirmer dans la décision.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/1670/download",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/1670/download",
+      "amount_locator": "p. 5, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Entré en vigueur",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(e)"
+      ],
+      "source_topics": [],
+      "amount_eur": 1464.13
+    },
+    {
+      "id": "LV-20210614-491.18-SIA-ANDY-CORPORATION",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2021-06-14",
+      "date_kind": "decision_date",
+      "organisation": "SIA Andy corporation",
+      "amount_original": 491.18,
+      "amount_current_eur": null,
+      "amount_exclusion_reason": "conflicting_official_amounts",
+      "currency": "EUR",
+      "amount_status": "conflicting_official_amounts_not_summed",
+      "source_url": "https://www.dvi.gov.lv/lv/media/1376/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/1376/download",
+      "source_level": "official_decision",
+      "summary_fr": "Amende publiée dans le registre des décisions de la DVI; fondement juridique à confirmer dans la décision.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/1376/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 2,
+      "amount_note": "Le registre et les montants écrits en lettres donnent 491,18 € ; les deux amendes chiffrées dans le dispositif (245,64 € chacune) donnent 491,28 €. Le montant exact reste non vérifié et est exclu de la somme, sans correction arbitraire de dix centimes.",
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/1376/download",
+      "amount_locator": "p.7 section 6.3; p.8 operative points 1 and 2",
+      "case_status_notice": "Entré en vigueur",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(b)",
+        "GDPR Article 83(5)(e)"
+      ],
+      "source_topics": [],
+      "amount_eur": null
+    },
+    {
+      "id": "LV-20210118-5836-SIA-FIT-PEOPLE",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2021-01-18",
+      "date_kind": "decision_date",
+      "decision_year": 2021,
+      "date_note": "Amende initiale le 2021-01-18 ; le 2021-03-16 correspond au recours administratif.",
+      "organisation": "SIA fit People",
+      "amount_original": 17459.23,
+      "amount_current_eur": 5836,
+      "currency": "EUR",
+      "amount_status": "reduced_after_review",
+      "amount_before_reduction_eur": 17459.23,
+      "source_url": "https://www.dvi.gov.lv/lv/media/1676/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/1676/download?attachment=",
+      "source_level": "official_administrative_appeal_decision",
+      "summary_fr": "Traitement de données biométriques des clients d’une salle de sport ; amende ramenée de 17 459,23 € à 5 836 € en recours administratif.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/1676/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_note": "Montant initial 17459.23 EUR ; montant révisé 5836 EUR.",
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/1676/download",
+      "amount_locator": "p. 1, original-decision recital; p. 6, operative appeal disposition",
+      "date_source_url": "https://www.dvi.gov.lv/lv/media/1676/download?attachment=",
+      "case_status_notice": "Entré en vigueur",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(a)"
+      ],
+      "source_topics": [],
+      "amount_eur": 5836.0
+    },
+    {
+      "id": "LV-2020-65000-SIA-LURSOFT-IT",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2020-11-23",
+      "date_kind": "decision_date",
+      "decision_year": 2020,
+      "date_note": "Décision initiale du 23 novembre 2020, notifiée le 30 novembre ; décision de recours administratif du 14 janvier 2021.",
+      "organisation": "SIA Lursoft IT",
+      "amount_original": 65000,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/273/download",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/273/download",
+      "source_level": "official_administrative_appeal_decision",
+      "summary_fr": "Publication de données issues de la partie non publique du registre des entreprises ; amende infligée fin 2020 et maintenue en recours en janvier 2021.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/273/download",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/jaunums/datu-valsts-inspekcija-piemero-eur-65-000-naudas-sodu-par-visparigas-datu-aizsardzibas-regulas-noteikumu-parkapumiem",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/273/download",
+      "amount_locator": "p. 1, original-decision recital; p. 18, operative appeal disposition",
+      "date_source_url": "https://www.dvi.gov.lv/lv/media/273/download",
+      "case_status_notice": "Entré en vigueur",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(a)"
+      ],
+      "source_topics": [],
+      "amount_eur": 65000.0
+    },
+    {
+      "id": "LV-20201116-1500-SIA-L-PETRAZICKAS-DOKTORATS",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2020-11-16",
+      "date_kind": "decision_date",
+      "decision_year": 2020,
+      "organisation": "SIA L.Petražickas Doktorāts",
+      "amount_original": 1500,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/2140/download?attachment=",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/2140/download",
+      "source_level": "official_decision",
+      "summary_fr": "Traitement illicite de données de santé de patients ; amende de 1 500 €.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/2140/download?attachment=",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/2140/download",
+      "amount_locator": "p. 8, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Décision DVI ; recours ultérieurs non vérifiés",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(a)"
+      ],
+      "scope_classification": "gdpr_article_83",
+      "source_topics": [],
+      "amount_eur": 1500.0
+    },
+    {
+      "id": "LV-20201008-15000-SIA-HH-INVEST",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2020-10-08",
+      "date_kind": "decision_date",
+      "decision_year": 2020,
+      "date_note": "Décision initiale le 2020-10-08 ; décision du directeur sur recours le 2020-11-26.",
+      "organisation": "SIA HH Invest",
+      "amount_original": 15000,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/271/download",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/271/download",
+      "source_level": "official_administrative_appeal_decision",
+      "summary_fr": "Manquements à la transparence et à l’opposition au traitement sur le site xnet.lv ; amende de 15 000 € maintenue en recours administratif.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/271/download",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/jaunums/datu-valsts-inspekcija-internetveikalam-piemero-eur-15-000-naudas-sodu",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": "Le directeur de la DVI a maintenu l’amende initiale après recours administratif.",
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/271/download",
+      "amount_locator": "p. 1, original-decision recital; p. 8, operative appeal disposition",
+      "case_status_notice": "Amende maintenue en recours administratif",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(a)",
+        "GDPR Article 83(5)(b)"
+      ],
+      "scope_classification": "gdpr_article_83",
+      "source_topics": [],
+      "amount_eur": 15000.0
+    },
+    {
+      "id": "LV-20200730-6250-ENTREPRISE-ANONYMISEE",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2020-07-30",
+      "date_kind": "decision_date",
+      "decision_year": 2020,
+      "organisation": "anonymized company",
+      "amount_original": 6250,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/269/download",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/269/download",
+      "source_level": "official_administrative_appeal_decision",
+      "summary_fr": "Divulgation de l’identité et du diagnostic de tuberculose d’un salarié ; amende de 6 250 €.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/269/download",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": "Le directeur de la DVI a maintenu l’amende après recours administratif ; la date exacte du recours n’est pas indiquée dans le PDF consulté.",
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/269/download",
+      "amount_locator": "p. 1, original-decision recital; p. 9, operative appeal disposition",
+      "case_status_notice": "Maintenue par la direction de la DVI ; recours judiciaire non vérifié",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(a)"
+      ],
+      "scope_classification": "gdpr_article_83",
+      "source_topics": [],
+      "amount_eur": 6250.0
+    },
+    {
+      "id": "LV-20200619-600.6-SIA-BUMBLEBEE",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2020-06-19",
+      "date_kind": "decision_date",
+      "decision_year": 2020,
+      "organisation": "SIA Bumblebee",
+      "amount_original": 600.6,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/897/download",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/897/download",
+      "source_level": "official_decision",
+      "summary_fr": "Absence de réponse à une demande d’informations de la DVI dans une enquête sur la vidéosurveillance d’un restaurant ; amende RGPD de 600,60 €.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/897/download",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/897/download",
+      "amount_locator": "p. 5, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Décision DVI ; recours ultérieurs non vérifiés",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(e)"
+      ],
+      "scope_classification": "gdpr_article_83",
+      "source_topics": [],
+      "amount_eur": 600.6
+    },
+    {
+      "id": "LV-20200615-2964.2-SIA-VVV-AUTO",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": "2-2.2/13",
+      "date": "2020-06-15",
+      "date_kind": "decision_date",
+      "decision_year": 2020,
+      "date_note": "Le registre porte le 2020-06-16 ; le PDF initial porte le 2020-06-15.",
+      "organisation": "SIA V.V.V. Auto",
+      "amount_original": 2964.2,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/895/download",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/895/download",
+      "source_level": "official_decision",
+      "summary_fr": "Absence de réponse à une demande d’informations de la DVI dans une enquête sur la vidéosurveillance ; amende RGPD de 2 964,20 €.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/895/download",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/lemumi",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/895/download",
+      "amount_locator": "p. 6, operative sanction paragraph; p. 1 heading",
+      "case_status_notice": "Décision DVI ; recours ultérieurs non vérifiés",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(e)"
+      ],
+      "scope_classification": "gdpr_article_83",
+      "source_topics": [],
+      "amount_eur": 2964.2
+    },
+    {
+      "id": "LV-20191108-150000-SIA-SHOPPING-SERVICE",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2019-11-08",
+      "date_kind": "decision_date",
+      "decision_year": 2019,
+      "date_note": "Décision initiale le 2019-11-08 ; décision du directeur sur recours le 2020-02-18. Le registre porte le 2020-02-08 ; le PDF initial porte le 2019-11-08.",
+      "organisation": "SIA Shopping Service",
+      "amount_original": 150000,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/media/275/download",
+      "decision_url": "https://www.dvi.gov.lv/lv/media/275/download",
+      "source_level": "official_administrative_appeal_decision",
+      "summary_fr": "Traitement illégal de données clients et manquements à la transparence ; amende de 150 000 € maintenue en recours administratif.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/275/download",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/jaunums/datu-valsts-inspekcija-piemero-naudas-sodu-150-000-euro-apmera-komersantam-par-prettiesiskam-darbibam-ar-fiziskas-personas-datiem",
+          "paraphrase": "Publication officielle complémentaire."
+        },
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/media/1034/download",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": "Amende unique maintenue en recours administratif. Le PDF du recours est daté du 18 février 2020, tandis que le registre indique le 8 février ; le rapport 2020 ne relève pas d’autre recours.",
+      "fine_count": 1,
+      "amount_note": "Deux composantes nominales de 124 700,64 € sont examinées ; le dispositif fixe une seule amende finale combinée de 150 000 €. Les composantes ne sont pas additionnées à cette amende.",
+      "amount_source_url": "https://www.dvi.gov.lv/lv/media/275/download",
+      "amount_locator": "p.1 original date; pp.19-20 nominal components and final combined sanction; p.26 appeal disposition",
+      "case_status_notice": "Amende maintenue en recours administratif",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(a)",
+        "GDPR Article 83(5)(b)"
+      ],
+      "scope_classification": "gdpr_article_83",
+      "source_topics": [],
+      "amount_eur": 150000.0
+    },
+    {
+      "id": "LV-20190826-7000-COMMERCE-EN-LIGNE-ANONYME",
+      "country_code": "LV",
+      "authority": "Datu valsts inspekcija",
+      "decision_reference": null,
+      "date": "2019-08-26",
+      "date_kind": "decision_date",
+      "decision_year": 2019,
+      "organisation": "unnamed online retailer",
+      "amount_original": 7000,
+      "currency": "EUR",
+      "source_url": "https://www.dvi.gov.lv/lv/jaunums/datu-valsts-inspekcija-piemero-7000-eiro-lielu-naudas-sodu-internetveikalam-par-personas-datu-apstrades-parkapumiem",
+      "source_level": "official_authority_summary",
+      "summary_fr": "Demande d’effacement non respectée par un commerce en ligne et manquement aux injonctions de la DVI ; amende de 7 000 €.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.dvi.gov.lv/lv/jaunums/datu-valsts-inspekcija-piemero-7000-eiro-lielu-naudas-sodu-internetveikalam-par-personas-datu-apstrades-parkapumiem",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "appeal_note": null,
+      "fine_count": 1,
+      "amount_source_url": "https://www.dvi.gov.lv/lv/jaunums/datu-valsts-inspekcija-piemero-7000-eiro-lielu-naudas-sodu-internetveikalam-par-personas-datu-apstrades-parkapumiem",
+      "amount_locator": "Announcement published 2019-08-29: opening paragraph gives decision 2019-08-26 and EUR 7000; sanction-reasoning paragraph names Article 83(5)(b),(e).",
+      "case_status_notice": "Décision DVI ; recours ultérieurs non vérifiés",
+      "legal_regime": "GDPR",
+      "legal_basis_verified": true,
+      "legal_provisions": [
+        "GDPR Article 83(5)(b)",
+        "GDPR Article 83(5)(e)"
+      ],
+      "scope_classification": "gdpr_related_national_enforcement",
+      "source_topics": [],
+      "amount_eur": 7000.0
+    }
+  ]
+}

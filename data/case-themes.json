@@ -1,0 +1,5447 @@
+[
+  {
+    "case_id": "cnil-2026-supplement-003",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2026-supplement-003",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2026-supplement-002",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2026-supplement-002",
+    "country_code": "FR",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "cnil-2026-supplement-001",
+    "country_code": "FR",
+    "theme_id": "health_authorization"
+  },
+  {
+    "case_id": "cnil-2026-supplement-001",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2026-supplement-001",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2026-supplement-001",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2026-supplement-001",
+    "country_code": "FR",
+    "theme_id": "privacy_by_design"
+  },
+  {
+    "case_id": "cnil-2026-016",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2026-016",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2026-016",
+    "country_code": "FR",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "cnil-2026-016",
+    "country_code": "FR",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "cnil-2026-015",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2026-015",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2026-015",
+    "country_code": "FR",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "cnil-2026-013",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2026-013",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2026-013",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2026-013",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2026-013",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2026-012",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2026-012",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2026-009",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2026-009",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2026-006",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2026-006",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2026-005",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2026-005",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2026-005",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2026-004",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2026-003",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2026-003",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2026-002",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2026-002",
+    "country_code": "FR",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "cnil-2026-001",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2026-001",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2026-001",
+    "country_code": "FR",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "cnil-2025-083",
+    "country_code": "FR",
+    "theme_id": "purpose"
+  },
+  {
+    "case_id": "cnil-2025-082",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2025-082",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-082",
+    "country_code": "FR",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "cnil-2025-082",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2025-082",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2025-080",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2025-080",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2025-080",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2025-079",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2025-079",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-078",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2025-078",
+    "country_code": "FR",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "cnil-2025-078",
+    "country_code": "FR",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "cnil-2025-078",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2025-077",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2025-077",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2025-076",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2025-075",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2025-074",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2025-073",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2025-072",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2025-072",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2025-071",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2025-070",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2025-070",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-070",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2025-069",
+    "country_code": "FR",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "cnil-2025-069",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2025-069",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2025-068",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2025-068",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2025-068",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2025-067",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2025-066",
+    "country_code": "FR",
+    "theme_id": "purpose"
+  },
+  {
+    "case_id": "cnil-2025-066",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2025-066",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-066",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2025-066",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2025-065",
+    "country_code": "FR",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "cnil-2025-065",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-065",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2025-064",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2025-064",
+    "country_code": "FR",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "cnil-2025-064",
+    "country_code": "FR",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "cnil-2025-062",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2025-061",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2025-061",
+    "country_code": "FR",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "cnil-2025-061",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-060",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2025-060",
+    "country_code": "FR",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "cnil-2025-060",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-060",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2025-060",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2025-059",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-058",
+    "country_code": "FR",
+    "theme_id": "purpose"
+  },
+  {
+    "case_id": "cnil-2025-058",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-058",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2025-058",
+    "country_code": "FR",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "cnil-2025-057",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2025-057",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2025-057",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2025-057",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-057",
+    "country_code": "FR",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "cnil-2025-057",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2025-057",
+    "country_code": "FR",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "cnil-2025-056",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2025-055",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2025-055",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2025-055",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2025-053",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2025-053",
+    "country_code": "FR",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "cnil-2025-053",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2025-052",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2025-052",
+    "country_code": "FR",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "cnil-2025-051",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2025-050",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2025-049",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2025-048",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2025-048",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2025-047",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2025-046",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2025-046",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2025-046",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2025-046",
+    "country_code": "FR",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "cnil-2025-046",
+    "country_code": "FR",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "cnil-2025-046",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2025-046",
+    "country_code": "FR",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "cnil-2025-045",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2025-045",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2025-045",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-045",
+    "country_code": "FR",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "cnil-2025-045",
+    "country_code": "FR",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "cnil-2025-045",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2025-045",
+    "country_code": "FR",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "cnil-2025-044",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2025-043",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2025-043",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2025-042",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2025-041",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2025-040",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2025-040",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-040",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2025-039",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2025-039",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2025-039",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2025-038",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2025-037",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2025-036",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2025-036",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2025-036",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-035",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2025-034",
+    "country_code": "FR",
+    "theme_id": "purpose"
+  },
+  {
+    "case_id": "cnil-2025-033",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2025-033",
+    "country_code": "FR",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "cnil-2025-033",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2025-033",
+    "country_code": "FR",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "cnil-2025-033",
+    "country_code": "FR",
+    "theme_id": "dpo"
+  },
+  {
+    "case_id": "cnil-2025-032",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2025-031",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2025-031",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2025-031",
+    "country_code": "FR",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "cnil-2025-030",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2025-030",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2025-030",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2025-029",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2025-028",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-028",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2025-027",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2025-027",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2025-027",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-027",
+    "country_code": "FR",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "cnil-2025-026",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2025-026",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2025-026",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-026",
+    "country_code": "FR",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "cnil-2025-026",
+    "country_code": "FR",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "cnil-2025-025",
+    "country_code": "FR",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "cnil-2025-025",
+    "country_code": "FR",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "cnil-2025-025",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2025-025",
+    "country_code": "FR",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "cnil-2025-024",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2025-023",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2025-022",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2025-022",
+    "country_code": "FR",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "cnil-2025-021",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2025-021",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2025-020",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2025-020",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2025-019",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2025-018",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2025-018",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-018",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2025-018",
+    "country_code": "FR",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "cnil-2025-017",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2025-016",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2025-015",
+    "country_code": "FR",
+    "theme_id": "purpose"
+  },
+  {
+    "case_id": "cnil-2025-015",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2025-015",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-015",
+    "country_code": "FR",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "cnil-2025-014",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2025-013",
+    "country_code": "FR",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "cnil-2025-013",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2025-013",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2025-012",
+    "country_code": "FR",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "cnil-2025-012",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2025-010",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2025-010",
+    "country_code": "FR",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "cnil-2025-010",
+    "country_code": "FR",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "cnil-2025-010",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-010",
+    "country_code": "FR",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "cnil-2025-010",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2025-010",
+    "country_code": "FR",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "cnil-2025-009",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2025-009",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-009",
+    "country_code": "FR",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "cnil-2025-009",
+    "country_code": "FR",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "cnil-2025-008",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2025-008",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2025-008",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-008",
+    "country_code": "FR",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "cnil-2025-008",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2025-007",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-007",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2025-006",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2025-005",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2025-005",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2025-005",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-003",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2025-003",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2025-003",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-003",
+    "country_code": "FR",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "cnil-2025-002",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2025-002",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2025-002",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2025-002",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2025-001",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2025-001",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2025-001",
+    "country_code": "FR",
+    "theme_id": "accuracy"
+  },
+  {
+    "case_id": "cnil-2024-087",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-086",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-085",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-084",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2024-084",
+    "country_code": "FR",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "cnil-2024-084",
+    "country_code": "FR",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "cnil-2024-082",
+    "country_code": "FR",
+    "theme_id": "health_authorization"
+  },
+  {
+    "case_id": "cnil-2024-082",
+    "country_code": "FR",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "cnil-2024-081",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-080",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2024-080",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2024-080",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2024-080",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2024-080",
+    "country_code": "FR",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "cnil-2024-079",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-078",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-078",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-077",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-076",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-075",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-075",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-074",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-073",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2024-073",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2024-073",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2024-073",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-071",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2024-070",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2024-069",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2024-068",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2024-067",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2024-066",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2024-064",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2024-064",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-063",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-062",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2024-062",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-061",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2024-061",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2024-061",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2024-061",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-060",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-059",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2024-059",
+    "country_code": "FR",
+    "theme_id": "purpose"
+  },
+  {
+    "case_id": "cnil-2024-059",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2024-059",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2024-058",
+    "country_code": "FR",
+    "theme_id": "direct_marketing_unspecified"
+  },
+  {
+    "case_id": "cnil-2024-058",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2024-058",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2024-057",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2024-057",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2024-057",
+    "country_code": "FR",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "cnil-2024-056",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-056",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-055",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-054",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2024-054",
+    "country_code": "FR",
+    "theme_id": "direct_marketing_unspecified"
+  },
+  {
+    "case_id": "cnil-2024-052",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-052",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-051",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2024-051",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-051",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2024-047",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2024-047",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2024-046",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-046",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-044",
+    "country_code": "FR",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "cnil-2024-044",
+    "country_code": "FR",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "cnil-2024-044",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2024-043",
+    "country_code": "FR",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "cnil-2024-043",
+    "country_code": "FR",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "cnil-2024-043",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2024-043",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2024-042",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2024-042",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-042",
+    "country_code": "FR",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "cnil-2024-042",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2024-041",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-041",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-040",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2024-040",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2024-040",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-040",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2024-040",
+    "country_code": "FR",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "cnil-2024-039",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2024-039",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2024-039",
+    "country_code": "FR",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "cnil-2024-039",
+    "country_code": "FR",
+    "theme_id": "dpo"
+  },
+  {
+    "case_id": "cnil-2024-039",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-038",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2024-038",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-037",
+    "country_code": "FR",
+    "theme_id": "health_authorization"
+  },
+  {
+    "case_id": "cnil-2024-037",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2024-036",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-036",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-035",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2024-035",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2024-035",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2024-035",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-034",
+    "country_code": "FR",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "cnil-2024-034",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2024-034",
+    "country_code": "FR",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "cnil-2024-034",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2024-033",
+    "country_code": "FR",
+    "theme_id": "health_authorization"
+  },
+  {
+    "case_id": "cnil-2024-032",
+    "country_code": "FR",
+    "theme_id": "health_authorization"
+  },
+  {
+    "case_id": "cnil-2024-031",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-031",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-030",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2024-030",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2024-030",
+    "country_code": "FR",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "cnil-2024-029",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2024-029",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2024-029",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2024-026",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2024-025",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-025",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-024",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2024-023",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2024-023",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2024-023",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2024-022",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2024-022",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2024-022",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2024-021",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2024-021",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2024-021",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2024-019",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2024-019",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2024-017",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2024-016",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2024-014",
+    "country_code": "FR",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "cnil-2024-014",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2024-014",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2024-013",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-013",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-012",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2024-011",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2024-010",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2024-009",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2024-008",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2024-008",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-007",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-006",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2024-006",
+    "country_code": "FR",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "cnil-2024-006",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2024-006",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2024-005",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2024-004",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2024-004",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-004",
+    "country_code": "FR",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "cnil-2024-004",
+    "country_code": "FR",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "cnil-2024-003",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-002",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-002",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2024-001",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2024-001",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2023-042",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2023-042",
+    "country_code": "FR",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "cnil-2023-041",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2023-041",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2023-040",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2023-040",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2023-040",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2023-040",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2023-039",
+    "country_code": "FR",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "cnil-2023-039",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2023-038",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2023-038",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2023-038",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2023-038",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2023-037",
+    "country_code": "FR",
+    "theme_id": "dpo"
+  },
+  {
+    "case_id": "cnil-2023-036",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2023-035",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2023-034",
+    "country_code": "FR",
+    "theme_id": "dpo"
+  },
+  {
+    "case_id": "cnil-2023-034",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2023-031",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2023-030",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2023-030",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2023-029",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2023-029",
+    "country_code": "FR",
+    "theme_id": "purpose"
+  },
+  {
+    "case_id": "cnil-2023-029",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2023-028",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2023-028",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2023-028",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2023-025",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2023-024",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2023-024",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2023-024",
+    "country_code": "FR",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "cnil-2023-024",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2023-023",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2023-022",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2023-022",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2023-021",
+    "country_code": "FR",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "cnil-2023-021",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2023-021",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2023-021",
+    "country_code": "FR",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "cnil-2023-021",
+    "country_code": "FR",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "cnil-2023-020",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2023-019",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2023-018",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2023-018",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2023-018",
+    "country_code": "FR",
+    "theme_id": "criminal_data"
+  },
+  {
+    "case_id": "cnil-2023-018",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2023-018",
+    "country_code": "FR",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "cnil-2023-018",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2023-017",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2023-017",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2023-017",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2023-016",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2023-016",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2023-015",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2023-015",
+    "country_code": "FR",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "cnil-2023-015",
+    "country_code": "FR",
+    "theme_id": "criminal_data"
+  },
+  {
+    "case_id": "cnil-2023-015",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2023-014",
+    "country_code": "FR",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "cnil-2023-014",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2023-014",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2023-014",
+    "country_code": "FR",
+    "theme_id": "joint_controllers"
+  },
+  {
+    "case_id": "cnil-2023-013",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2023-013",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2023-013",
+    "country_code": "FR",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "cnil-2023-013",
+    "country_code": "FR",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "cnil-2023-013",
+    "country_code": "FR",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "cnil-2023-013",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2023-013",
+    "country_code": "FR",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "cnil-2023-013",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2023-013",
+    "country_code": "FR",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "cnil-2023-013",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2023-012",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2023-012",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2023-011",
+    "country_code": "FR",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "cnil-2023-011",
+    "country_code": "FR",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "cnil-2023-011",
+    "country_code": "FR",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "cnil-2023-011",
+    "country_code": "FR",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "cnil-2023-011",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2023-011",
+    "country_code": "FR",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "cnil-2023-008",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2023-007",
+    "country_code": "FR",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "cnil-2023-007",
+    "country_code": "FR",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "cnil-2023-006",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2023-006",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2023-006",
+    "country_code": "FR",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "cnil-2023-005",
+    "country_code": "FR",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "cnil-2023-005",
+    "country_code": "FR",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "cnil-2023-005",
+    "country_code": "FR",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "cnil-2023-004",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "cnil-2023-003",
+    "country_code": "FR",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "cnil-2023-003",
+    "country_code": "FR",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "DE-2024-TH-PATIENT-VIDEO",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2024-TH-FACEBOOK-BUSINESS-EMAIL",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2024-TH-CEMETERY-CAMERA",
+    "country_code": "DE",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "DE-2025-NW-TELECOM-ADVERTISING",
+    "country_code": "DE",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "DE-2025-NW-TELECOM-ADVERTISING",
+    "country_code": "DE",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "DE-2025-BW-POLICE",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2025-BW-POLICE",
+    "country_code": "DE",
+    "theme_id": "purpose"
+  },
+  {
+    "case_id": "DE-2025-SN-RESTAURANT-CAMERAS",
+    "country_code": "DE",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "DE-2025-SN-RESTAURANT-CAMERAS",
+    "country_code": "DE",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "DE-2025-SN-RESTAURANT-CAMERAS",
+    "country_code": "DE",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "DE-2025-SN-RESTAURANT-CAMERAS",
+    "country_code": "DE",
+    "theme_id": "dpo"
+  },
+  {
+    "case_id": "DE-2025-SN-RESTAURANT-CAMERAS",
+    "country_code": "DE",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "DE-2025-SN-POLICE-STATION-VIDEO",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2025-SN-PASSAGE-CAMERAS",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2025-SN-COACH-DASHCAM",
+    "country_code": "DE",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "DE-2025-SH-DOCTOR-REVIEW",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2025-SH-DOCTOR-REVIEW",
+    "country_code": "DE",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "DE-2025-NI-PUB-COOPERATION",
+    "country_code": "DE",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "DE-2025-NI-PUB-CAMERAS",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2025-NI-PUB-CAMERAS",
+    "country_code": "DE",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "DE-2025-NI-PETROL-CAMERAS",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2025-NI-MEAT-CAMERAS",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2025-NI-LOGISTICS-CAMERAS",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2025-NI-BANK-PROFILING",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2025-HH-TRADE",
+    "country_code": "DE",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "DE-2025-HH-CREDIT",
+    "country_code": "DE",
+    "theme_id": "automated_decisions"
+  },
+  {
+    "case_id": "DE-2025-HH-CREDIT",
+    "country_code": "DE",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "DE-2025-HH-CREDIT",
+    "country_code": "DE",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "DE-2025-HE-PARKING-COOP",
+    "country_code": "DE",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "DE-2025-HE-LAWYER",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2025-HE-LAWYER",
+    "country_code": "DE",
+    "theme_id": "criminal_data"
+  },
+  {
+    "case_id": "DE-2025-HE-HEALTH-COMPARATOR",
+    "country_code": "DE",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "DE-2025-HE-FOOD-PLATFORM",
+    "country_code": "DE",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "DE-2025-HE-FOOD-PLATFORM",
+    "country_code": "DE",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "DE-2025-HE-FASHION",
+    "country_code": "DE",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "DE-2025-HE-CRUISE",
+    "country_code": "DE",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "DE-2025-HE-COVID-RESULTS",
+    "country_code": "DE",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "DE-2025-HB-POLICE-COLLEAGUE",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2025-HB-POLICE-COLLEAGUE",
+    "country_code": "DE",
+    "theme_id": "purpose"
+  },
+  {
+    "case_id": "DE-2025-HB-INSURANCE-EMPLOYEE",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2025-HB-INSURANCE-EMPLOYEE",
+    "country_code": "DE",
+    "theme_id": "purpose"
+  },
+  {
+    "case_id": "DE-2025-HB-HEALTH-OFFICER",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2025-HB-HEALTH-OFFICER",
+    "country_code": "DE",
+    "theme_id": "purpose"
+  },
+  {
+    "case_id": "DE-2025-BY-WANTED-POSTER",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2025-BY-UNANSWERED-ORDER",
+    "country_code": "DE",
+    "theme_id": "authority_orders"
+  },
+  {
+    "case_id": "DE-2025-BY-SECURITY-GPS",
+    "country_code": "DE",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "DE-2025-BY-EMPLOYEE-AIRTAG",
+    "country_code": "DE",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "DE-2025-BY-EMPLOYEE-AIRTAG",
+    "country_code": "DE",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "DE-2025-BY-CARE-LIVESTREAM",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2025-BW-TAXI",
+    "country_code": "DE",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "DE-2025-BW-TAXI",
+    "country_code": "DE",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "DE-2025-BW-TAXI",
+    "country_code": "DE",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "DE-2025-BW-PROPERTY-DOCUMENTS",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2025-BW-PROPERTY-DOCUMENTS",
+    "country_code": "DE",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "DE-2025-BW-CAR-DEALER",
+    "country_code": "DE",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "DE-2025-BW-BROKER-RETENTION",
+    "country_code": "DE",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "DE-2025-BW-BROKER-RETENTION",
+    "country_code": "DE",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "DE-2025-BW-BROKER-LIST",
+    "country_code": "DE",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "DE-2025-BW-BROKER-LIST",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2025-BFDI-RIGHTS",
+    "country_code": "DE",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "DE-2025-BE-MEDICAL-EMAIL",
+    "country_code": "DE",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "DE-2025-BE-DOCTOR",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2025-BE-DOCTOR",
+    "country_code": "DE",
+    "theme_id": "purpose"
+  },
+  {
+    "case_id": "DE-2025-BE-CLINIC-VIDEO",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2025-BE-CLINIC-VIDEO",
+    "country_code": "DE",
+    "theme_id": "purpose"
+  },
+  {
+    "case_id": "DE-2025-BB-CAMPSITE-CAMERAS",
+    "country_code": "DE",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "DE-2025-BB-CAMPSITE-CAMERAS",
+    "country_code": "DE",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "DE-2025-BB-CAMPSITE-CAMERAS",
+    "country_code": "DE",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "DE-2024-SL-PRESCRIPTION-FAX",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2024-SL-PRESCRIPTION-FAX",
+    "country_code": "DE",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "DE-2024-SL-ID-FACEBOOK",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2024-SL-ESTATE-COOPERATION",
+    "country_code": "DE",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "DE-2024-SL-CASH-PHONE-PURCHASE",
+    "country_code": "DE",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "DE-2024-SL-CASH-PHONE-PURCHASE",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2024-SL-CARE-TIKTOK",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2024-SL-CARE-TIKTOK",
+    "country_code": "DE",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "DE-2024-MV-HOSPITAL-FILES",
+    "country_code": "DE",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "DE-2024-MV-HOSPITAL-FILES",
+    "country_code": "DE",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "DE-2024-HH-ONLINE-RETAIL",
+    "country_code": "DE",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "DE-2024-HH-LOGISTICS",
+    "country_code": "DE",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "DE-2024-HH-HOTEL",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2024-HH-COLLECTION",
+    "country_code": "DE",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "DE-2024-HH-COLLECTION",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2024-HH-ADVERTISING",
+    "country_code": "DE",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "DE-2024-HH-ADVERTISING",
+    "country_code": "DE",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "DE-2024-HE-WEBSITE-COOP",
+    "country_code": "DE",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "DE-2024-HE-HOME-PATIENT-FILES",
+    "country_code": "DE",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "DE-2024-HE-HOME-PATIENT-FILES",
+    "country_code": "DE",
+    "theme_id": "purpose"
+  },
+  {
+    "case_id": "DE-2024-BY-CARE-CERTIFICATES",
+    "country_code": "DE",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "DE-2024-BY-BANK-CONSENT",
+    "country_code": "DE",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "DE-2024-BE-RECEPTIONIST",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2024-BE-RECEPTIONIST",
+    "country_code": "DE",
+    "theme_id": "purpose"
+  },
+  {
+    "case_id": "DE-2024-BE-PRACTICE-SOFTWARE",
+    "country_code": "DE",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "DE-2023-BE-EMPLOYEE-LIST",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2023-BE-EMPLOYEE-LIST",
+    "country_code": "DE",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "DE-2023-BE-EMPLOYEE-LIST",
+    "country_code": "DE",
+    "theme_id": "dpo"
+  },
+  {
+    "case_id": "DE-2023-BE-EMPLOYEE-LIST",
+    "country_code": "DE",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "DE-2023-BE-EMPLOYEE-LIST",
+    "country_code": "DE",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "DE-2023-BY-STORE-EMPLOYEE",
+    "country_code": "DE",
+    "theme_id": "purpose"
+  },
+  {
+    "case_id": "DE-2023-BY-STORE-EMPLOYEE",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2023-BY-SHOP-DETECTIVE",
+    "country_code": "DE",
+    "theme_id": "purpose"
+  },
+  {
+    "case_id": "DE-2023-BY-SHOP-DETECTIVE",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2023-BY-PRIVATE-AIRTAG",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2023-BY-OFFICER-PHONE",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2023-BY-LAKE-CAMERA",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2023-BY-DOCTOR-REVIEW",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2023-BE-SOCKET-CAMERAS",
+    "country_code": "DE",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "DE-2023-BE-SOCKET-CAMERAS",
+    "country_code": "DE",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "DE-2023-BE-CREDIT",
+    "country_code": "DE",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "DE-2023-BE-CREDIT",
+    "country_code": "DE",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "DE-2023-BE-CREDIT",
+    "country_code": "DE",
+    "theme_id": "automated_decisions"
+  },
+  {
+    "case_id": "DE-2022-NI-PROFILING",
+    "country_code": "DE",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "DE-2022-NI-PROFILING",
+    "country_code": "DE",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "DE-2022-NI-VOLKSWAGEN",
+    "country_code": "DE",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "DE-2022-NI-VOLKSWAGEN",
+    "country_code": "DE",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "DE-2022-NI-VOLKSWAGEN",
+    "country_code": "DE",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "DE-2022-NI-VOLKSWAGEN",
+    "country_code": "DE",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "DE-2022-ST-UNIVERSITY-HOSPITAL",
+    "country_code": "DE",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "DE-2022-ST-TEST-CENTRE-WHATSAPP",
+    "country_code": "DE",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "DE-2022-ST-TEST-CENTRE-WHATSAPP",
+    "country_code": "DE",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "DE-2022-ST-TEST-CENTRE-WHATSAPP",
+    "country_code": "DE",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "DE-2022-ST-GAMES-PRECONSENT",
+    "country_code": "DE",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "DE-2022-ST-GAMES-PRECONSENT",
+    "country_code": "DE",
+    "theme_id": "privacy_by_design"
+  },
+  {
+    "case_id": "DE-2022-ST-GAMES-NO-OPTOUT",
+    "country_code": "DE",
+    "theme_id": "cookies"
+  },
+  {
+    "case_id": "DE-2022-ST-GAMES-NO-OPTOUT",
+    "country_code": "DE",
+    "theme_id": "privacy_by_design"
+  },
+  {
+    "case_id": "DE-2022-ST-EMERGENCY-DPO",
+    "country_code": "DE",
+    "theme_id": "dpo"
+  },
+  {
+    "case_id": "DE-2022-BE-DPO-CONFLICT",
+    "country_code": "DE",
+    "theme_id": "dpo"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00627-2025",
+    "country_code": "ES",
+    "theme_id": "accuracy"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00498-2025",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00035-2026",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00043-2026",
+    "country_code": "ES",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00035-2025",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00223-2025",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00637-2025",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00464-2025",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00464-2025",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00440-2025",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00440-2025",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00028-2026",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00027-2026",
+    "country_code": "ES",
+    "theme_id": "privacy_by_design"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00472-2024",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00500-2025",
+    "country_code": "ES",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00194-2025",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00619-2025",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00256-2025",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00028-2025",
+    "country_code": "ES",
+    "theme_id": "privacy_by_design"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00028-2025",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00442-2025",
+    "country_code": "ES",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00355-2025",
+    "country_code": "ES",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00302-2025",
+    "country_code": "ES",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00280-2025",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00280-2025",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00238-2025",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00238-2025",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00009-2026",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00560-2025",
+    "country_code": "ES",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00547-2024",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00332-2024",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00264-2024",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00264-2024",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00211-2025",
+    "country_code": "ES",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00104-2025",
+    "country_code": "ES",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00085-2025",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00437-2024",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00101-2025",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00101-2025",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00488-2024",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00516-2025",
+    "country_code": "ES",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00479-2025",
+    "country_code": "ES",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00241-2025",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00241-2025",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00061-2025",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00373-2025",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00247-2024",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00316-2025",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00316-2025",
+    "country_code": "ES",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00421-2025",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00195-2025",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00391-2024",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00284-2025",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00058-2025",
+    "country_code": "ES",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00160-2024",
+    "country_code": "ES",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00160-2024",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00160-2024",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00160-2024",
+    "country_code": "ES",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00251-2025",
+    "country_code": "ES",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00251-2025",
+    "country_code": "ES",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00048-2025",
+    "country_code": "ES",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00161-2024",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00161-2024",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00192-2024",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00170-2024",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00167-2025",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00167-2025",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00167-2025",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00168-2025",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00168-2025",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00168-2025",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00232-2025",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00232-2025",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00232-2025",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00215-2025",
+    "country_code": "ES",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00215-2025",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00215-2025",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00544-2023",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00409-2023",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00027-2024",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00547-2023",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00004-2024",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00003-2024",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00221-2022",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00221-2022",
+    "country_code": "ES",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00346-2024",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00482-2023",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00097-2024",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00501-2023",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00501-2023",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00202-2023",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00335-2023",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00570-2023",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00570-2023",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00494-2023",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00569-2023",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00569-2023",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00088-2024",
+    "country_code": "ES",
+    "theme_id": "accuracy"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00158-2024",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00154-2023",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00246-2023",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00203-2023",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00699-2022",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00262-2023",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00259-2023",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00304-2023",
+    "country_code": "ES",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00122-2023",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00020-2023",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00020-2023",
+    "country_code": "ES",
+    "theme_id": "privacy_by_design"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00317-2023",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00276-2023",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00276-2023",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00253-2023",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00253-2023",
+    "country_code": "ES",
+    "theme_id": "dpo"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00215-2023",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00579-2022",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00141-2023",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00141-2023",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00280-2023",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00295-2023",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00272-2023",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00409-2021",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00624-2022",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00331-2022",
+    "country_code": "ES",
+    "theme_id": "privacy_by_design"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00331-2022",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00328-2022",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00328-2022",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00085-2023",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00690-2022",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00065-2023",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00525-2022",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00109-2022",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00499-2022",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00499-2022",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00482-2022",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00255-2022",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00231-2022",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00453-2022",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00453-2022",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00340-2022",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00340-2022",
+    "country_code": "ES",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00485-2021",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00060-2022",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00138-2022",
+    "country_code": "ES",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00246-2022",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00246-2022",
+    "country_code": "ES",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00356-2022",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00261-2022",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00626-2021",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00617-2021",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00617-2021",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00581-2021",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00421-2021",
+    "country_code": "ES",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00400-2021",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00586-2021",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00036-2022",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00628-2021",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00533-2021",
+    "country_code": "ES",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00533-2021",
+    "country_code": "ES",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00533-2021",
+    "country_code": "ES",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00494-2021",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "ES-AEPD-PS-00337-2021",
+    "country_code": "ES",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "LT-VDAI-2026-06-19-3R-1143",
+    "country_code": "LT",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "LT-VDAI-2026-06-05-3R-1040",
+    "country_code": "LT",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "LT-VDAI-2026-06-05-3R-1040",
+    "country_code": "LT",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "LT-VDAI-2026-03-23-3R-490",
+    "country_code": "LT",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "LT-VDAI-2026-02-13-3R-252",
+    "country_code": "LT",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "LT-VDAI-2026-02-13-3R-252",
+    "country_code": "LT",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "LT-VDAI-2026-02-13-3R-252",
+    "country_code": "LT",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "LT-VDAI-2026-02-13-3R-252",
+    "country_code": "LT",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "LT-VDAI-2026-02-13-3R-252",
+    "country_code": "LT",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "LT-VDAI-2025-11-03-01",
+    "country_code": "LT",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "LT-VDAI-2025-10-07-3R-1400",
+    "country_code": "LT",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "LT-VDAI-2025-07-04-02",
+    "country_code": "LT",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "LT-VDAI-2025-07-04-02",
+    "country_code": "LT",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "LT-VDAI-2025-02-28-03",
+    "country_code": "LT",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "LT-VDAI-2025-02-28-03",
+    "country_code": "LT",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "LT-VDAI-2025-01-17-04",
+    "country_code": "LT",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "LT-VDAI-2024-11-28-05",
+    "country_code": "LT",
+    "theme_id": "authority_orders"
+  },
+  {
+    "case_id": "LT-VDAI-2024-07-16-06",
+    "country_code": "LT",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "LT-VDAI-2024-07-02-07",
+    "country_code": "LT",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "LT-VDAI-2024-07-02-07",
+    "country_code": "LT",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "LT-VDAI-2024-07-02-07",
+    "country_code": "LT",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "LT-VDAI-2024-07-02-07",
+    "country_code": "LT",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "LT-VDAI-2024-06-20-12",
+    "country_code": "LT",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "LT-VDAI-2024-04-23-08",
+    "country_code": "LT",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "LT-VDAI-2024-04-23-08",
+    "country_code": "LT",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "LT-VDAI-2024-04-23-08",
+    "country_code": "LT",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "LT-VDAI-2024-04-11-11",
+    "country_code": "LT",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "LT-VDAI-2024-03-26-09",
+    "country_code": "LT",
+    "theme_id": "authority_orders"
+  },
+  {
+    "case_id": "LT-VDAI-2024-01-10-10",
+    "country_code": "LT",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "LT-VDAI-2024-VILNIUS-DISTRICT-9000",
+    "country_code": "LT",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "LT-VDAI-2024-VILNIUS-DISTRICT-9000",
+    "country_code": "LT",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "LT-VDAI-2023-09-11-14",
+    "country_code": "LT",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "LT-VDAI-2023-09-11-14",
+    "country_code": "LT",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "LT-VDAI-2023-09-11-14",
+    "country_code": "LT",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "LT-VDAI-2023-09-11-14",
+    "country_code": "LT",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "LT-VDAI-2023-09-11-13",
+    "country_code": "LT",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "LT-VDAI-2023-09-11-13",
+    "country_code": "LT",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "LT-VDAI-2023-09-11-13",
+    "country_code": "LT",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "LT-VDAI-2023-09-11-13",
+    "country_code": "LT",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "LT-VDAI-2023-04-20-15",
+    "country_code": "LT",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "LT-VDAI-2023-04-20-15",
+    "country_code": "LT",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "LT-VDAI-2023-03-07-16",
+    "country_code": "LT",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "LT-VDAI-2023-03-07-16",
+    "country_code": "LT",
+    "theme_id": "authority_orders"
+  },
+  {
+    "case_id": "LT-VDAI-2023-01-24-17",
+    "country_code": "LT",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "LT-VDAI-2023-01-24-17",
+    "country_code": "LT",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "LT-VDAI-2023-MARCH-PUBLIC-BREACH-6600",
+    "country_code": "LT",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "LT-VDAI-2023-EHEALTH-DOCTOR-840",
+    "country_code": "LT",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "LT-VDAI-2023-EHEALTH-DOCTOR-840",
+    "country_code": "LT",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "LT-VDAI-2022-12-22-18",
+    "country_code": "LT",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "LT-VDAI-2022-12-22-18",
+    "country_code": "LT",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "LT-VDAI-2022-12-22-18",
+    "country_code": "LT",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "LT-VDAI-2022-12-22-18",
+    "country_code": "LT",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "LT-VDAI-2022-12-22-18",
+    "country_code": "LT",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "LT-VDAI-2022-12-22-18",
+    "country_code": "LT",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "LT-VDAI-2022-12-21-19",
+    "country_code": "LT",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "LT-VDAI-2022-12-21-19",
+    "country_code": "LT",
+    "theme_id": "purpose"
+  },
+  {
+    "case_id": "LT-VDAI-2022-09-12-3R-773",
+    "country_code": "LT",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "LT-VDAI-2022-09-12-3R-773",
+    "country_code": "LT",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "LT-VDAI-2022-05-02-20",
+    "country_code": "LT",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "LT-VDAI-2022-01-20-VASA-2R-308",
+    "country_code": "LT",
+    "theme_id": "accuracy"
+  },
+  {
+    "case_id": "LT-VDAI-2022-01-06-3R-17-PRONUOMA",
+    "country_code": "LT",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "LT-VDAI-2022-01-06-3R-17-PRONUOMA",
+    "country_code": "LT",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "LT-VDAI-2022-01-06-3R-17-PRONUOMA",
+    "country_code": "LT",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "LT-VDAI-2022-01-06-3R-17-PRONUOMA",
+    "country_code": "LT",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "LT-VDAI-2021-11-29-CITYBEE",
+    "country_code": "LT",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "LT-VDAI-2021-REGISTRU-CENTRAS",
+    "country_code": "LT",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "LT-VDAI-2021-02-24-NVSC-KARANTINAS",
+    "country_code": "LT",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "LT-VDAI-2021-02-24-NVSC-KARANTINAS",
+    "country_code": "LT",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "LT-VDAI-2021-02-24-NVSC-KARANTINAS",
+    "country_code": "LT",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "LT-VDAI-2021-02-24-NVSC-KARANTINAS",
+    "country_code": "LT",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "LT-VDAI-2021-02-24-NVSC-KARANTINAS",
+    "country_code": "LT",
+    "theme_id": "authority_orders"
+  },
+  {
+    "case_id": "LT-VDAI-2021-VS-FITNESS",
+    "country_code": "LT",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "LT-VDAI-2021-VS-FITNESS",
+    "country_code": "LT",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "LT-VDAI-2021-VS-FITNESS",
+    "country_code": "LT",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "LT-VDAI-2021-VS-FITNESS",
+    "country_code": "LT",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "LT-VDAI-2021-VS-FITNESS",
+    "country_code": "LT",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "LT-VDAI-2021-VS-FITNESS",
+    "country_code": "LT",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "LT-VDAI-2021-VS-FITNESS",
+    "country_code": "LT",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "LT-VDAI-2021-FALSE-INFORMATION",
+    "country_code": "LT",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "LT-VDAI-2020-12-11-3R-1096",
+    "country_code": "LT",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "LT-VDAI-2020-12-11-3R-1096",
+    "country_code": "LT",
+    "theme_id": "purpose"
+  },
+  {
+    "case_id": "LT-VDAI-2020-VILNIUS-ADOPTION",
+    "country_code": "LT",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "LT-VDAI-2020-VILNIUS-ADOPTION",
+    "country_code": "LT",
+    "theme_id": "accuracy"
+  },
+  {
+    "case_id": "LT-VDAI-2020-04-03-VILNIUS-TRANSPORT-3R-309",
+    "country_code": "LT",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "LT-VDAI-2020-04-03-VILNIUS-TRANSPORT-3R-309",
+    "country_code": "LT",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "LT-VDAI-2020-04-03-VILNIUS-TRANSPORT-3R-309",
+    "country_code": "LT",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "LT-VDAI-2019-05-14-MISTERTANGO",
+    "country_code": "LT",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "LT-VDAI-2019-05-14-MISTERTANGO",
+    "country_code": "LT",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "LT-VDAI-2019-05-14-MISTERTANGO",
+    "country_code": "LT",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "LT-VDAI-2019-05-14-MISTERTANGO",
+    "country_code": "LT",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-5-2026",
+    "country_code": "PL",
+    "theme_id": "authority_orders"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-7-2026",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-3-2026",
+    "country_code": "PL",
+    "theme_id": "authority_orders"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-24-2025",
+    "country_code": "PL",
+    "theme_id": "dpo"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-34-2023",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-ZSPU-440-1111-2019",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-5-2025",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-5-2025",
+    "country_code": "PL",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-5-2025",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-4-2026",
+    "country_code": "PL",
+    "theme_id": "authority_orders"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-27-2023",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-27-2023",
+    "country_code": "PL",
+    "theme_id": "privacy_by_design"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-27-2023",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-27-2023",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-13-2025",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-17-2025",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-7-2022",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-16-2025",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-13-2023",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-13-2023",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-33-2022",
+    "country_code": "PL",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-33-2022",
+    "country_code": "PL",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-33-2022",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-12-2025",
+    "country_code": "PL",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-15-2025",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-15-2025",
+    "country_code": "PL",
+    "theme_id": "dpo"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-1-2023",
+    "country_code": "PL",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-1-2023",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-1-2023",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-9-2025",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-4-2025",
+    "country_code": "PL",
+    "theme_id": "dpo"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-5-2024",
+    "country_code": "PL",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-5-2024",
+    "country_code": "PL",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-5-2024",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-5-2024",
+    "country_code": "PL",
+    "theme_id": "privacy_by_design"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-5-2024",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DOKE-561-6-2023",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DOKE-561-11-2024",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-27-2022",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-27-2022",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-27-2022",
+    "country_code": "PL",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-3-2024",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-3-2024",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-17-2024",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-3-2025",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-7-2025",
+    "country_code": "PL",
+    "theme_id": "dpo"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-6-2020",
+    "country_code": "PL",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-6-2020",
+    "country_code": "PL",
+    "theme_id": "purpose"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-6-2020",
+    "country_code": "PL",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-17-2022",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5130-4179-2020",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5130-4179-2020",
+    "country_code": "PL",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5130-4179-2020",
+    "country_code": "PL",
+    "theme_id": "dpo"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5130-4179-2020",
+    "country_code": "PL",
+    "theme_id": "privacy_by_design"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5130-4179-2020",
+    "country_code": "PL",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5130-4179-2020",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-1-2025",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-48-2022",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-48-2022",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-30-2022",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-30-2022",
+    "country_code": "PL",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-30-2022",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DOKE-561-2-2024",
+    "country_code": "PL",
+    "theme_id": "authority_orders"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-10-2023",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-10-2023",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-10-2023",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DS-523-4750-2023",
+    "country_code": "PL",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "PL-UODO-DS-523-4750-2023",
+    "country_code": "PL",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-1-2025",
+    "country_code": "PL",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-10-2024",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-4-2024",
+    "country_code": "PL",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-4-2024",
+    "country_code": "PL",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-4-2024",
+    "country_code": "PL",
+    "theme_id": "transparency"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-4-2024",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-4-2024",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-14-2022",
+    "country_code": "PL",
+    "theme_id": "dpo"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-14-2022",
+    "country_code": "PL",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-14-2022",
+    "country_code": "PL",
+    "theme_id": "dpia"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-6-2024",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-9-2024",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-9-2024",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5130-2415-2020",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5130-2415-2020",
+    "country_code": "PL",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5130-2415-2020",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-7-2024",
+    "country_code": "PL",
+    "theme_id": "dpo"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-35-2021",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-35-2021",
+    "country_code": "PL",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-35-2021",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-1-2021",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-1-2021",
+    "country_code": "PL",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-1-2021",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-1-2021",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-33-2023",
+    "country_code": "PL",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-33-2023",
+    "country_code": "PL",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-33-2023",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DOKE-561-4-2024",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-1-2024",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DOKE-561-1-2024",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-57-2022",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-57-2022",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-57-2022",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-21-2022",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-35-2021",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-35-2021",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-58-2022",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-29-2023",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-29-2023",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-32-2022",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-32-2022",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-59-2022",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-28-2023",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-53-2021",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-ZSPR-421-2-2019-ZSPR-405-67-2019",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-ZSPR-421-2-2019-ZSPR-405-67-2019",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-49-2022",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DOKE-561-14-2023",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-34-2022",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-34-2022",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-32-2023",
+    "country_code": "PL",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-32-2023",
+    "country_code": "PL",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-32-2023",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-32-2023",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-32-2023",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-42-2022",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DOKE-561-18-2023",
+    "country_code": "PL",
+    "theme_id": "authority_orders"
+  },
+  {
+    "case_id": "PL-UODO-DOKE-561-5-2023",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DOKE-561-2-2023",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-6-2023",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-26-2023",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-26-2023",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-13-2022",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DOKE-561-7-2023",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-55-2022",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DOKE-561-8-2023",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-47-2022",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-47-2022",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-43-2022",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DOKE-561-1-2023",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-38-2022",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-8-2021",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-8-2021",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-8-2021",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-37-2022",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-56-2022",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-56-2022",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-44-2022",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-44-2022",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-31-2022",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-31-2022",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-45-2022",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-49-2021",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-50-2021",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-50-2021",
+    "country_code": "PL",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-50-2021",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-31-2021",
+    "country_code": "PL",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-31-2021",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-35-2022",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-24-2022",
+    "country_code": "PL",
+    "theme_id": "authority_orders"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-12-2020",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-12-2020",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-20-2022",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-30-2022",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-5-2021",
+    "country_code": "PL",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-5-2021",
+    "country_code": "PL",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-5-2021",
+    "country_code": "PL",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-6-2021",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-1-2020",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-8-2022",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-8-2022",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-15-2021",
+    "country_code": "PL",
+    "theme_id": "authority_orders"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-5-2022",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-25-2021",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-23-2021",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-29-2022",
+    "country_code": "PL",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-27-2022",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-34-2021",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5110-12-2021",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-51-2021",
+    "country_code": "PL",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-18-2021",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5130-2215-2020",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5130-2215-2020",
+    "country_code": "PL",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-33-2021",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-1-2021",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-19-2021",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-13-2021",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5130-2559-2020",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-16-2021",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-16-2021",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-22-2021",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-11-2020",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-3-2021",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-23-2020",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5130-3114-2020",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-25-2020",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5130-2024-2020",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5130-2024-2020",
+    "country_code": "PL",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-7-2020",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-6-2020",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-16-2020",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-11-2020",
+    "country_code": "PL",
+    "theme_id": "authority_orders"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5130-1354-2020",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5130-1354-2020",
+    "country_code": "PL",
+    "theme_id": "privacy_by_design"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5131-5-2020",
+    "country_code": "PL",
+    "theme_id": "breach_response"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-13-2020",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKN-5112-13-2020",
+    "country_code": "PL",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "PL-UODO-ZSO-S-421-25-2019",
+    "country_code": "PL",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "PL-UODO-ZSO-S-421-25-2019",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-ZSO-S-421-25-2019",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-ZSO-S-421-25-2019",
+    "country_code": "PL",
+    "theme_id": "dpo"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-3-2020",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-2-2020",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-DKE-561-1-2020",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-ZSPR-421-19-2019",
+    "country_code": "PL",
+    "theme_id": "cooperation"
+  },
+  {
+    "case_id": "PL-UODO-ZSZZS-440-768-2018",
+    "country_code": "PL",
+    "theme_id": "minimization"
+  },
+  {
+    "case_id": "PL-UODO-ZSZZS-440-768-2018",
+    "country_code": "PL",
+    "theme_id": "sensitive_data"
+  },
+  {
+    "case_id": "PL-UODO-ZSPU-421-3-2019",
+    "country_code": "PL",
+    "theme_id": "processors"
+  },
+  {
+    "case_id": "PL-UODO-ZSPU-421-3-2019",
+    "country_code": "PL",
+    "theme_id": "retention"
+  },
+  {
+    "case_id": "PL-UODO-ZSPU-421-3-2019",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-ZSPU-421-3-2019",
+    "country_code": "PL",
+    "theme_id": "register"
+  },
+  {
+    "case_id": "PL-UODO-ZSPU-421-3-2019",
+    "country_code": "PL",
+    "theme_id": "accountability"
+  },
+  {
+    "case_id": "PL-UODO-ZSPR-421-7-2019",
+    "country_code": "PL",
+    "theme_id": "consent"
+  },
+  {
+    "case_id": "PL-UODO-ZSPR-421-7-2019",
+    "country_code": "PL",
+    "theme_id": "rights"
+  },
+  {
+    "case_id": "PL-UODO-ZSPR-421-7-2019",
+    "country_code": "PL",
+    "theme_id": "lawfulness"
+  },
+  {
+    "case_id": "PL-UODO-ZSPR-440-43-2019",
+    "country_code": "PL",
+    "theme_id": "security"
+  },
+  {
+    "case_id": "PL-UODO-ZSPR-421-3-2018",
+    "country_code": "PL",
+    "theme_id": "transparency"
+  }
+]

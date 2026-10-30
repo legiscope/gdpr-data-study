@@ -1,0 +1,158 @@
+[
+  {
+    "id": "transparency",
+    "label": "Mal informer les personnes",
+    "definition": "Information insuffisante sur l’utilisation des données ou l’exercice des droits.",
+    "check": "Vérifier que les personnes comprennent les usages de leurs données et les moyens d’exercer leurs droits."
+  },
+  {
+    "id": "rights",
+    "label": "Ne pas respecter les demandes des personnes",
+    "definition": "Accès, effacement, opposition et autres droits mentionnés dans la source.",
+    "check": "Tester le circuit de réception, de suivi et de réponse aux demandes."
+  },
+  {
+    "id": "security",
+    "label": "Protéger insuffisamment les données",
+    "definition": "Mesures de sécurité jugées insuffisantes ; une fuite seule ne prouve pas un manquement.",
+    "check": "Contrôler les accès, l’authentification, les mises à jour et la détection des accès anormaux."
+  },
+  {
+    "id": "cooperation",
+    "label": "Ne pas coopérer avec l’autorité de contrôle",
+    "definition": "Défaut de coopération explicitement mentionné ; distinct d’une simple injonction de mise en conformité.",
+    "check": "Désigner un responsable et conserver les réponses aux demandes de l’autorité."
+  },
+  {
+    "id": "minimization",
+    "label": "Collecter ou surveiller de façon excessive",
+    "definition": "Données excessives ou surveillance disproportionnée mentionnées par la source.",
+    "check": "Vérifier quelles données sont indispensables à chaque objectif."
+  },
+  {
+    "id": "retention",
+    "label": "Conserver les données trop longtemps",
+    "definition": "Durées de conservation non conformes ou suppression insuffisante.",
+    "check": "Vérifier que les durées définies sont effectivement appliquées dans les outils et sauvegardes concernés."
+  },
+  {
+    "id": "lawfulness",
+    "label": "Ne pas respecter les conditions légales d’utilisation",
+    "definition": "Licéité ou base légale explicitement en cause.",
+    "check": "Documenter le fondement de chaque usage, sans supposer que le consentement convient à tout."
+  },
+  {
+    "id": "cookies",
+    "label": "Ne pas respecter les règles sur les cookies",
+    "definition": "Information, consentement ou opposition aux cookies/traceurs en cause.",
+    "check": "Tester le dépôt de traceurs et les choix proposés avant et après refus."
+  },
+  {
+    "id": "consent",
+    "label": "Mal recueillir ou gérer le consentement",
+    "definition": "Consentement hors cookies, preuve ou retrait explicitement en cause.",
+    "check": "Vérifier la preuve du consentement, sa portée et la possibilité de le retirer."
+  },
+  {
+    "id": "processors",
+    "label": "Ne pas respecter les obligations de sous-traitance",
+    "definition": "Obligations d’un sous-traitant ou encadrement de la relation responsable de traitement/sous-traitant explicitement en cause.",
+    "check": "Vérifier les engagements et responsabilités des prestataires qui traitent des données."
+  },
+  {
+    "id": "dpia",
+    "label": "Omettre ou mal réaliser l’analyse d’impact requise",
+    "definition": "Analyse d’impact requise et absente ou défaillante.",
+    "check": "Examiner si le traitement nécessite une analyse d’impact et tenir cette analyse à jour."
+  },
+  {
+    "id": "register",
+    "label": "Mal tenir le registre des traitements",
+    "definition": "Registre des activités de traitement explicitement en cause.",
+    "check": "Vérifier que le registre décrit les traitements réellement effectués."
+  },
+  {
+    "id": "breach_response",
+    "label": "Mal gérer une violation de données",
+    "definition": "Documentation, notification à l’autorité ou communication aux personnes défaillante.",
+    "check": "Préparer un circuit de documentation et d’évaluation des notifications et communications nécessaires."
+  },
+  {
+    "id": "purpose",
+    "label": "Ne pas respecter la finalité prévue",
+    "definition": "Limitation ou compatibilité des finalités explicitement en cause.",
+    "check": "Vérifier la compatibilité d’un nouvel usage avant de réutiliser des données."
+  },
+  {
+    "id": "accuracy",
+    "label": "Utiliser des données inexactes",
+    "definition": "Exactitude ou actualisation des données en cause.",
+    "check": "Prévoir un moyen de rectifier et de mettre à jour les données."
+  },
+  {
+    "id": "dpo",
+    "label": "Mal organiser la fonction de DPO",
+    "definition": "Désignation, indépendance ou missions du délégué explicitement en cause.",
+    "check": "Vérifier le rôle, les moyens et les éventuels conflits d’intérêts du DPO."
+  },
+  {
+    "id": "privacy_by_design",
+    "label": "Négliger la protection dès la conception",
+    "definition": "Protection dès la conception ou par défaut explicitement en cause.",
+    "check": "Examiner les paramètres par défaut et les données accessibles dès la conception."
+  },
+  {
+    "id": "sensitive_data",
+    "label": "Traiter des données sensibles sans condition valable",
+    "definition": "Régime des données sensibles explicitement en cause, au-delà du simple contexte santé.",
+    "check": "Vérifier les conditions spécifiques applicables avant de traiter ces données."
+  },
+  {
+    "id": "health_authorization",
+    "label": "Ne pas respecter les règles des traitements de santé",
+    "definition": "Règles spécifiques au traitement de données de santé explicitement en cause ; une autorisation ou une disposition précise n’est pas présumée.",
+    "check": "Vérifier les formalités applicables au projet de traitement de données de santé."
+  },
+  {
+    "id": "international_transfers",
+    "label": "Mal encadrer un transfert international",
+    "definition": "Transferts de données hors du cadre autorisé explicitement en cause.",
+    "check": "Identifier les destinations et les garanties applicables aux transferts."
+  },
+  {
+    "id": "automated_decisions",
+    "label": "Prendre une décision automatisée sans garanties",
+    "definition": "Décision automatisée ou garanties associées explicitement en cause.",
+    "check": "Examiner les effets de la décision et les garanties requises pour les personnes."
+  },
+  {
+    "id": "accountability",
+    "label": "Ne pas démontrer le respect des règles",
+    "definition": "Principe de responsabilité ou obligation de pouvoir justifier la licéité du traitement explicitement en cause. La preuve du consentement et le registre restent dans leurs thèmes spécifiques.",
+    "check": "Conserver des preuves des choix, contrôles et mesures de conformité appliqués."
+  },
+  {
+    "id": "joint_controllers",
+    "label": "Mal définir les responsabilités entre organismes",
+    "definition": "Obligations entre responsables conjoints explicitement en cause.",
+    "check": "Définir et communiquer la répartition des obligations entre responsables conjoints."
+  },
+  {
+    "id": "criminal_data",
+    "label": "Mal encadrer les données pénales",
+    "definition": "Traitement de données relatives aux infractions ou condamnations explicitement en cause, distinct des catégories particulières de données.",
+    "check": "Vérifier les règles spécifiques et habilitations applicables aux données relatives aux infractions et condamnations."
+  },
+  {
+    "id": "direct_marketing_unspecified",
+    "label": "Ne pas respecter les règles de prospection (motif non précisé)",
+    "definition": "Le résumé cite les règles de prospection électronique sans préciser si le grief porte sur le consentement, l’opposition ou une autre obligation. Ce thème de repli n’est pas ajouté lorsque le résumé précise déjà le manquement.",
+    "check": "Vérifier les conditions d’envoi et les moyens d’opposition applicables à chaque campagne."
+  },
+  {
+    "id": "authority_orders",
+    "label": "Ne pas exécuter une injonction",
+    "definition": "Une mesure corrective imposée par l’autorité n’a pas été exécutée.",
+    "check": "Suivre chaque injonction, son délai et la preuve de son exécution."
+  }
+]

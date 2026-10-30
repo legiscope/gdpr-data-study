@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "version": "2026-10-30-source-audit",
+    "case_count": 2,
+    "data_as_of": "2026-10-25",
+    "sources_rechecked_on": "2026-10-30",
+    "analysis_status": "documented_collection",
+    "case_scope": "Jusqu’à 200 décisions de protection des données par pays, parmi les plus récentes de la collecte, RGPD et règles nationales liées inclus. Les montants connus sont rapportés à la population ; la sélection ne constitue pas un recensement national exhaustif.",
+    "recent_population_date": "2026-01-01",
+    "recent_selection_limit": 200,
+    "country_count": 1
+  },
+  "recent": [
+    {
+      "country_code": "EE",
+      "country_name": "Estonie",
+      "population": 1360745,
+      "population_status": null,
+      "population_source_url": "https://ec.europa.eu/eurostat/databrowser/view/tps00001/default/table?lang=fr",
+      "decision_count": 2,
+      "exact_date_count": 2,
+      "individual_reference_count": 2,
+      "amount_known_count": 2,
+      "amount_unknown_count": 0,
+      "amount_eur": 3005000.0,
+      "eur_per_resident": 2.2083491028811424,
+      "certified_latest_200": false,
+      "comparison_status": "documented_collection",
+      "date_start": "2024-12-18",
+      "date_end": "2025-09-05",
+      "coverage": "Deux décisions monétaires individuelles liées au RGPD avec dates et références vérifiées : Allium UPI (2025) et Eesti Metsakinnistud (2024). L’AKI n’a prononcé que 35 amendes de mai 2018 à décembre 2024, tous fondements confondus ; son rapport 2025 regroupe cinq amendes ou paiements coercitifs. La sélection nationale reste incomplète, et 200 amendes documentées ne sont pas établies.",
+      "limitations": [
+        "La page de décisions de l’AKI publie des injonctions, des décisions de recours et des positions, mais pas un registre chronologique exhaustif des amendes. Le registre documentaire exclut le texte des documents à accès restreint ; leur communication nécessite une demande d’information.",
+        "La recherche publique comprend aussi des annonces relatives à des amendes étrangères, des explications et des suites judiciaires. Elle ne permet pas de reconstituer toutes les décisions nationales.",
+        "L’agrégat annuel 2025 mêle amendes prononcées et paiements coercitifs recouvrés : ses 3 088 100 € ne sont pas ajoutés au montant des décisions individuelles.",
+        "Le rapport annuel 2024 compte 35 décisions d’amende de mai 2018 à décembre 2024, dont deux annulées ; ce total englobe aussi des infractions nationales hors corpus individuel documenté. Le rapport 2025 compte cinq occurrences dans une catégorie mêlant amendes et paiements coercitifs, sans inventaire individuel.",
+        "Pour Allium UPI, le communiqué de l’AKI ne donne pas la référence ; un ordre du tribunal relatif au recours identifie le 5 septembre 2025 comme date de la décision AKI et 951024000008 comme numéro d’affaire. Le texte intégral de l’amende n’a pas été trouvé dans les sources publiques consultées.",
+        "Le suivi du recours s’arrête au communiqué officiel du 2 septembre 2026 : le tribunal a confirmé l’amende, mais son jugement n’était alors pas définitif.",
+        "Une amende de 800 € fondée sur l’IKS § 71 est une piste compatible avec le périmètre large de protection des données. Elle n’est pas ajoutée ici faute de provenance officielle individuelle et de suites de recours suffisamment réconciliées ; l’absence de sanction directement fondée sur le RGPD n’est pas un motif d’exclusion à elle seule."
+      ],
+      "authority_coverage": "Andmekaitse Inspektsioon (AKI), Estonie; communiqués, registre documentaire et rapports annuels officiels, complétés par un ordre du tribunal identifiant la décision Allium UPI.",
+      "amount_note": "Montant communiqué par AKI pour la décision individuelle; l’agrégat annuel mélangé de 2025 est exclu.",
+      "fx_note": null,
+      "source_register_url": "https://www.aki.ee/meist/aki-tegevus/aki-otsused"
+    }
+  ],
+  "countries": [
+    {
+      "code": "EE",
+      "name": "Estonie",
+      "case_count": 2,
+      "individual_reference_count": 2,
+      "coverage": "Deux décisions monétaires individuelles liées au RGPD avec dates et références vérifiées : Allium UPI (2025) et Eesti Metsakinnistud (2024). L’AKI n’a prononcé que 35 amendes de mai 2018 à décembre 2024, tous fondements confondus ; son rapport 2025 regroupe cinq amendes ou paiements coercitifs. La sélection nationale reste incomplète, et 200 amendes documentées ne sont pas établies.",
+      "authority_coverage": "Andmekaitse Inspektsioon (AKI), Estonie; communiqués, registre documentaire et rapports annuels officiels, complétés par un ordre du tribunal identifiant la décision Allium UPI.",
+      "limitations": [
+        "La page de décisions de l’AKI publie des injonctions, des décisions de recours et des positions, mais pas un registre chronologique exhaustif des amendes. Le registre documentaire exclut le texte des documents à accès restreint ; leur communication nécessite une demande d’information.",
+        "La recherche publique comprend aussi des annonces relatives à des amendes étrangères, des explications et des suites judiciaires. Elle ne permet pas de reconstituer toutes les décisions nationales.",
+        "L’agrégat annuel 2025 mêle amendes prononcées et paiements coercitifs recouvrés : ses 3 088 100 € ne sont pas ajoutés au montant des décisions individuelles.",
+        "Le rapport annuel 2024 compte 35 décisions d’amende de mai 2018 à décembre 2024, dont deux annulées ; ce total englobe aussi des infractions nationales hors corpus individuel documenté. Le rapport 2025 compte cinq occurrences dans une catégorie mêlant amendes et paiements coercitifs, sans inventaire individuel.",
+        "Pour Allium UPI, le communiqué de l’AKI ne donne pas la référence ; un ordre du tribunal relatif au recours identifie le 5 septembre 2025 comme date de la décision AKI et 951024000008 comme numéro d’affaire. Le texte intégral de l’amende n’a pas été trouvé dans les sources publiques consultées.",
+        "Le suivi du recours s’arrête au communiqué officiel du 2 septembre 2026 : le tribunal a confirmé l’amende, mais son jugement n’était alors pas définitif.",
+        "Une amende de 800 € fondée sur l’IKS § 71 est une piste compatible avec le périmètre large de protection des données. Elle n’est pas ajoutée ici faute de provenance officielle individuelle et de suites de recours suffisamment réconciliées ; l’absence de sanction directement fondée sur le RGPD n’est pas un motif d’exclusion à elle seule."
+      ],
+      "amount_note": "Montant communiqué par AKI pour la décision individuelle; l’agrégat annuel mélangé de 2025 est exclu.",
+      "date_start": "2024-12-18",
+      "date_end": "2025-09-05",
+      "input_status": "documented_official_subset_not_exhaustive"
+    }
+  ],
+  "themes": [
+    {
+      "id": "transparency",
+      "label": "Mal informer les personnes",
+      "definition": "Information insuffisante sur l’utilisation des données ou l’exercice des droits.",
+      "check": "Vérifier que les personnes comprennent les usages de leurs données et les moyens d’exercer leurs droits."
+    },
+    {
+      "id": "rights",
+      "label": "Ne pas respecter les demandes des personnes",
+      "definition": "Accès, effacement, opposition et autres droits mentionnés dans la source.",
+      "check": "Tester le circuit de réception, de suivi et de réponse aux demandes."
+    },
+    {
+      "id": "security",
+      "label": "Protéger insuffisamment les données",
+      "definition": "Mesures de sécurité jugées insuffisantes ; une fuite seule ne prouve pas un manquement.",
+      "check": "Contrôler les accès, l’authentification, les mises à jour et la détection des accès anormaux."
+    },
+    {
+      "id": "cooperation",
+      "label": "Ne pas coopérer avec l’autorité de contrôle",
+      "definition": "Défaut de coopération explicitement mentionné ; distinct d’une simple injonction de mise en conformité.",
+      "check": "Désigner un responsable et conserver les réponses aux demandes de l’autorité."
+    },
+    {
+      "id": "minimization",
+      "label": "Collecter ou surveiller de façon excessive",
+      "definition": "Données excessives ou surveillance disproportionnée mentionnées par la source.",
+      "check": "Vérifier quelles données sont indispensables à chaque objectif."
+    },
+    {
+      "id": "retention",
+      "label": "Conserver les données trop longtemps",
+      "definition": "Durées de conservation non conformes ou suppression insuffisante.",
+      "check": "Vérifier que les durées définies sont effectivement appliquées dans les outils et sauvegardes concernés."
+    },
+    {
+      "id": "lawfulness",
+      "label": "Ne pas respecter les conditions légales d’utilisation",
+      "definition": "Licéité ou base légale explicitement en cause.",
+      "check": "Documenter le fondement de chaque usage, sans supposer que le consentement convient à tout."
+    },
+    {
+      "id": "cookies",
+      "label": "Ne pas respecter les règles sur les cookies",
+      "definition": "Information, consentement ou opposition aux cookies/traceurs en cause.",
+      "check": "Tester le dépôt de traceurs et les choix proposés avant et après refus."
+    },
+    {
+      "id": "consent",
+      "label": "Mal recueillir ou gérer le consentement",
+      "definition": "Consentement hors cookies, preuve ou retrait explicitement en cause.",
+      "check": "Vérifier la preuve du consentement, sa portée et la possibilité de le retirer."
+    },
+    {
+      "id": "processors",
+      "label": "Ne pas respecter les obligations de sous-traitance",
+      "definition": "Obligations d’un sous-traitant ou encadrement de la relation responsable de traitement/sous-traitant explicitement en cause.",
+      "check": "Vérifier les engagements et responsabilités des prestataires qui traitent des données."
+    },
+    {
+      "id": "dpia",
+      "label": "Omettre ou mal réaliser l’analyse d’impact requise",
+      "definition": "Analyse d’impact requise et absente ou défaillante.",
+      "check": "Examiner si le traitement nécessite une analyse d’impact et tenir cette analyse à jour."
+    },
+    {
+      "id": "register",
+      "label": "Mal tenir le registre des traitements",
+      "definition": "Registre des activités de traitement explicitement en cause.",
+      "check": "Vérifier que le registre décrit les traitements réellement effectués."
+    },
+    {
+      "id": "breach_response",
+      "label": "Mal gérer une violation de données",
+      "definition": "Documentation, notification à l’autorité ou communication aux personnes défaillante.",
+      "check": "Préparer un circuit de documentation et d’évaluation des notifications et communications nécessaires."
+    },
+    {
+      "id": "purpose",
+      "label": "Ne pas respecter la finalité prévue",
+      "definition": "Limitation ou compatibilité des finalités explicitement en cause.",
+      "check": "Vérifier la compatibilité d’un nouvel usage avant de réutiliser des données."
+    },
+    {
+      "id": "accuracy",
+      "label": "Utiliser des données inexactes",
+      "definition": "Exactitude ou actualisation des données en cause.",
+      "check": "Prévoir un moyen de rectifier et de mettre à jour les données."
+    },
+    {
+      "id": "dpo",
+      "label": "Mal organiser la fonction de DPO",
+      "definition": "Désignation, indépendance ou missions du délégué explicitement en cause.",
+      "check": "Vérifier le rôle, les moyens et les éventuels conflits d’intérêts du DPO."
+    },
+    {
+      "id": "privacy_by_design",
+      "label": "Négliger la protection dès la conception",
+      "definition": "Protection dès la conception ou par défaut explicitement en cause.",
+      "check": "Examiner les paramètres par défaut et les données accessibles dès la conception."
+    },
+    {
+      "id": "sensitive_data",
+      "label": "Traiter des données sensibles sans condition valable",
+      "definition": "Régime des données sensibles explicitement en cause, au-delà du simple contexte santé.",
+      "check": "Vérifier les conditions spécifiques applicables avant de traiter ces données."
+    },
+    {
+      "id": "health_authorization",
+      "label": "Ne pas respecter les règles des traitements de santé",
+      "definition": "Règles spécifiques au traitement de données de santé explicitement en cause ; une autorisation ou une disposition précise n’est pas présumée.",
+      "check": "Vérifier les formalités applicables au projet de traitement de données de santé."
+    },
+    {
+      "id": "international_transfers",
+      "label": "Mal encadrer un transfert international",
+      "definition": "Transferts de données hors du cadre autorisé explicitement en cause.",
+      "check": "Identifier les destinations et les garanties applicables aux transferts."
+    },
+    {
+      "id": "automated_decisions",
+      "label": "Prendre une décision automatisée sans garanties",
+      "definition": "Décision automatisée ou garanties associées explicitement en cause.",
+      "check": "Examiner les effets de la décision et les garanties requises pour les personnes."
+    },
+    {
+      "id": "accountability",
+      "label": "Ne pas démontrer le respect des règles",
+      "definition": "Principe de responsabilité ou obligation de pouvoir justifier la licéité du traitement explicitement en cause. La preuve du consentement et le registre restent dans leurs thèmes spécifiques.",
+      "check": "Conserver des preuves des choix, contrôles et mesures de conformité appliqués."
+    },
+    {
+      "id": "joint_controllers",
+      "label": "Mal définir les responsabilités entre organismes",
+      "definition": "Obligations entre responsables conjoints explicitement en cause.",
+      "check": "Définir et communiquer la répartition des obligations entre responsables conjoints."
+    },
+    {
+      "id": "criminal_data",
+      "label": "Mal encadrer les données pénales",
+      "definition": "Traitement de données relatives aux infractions ou condamnations explicitement en cause, distinct des catégories particulières de données.",
+      "check": "Vérifier les règles spécifiques et habilitations applicables aux données relatives aux infractions et condamnations."
+    },
+    {
+      "id": "direct_marketing_unspecified",
+      "label": "Ne pas respecter les règles de prospection (motif non précisé)",
+      "definition": "Le résumé cite les règles de prospection électronique sans préciser si le grief porte sur le consentement, l’opposition ou une autre obligation. Ce thème de repli n’est pas ajouté lorsque le résumé précise déjà le manquement.",
+      "check": "Vérifier les conditions d’envoi et les moyens d’opposition applicables à chaque campagne."
+    },
+    {
+      "id": "authority_orders",
+      "label": "Ne pas exécuter une injonction",
+      "definition": "Une mesure corrective imposée par l’autorité n’a pas été exécutée.",
+      "check": "Suivre chaque injonction, son délai et la preuve de son exécution."
+    }
+  ],
+  "cases": [
+    {
+      "id": "EE-AKI-ALLIUM-UPI-2025-09-05",
+      "country_code": "EE",
+      "authority": "Andmekaitse Inspektsioon (AKI)",
+      "decision_reference": "951024000008",
+      "date": "2025-09-05",
+      "date_kind": "decision_date",
+      "publication_date": "2025-09-05",
+      "date_note": "Date de la décision et numéro d’affaire AKI confirmés par une copie publique de l’ordonnance du tribunal dans le recours Allium UPI ; le communiqué de l’AKI confirme le montant.",
+      "organisation": "Allium UPI OÜ",
+      "amount_original": 3000000,
+      "currency": "EUR",
+      "amount_status": "original_imposed",
+      "source_url": "https://www.aki.ee/uudised/allium-upi-jattis-kliendiandmed-kaitseta-3-miljoni-euro-suurune-trahv",
+      "source_level": "official_authority_notice_and_court_order_copy",
+      "summary_fr": "Amende de 3 M€ pour des mesures de sécurité insuffisantes dans le programme de fidélité Apotheka, après une fuite affectant plus de 750 000 personnes et comprenant des données sensibles.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://www.aki.ee/uudised/allium-upi-jattis-kliendiandmed-kaitseta-3-miljoni-euro-suurune-trahv",
+          "paraphrase": "Le communiqué AKI du 5 septembre 2025 confirme le destinataire et le montant de 3 M€."
+        },
+        {
+          "source_url": "https://www.aki.ee/uudised/allium-upi-le-maaratud-3-miljoni-euro-suurune-trahv-oli-kohtu-hinnangul-pohjendatud",
+          "paraphrase": "L’AKI rapporte la confirmation en première instance le 2 septembre 2026 et précise que le jugement n’était alors pas définitif."
+        },
+        {
+          "source_url": "https://dokumendiregistrid.karlerss.com/dokumendid/884127/kaskkiri",
+          "paraphrase": "Copie publique de l’ordonnance signée du tribunal de Harju : recours contre la décision AKI du 5 septembre 2025, affaire 951024000008 ; affaire judiciaire 4-25-3512."
+        }
+      ],
+      "appeal_note": "La juridiction de première instance a rejeté le recours le 2 septembre 2026. L'AKI précisait que cette décision n'était pas encore définitive et qu'un recours devant la Cour suprême restait possible.",
+      "date_source_url": "https://dokumendiregistrid.karlerss.com/dokumendid/884127/kaskkiri",
+      "case_status_notice": "Recours en cours: première instance favorable à AKI le 2 septembre 2026, jugement alors non définitif.",
+      "appeal_source_urls": [
+        "https://www.aki.ee/uudised/allium-upi-le-maaratud-3-miljoni-euro-suurune-trahv-oli-kohtu-hinnangul-pohjendatud"
+      ],
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 3000000.0
+    },
+    {
+      "id": "EE-AKI-EESTI-METSAKINNISTUD-951024000004",
+      "country_code": "EE",
+      "authority": "Andmekaitse Inspektsioon (AKI)",
+      "decision_reference": "951024000004",
+      "date": "2024-12-18",
+      "date_kind": "decision_date",
+      "organisation": "Eesti Metsakinnistud OÜ",
+      "amount_original": 5000,
+      "currency": "EUR",
+      "source_url": "https://adr.rik.ee/aki/dokument/18082607",
+      "source_level": "official_full_decision",
+      "summary_fr": "Amende de 5 000 € pour avoir collecté et utilisé sans base légale les coordonnées d’une personne afin de lui proposer l’achat de terrain forestier, sans informer correctement l’intéressé sur l’origine et l’usage de ses données ni répondre à sa demande.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://adr.rik.ee/aki/dokument/18082607",
+          "paraphrase": "Official ADR entry for AKI reply and attached signed fine decision"
+        },
+        {
+          "source_url": "https://adr.rik.ee/aki/fail/18082609/1.2.-1253297-2%2017.10.2025%20V%C3%A4ljaminev%20kiri.asice",
+          "paraphrase": "Attachment Lisa. Väärteotrahvi otsus.pdf p.1: date, case number, company; p.26: GDPR and IKS legal basis; p.28: €5,000 disposition; reply p.1: final status"
+        },
+        {
+          "source_url": "https://aastaraamat.aki.ee/node/164",
+          "paraphrase": "AKI 2024 report independently confirms company, facts, €5,000, and December 2024"
+        }
+      ],
+      "case_status_notice": "Amende définitive selon la réponse officielle de l’AKI du 17 octobre 2025.",
+      "legal_regime": "RGPD et loi estonienne IKS",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 5000.0
+    }
+  ]
+}

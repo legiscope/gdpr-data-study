@@ -1,0 +1,24 @@
+﻿theme_id,theme,cases,selected_cases
+transparency,Mal informer les personnes,66,200
+cooperation,Ne pas coopérer avec l’autorité de contrôle,54,200
+security,Protéger insuffisamment les données,53,200
+rights,Ne pas respecter les demandes des personnes,50,200
+lawfulness,Ne pas respecter les conditions légales d’utilisation,41,200
+minimization,Collecter ou surveiller de façon excessive,41,200
+cookies,Ne pas respecter les règles sur les cookies,37,200
+retention,Conserver les données trop longtemps,34,200
+processors,Ne pas respecter les obligations de sous-traitance,19,200
+consent,Mal recueillir ou gérer le consentement,17,200
+register,Mal tenir le registre des traitements,17,200
+dpia,Omettre ou mal réaliser l’analyse d’impact requise,13,200
+breach_response,Mal gérer une violation de données,9,200
+purpose,Ne pas respecter la finalité prévue,7,200
+sensitive_data,Traiter des données sensibles sans condition valable,7,200
+health_authorization,Ne pas respecter les règles des traitements de santé,5,200
+accountability,Ne pas démontrer le respect des règles,4,200
+dpo,Mal organiser la fonction de DPO,4,200
+direct_marketing_unspecified,Ne pas respecter les règles de prospection (motif non précisé),2,200
+criminal_data,Mal encadrer les données pénales,2,200
+privacy_by_design,Négliger la protection dès la conception,1,200
+accuracy,Utiliser des données inexactes,1,200
+joint_controllers,Mal définir les responsabilités entre organismes,1,200

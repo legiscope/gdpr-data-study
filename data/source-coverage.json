@@ -1,0 +1,205 @@
+[
+  {
+    "country_code": "FR",
+    "source_level": "official_authority_summary",
+    "case_count": 165,
+    "known_amount_count": 165,
+    "unknown_amount_count": 0
+  },
+  {
+    "country_code": "FR",
+    "source_level": "operative_provisions_checked",
+    "case_count": 35,
+    "known_amount_count": 35,
+    "unknown_amount_count": 0
+  },
+  {
+    "country_code": "DE",
+    "source_level": "official_authority_summary",
+    "case_count": 102,
+    "known_amount_count": 43,
+    "unknown_amount_count": 59
+  },
+  {
+    "country_code": "ES",
+    "source_level": "official_full_decision_operative_provisions_reviewed",
+    "case_count": 134,
+    "known_amount_count": 134,
+    "unknown_amount_count": 0
+  },
+  {
+    "country_code": "LT",
+    "source_level": "court_fulltext",
+    "case_count": 4,
+    "known_amount_count": 4,
+    "unknown_amount_count": 0
+  },
+  {
+    "country_code": "LT",
+    "source_level": "court_text_republication",
+    "case_count": 1,
+    "known_amount_count": 1,
+    "unknown_amount_count": 0
+  },
+  {
+    "country_code": "LT",
+    "source_level": "fulltext",
+    "case_count": 9,
+    "known_amount_count": 9,
+    "unknown_amount_count": 0
+  },
+  {
+    "country_code": "LT",
+    "source_level": "official_aggregate_case_description",
+    "case_count": 1,
+    "known_amount_count": 1,
+    "unknown_amount_count": 0
+  },
+  {
+    "country_code": "LT",
+    "source_level": "official_annual_case_description",
+    "case_count": 1,
+    "known_amount_count": 1,
+    "unknown_amount_count": 0
+  },
+  {
+    "country_code": "LT",
+    "source_level": "official_summary",
+    "case_count": 23,
+    "known_amount_count": 20,
+    "unknown_amount_count": 3
+  },
+  {
+    "country_code": "LT",
+    "source_level": "official_summary_with_court_verification",
+    "case_count": 1,
+    "known_amount_count": 1,
+    "unknown_amount_count": 0
+  },
+  {
+    "country_code": "PL",
+    "source_level": "fulltext",
+    "case_count": 114,
+    "known_amount_count": 109,
+    "unknown_amount_count": 5
+  },
+  {
+    "country_code": "PL",
+    "source_level": "official_annual_report",
+    "case_count": 5,
+    "known_amount_count": 5,
+    "unknown_amount_count": 0
+  },
+  {
+    "country_code": "PL",
+    "source_level": "official_annual_report_and_court",
+    "case_count": 1,
+    "known_amount_count": 1,
+    "unknown_amount_count": 0
+  },
+  {
+    "country_code": "PL",
+    "source_level": "official_press_release",
+    "case_count": 1,
+    "known_amount_count": 1,
+    "unknown_amount_count": 0
+  },
+  {
+    "country_code": "PL",
+    "source_level": "official_summary",
+    "case_count": 20,
+    "known_amount_count": 19,
+    "unknown_amount_count": 1
+  },
+  {
+    "country_code": "LV",
+    "source_level": "official_administrative_appeal_decision",
+    "case_count": 10,
+    "known_amount_count": 10,
+    "unknown_amount_count": 0
+  },
+  {
+    "country_code": "LV",
+    "source_level": "official_authority_summary",
+    "case_count": 2,
+    "known_amount_count": 2,
+    "unknown_amount_count": 0
+  },
+  {
+    "country_code": "LV",
+    "source_level": "official_decision",
+    "case_count": 26,
+    "known_amount_count": 25,
+    "unknown_amount_count": 1
+  },
+  {
+    "country_code": "IT",
+    "source_level": "Communiqué et newsletter officiels du Garante pour le montant; décision officielle partiellement occultée",
+    "case_count": 2,
+    "known_amount_count": 2,
+    "unknown_amount_count": 0
+  },
+  {
+    "country_code": "IT",
+    "source_level": "Décision officielle du Garante, dispositif pécuniaire occulté",
+    "case_count": 7,
+    "known_amount_count": 0,
+    "unknown_amount_count": 7
+  },
+  {
+    "country_code": "IT",
+    "source_level": "Newsletter officielle du Garante pour le montant; décision officielle partiellement occultée",
+    "case_count": 1,
+    "known_amount_count": 1,
+    "unknown_amount_count": 0
+  },
+  {
+    "country_code": "IT",
+    "source_level": "Newsletter officielle du Garante pour le montant; notice de décision retirée",
+    "case_count": 1,
+    "known_amount_count": 1,
+    "unknown_amount_count": 0
+  },
+  {
+    "country_code": "IT",
+    "source_level": "Texte intégral officiel du Garante, dispositif",
+    "case_count": 188,
+    "known_amount_count": 187,
+    "unknown_amount_count": 1
+  },
+  {
+    "country_code": "IT",
+    "source_level": "Texte intégral officiel du Garante, dispositif et note de statut judiciaire",
+    "case_count": 1,
+    "known_amount_count": 1,
+    "unknown_amount_count": 0
+  },
+  {
+    "country_code": "EE",
+    "source_level": "official_authority_notice_and_court_order_copy",
+    "case_count": 1,
+    "known_amount_count": 1,
+    "unknown_amount_count": 0
+  },
+  {
+    "country_code": "EE",
+    "source_level": "official_full_decision",
+    "case_count": 1,
+    "known_amount_count": 1,
+    "unknown_amount_count": 0
+  },
+  {
+    "country_code": "LU",
+    "source_level": "Texte intégral de la décision CNPD (dispositif)",
+    "case_count": 55,
+    "known_amount_count": 55,
+    "unknown_amount_count": 0
+  },
+  {
+    "country_code": "GR",
+    "source_level": "operative_provisions_checked",
+    "case_count": 130,
+    "known_amount_count": 130,
+    "unknown_amount_count": 0
+  }
+]

@@ -1,0 +1,1611 @@
+{
+  "meta": {
+    "version": "2026-10-30-source-audit",
+    "case_count": 55,
+    "data_as_of": "2026-10-25",
+    "sources_rechecked_on": "2026-10-30",
+    "analysis_status": "documented_collection",
+    "case_scope": "Jusqu’à 200 décisions de protection des données par pays, parmi les plus récentes de la collecte, RGPD et règles nationales liées inclus. Les montants connus sont rapportés à la population ; la sélection ne constitue pas un recensement national exhaustif.",
+    "recent_population_date": "2026-01-01",
+    "recent_selection_limit": 200,
+    "country_count": 1
+  },
+  "recent": [
+    {
+      "country_code": "LU",
+      "country_name": "Luxembourg",
+      "population": 690959,
+      "population_status": null,
+      "population_source_url": "https://ec.europa.eu/eurostat/databrowser/view/tps00001/default/table?lang=fr",
+      "decision_count": 55,
+      "exact_date_count": 55,
+      "individual_reference_count": 55,
+      "amount_known_count": 55,
+      "amount_unknown_count": 0,
+      "amount_eur": 573736.0,
+      "eur_per_resident": 0.8303473867479836,
+      "certified_latest_200": false,
+      "comparison_status": "documented_collection",
+      "date_start": "2021-04-08",
+      "date_end": "2025-12-16",
+      "coverage": "55 décisions monétaires RGPD datées et référencées dans les 92 décisions de l’index officiel CNPD (2021–2025), contrôlées sur ses cinq pages le 25 octobre 2026. Le rapport annuel 2025 documente une amende supplémentaire sans date ni référence individuelle publiée; elle n’est pas inventée comme cas. Un autre titre monétaire, 34FR/2021, relève exclusivement de la loi luxembourgeoise sur les données pénales. L’amende Amazon hors index est annulée depuis le 12 mars 2026. Le plafond de 200 ne peut pas être atteint avec des décisions CNPD documentées.",
+      "limitations": [
+        "Il n’existe pas 200 décisions avec amende RGPD dans l’index officiel CNPD : il ne contient que 92 décisions de toutes catégories et 55 amendes RGPD documentées. Ne pas compléter à 200 avec des avertissements, décisions étrangères ou doublons.",
+        "Un index publié ne prouve pas l’exhaustivité des amendes nationales; la décision transfrontière Amazon, hors index, illustre cette limite.",
+        "Le rapport annuel 2025 compte sept amendes pour 216 061 euros, contre six décisions avec amende et 198 061 euros dans l’index. La septième concerne un dossier de vidéosurveillance et l’article 6.1 du RGPD. Son montant de 18 000 euros est déduit par soustraction; sa date et sa référence individuelles ne sont pas publiées, donc elle n’est pas ajoutée comme cas daté.",
+        "Décisions historiques: recours et annulations ultérieurs non vérifiés systématiquement.",
+        "Responsables de traitement pseudonymisés dans les PDF.",
+        "La décision Amazon du 15 juillet 2021 (746 millions d’euros), absente de l’index, a été annulée sous tous ses volets par la Cour administrative le 12 mars 2026 et est consignée parmi les exclusions. Le dossier a été renvoyé à la CNPD, sans nouvelle amende vérifiée à la date d’audit.",
+        "La délibération 34FR/2021 relève de la loi luxembourgeoise sur les données en matière pénale/sécurité nationale et est exclue du périmètre RGPD.",
+        "Le registre officiel comporte 56 titres avec amende, dont 55 sous le RGPD retenus ici. Le rapport 2021 annonce 25 amendes alors que 26 titres monétaires de cette année figurent dans l’archive; les montants des 26 concordent avec le total annuel, sans que l’écart de décompte soit expliqué.",
+        "La délibération datée du 2 février 2022 et classée en 2022 par la CNPD porte 2FR/2021 dans l’en-tête de son PDF; la référence 2FR/2022 est normalisée et l’anomalie est signalée sur la ligne."
+      ],
+      "authority_coverage": "CNPD Luxembourg; 92 décisions publiées de toutes catégories dans le registre officiel pour 2021–2025 (48, 22, 12, 3 et 7 par année).",
+      "amount_note": "Montant des 55 cas publiés extrait du dispositif de chaque décision PDF officielle. Leur somme est un minimum documentaire : l’amende 2025 hors index, estimée à 18 000 euros par rapprochement avec le rapport annuel, n’entre pas dans les 55 lignes. Montants historiques; recours ultérieurs non réconciliés systématiquement.",
+      "fx_note": null,
+      "source_register_url": "https://cnpd.public.lu/content/cnpd/fr/decisions-sanctions.html"
+    }
+  ],
+  "countries": [
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "case_count": 55,
+      "individual_reference_count": 55,
+      "coverage": "55 décisions monétaires RGPD datées et référencées dans les 92 décisions de l’index officiel CNPD (2021–2025), contrôlées sur ses cinq pages le 25 octobre 2026. Le rapport annuel 2025 documente une amende supplémentaire sans date ni référence individuelle publiée; elle n’est pas inventée comme cas. Un autre titre monétaire, 34FR/2021, relève exclusivement de la loi luxembourgeoise sur les données pénales. L’amende Amazon hors index est annulée depuis le 12 mars 2026. Le plafond de 200 ne peut pas être atteint avec des décisions CNPD documentées.",
+      "authority_coverage": "CNPD Luxembourg; 92 décisions publiées de toutes catégories dans le registre officiel pour 2021–2025 (48, 22, 12, 3 et 7 par année).",
+      "limitations": [
+        "Il n’existe pas 200 décisions avec amende RGPD dans l’index officiel CNPD : il ne contient que 92 décisions de toutes catégories et 55 amendes RGPD documentées. Ne pas compléter à 200 avec des avertissements, décisions étrangères ou doublons.",
+        "Un index publié ne prouve pas l’exhaustivité des amendes nationales; la décision transfrontière Amazon, hors index, illustre cette limite.",
+        "Le rapport annuel 2025 compte sept amendes pour 216 061 euros, contre six décisions avec amende et 198 061 euros dans l’index. La septième concerne un dossier de vidéosurveillance et l’article 6.1 du RGPD. Son montant de 18 000 euros est déduit par soustraction; sa date et sa référence individuelles ne sont pas publiées, donc elle n’est pas ajoutée comme cas daté.",
+        "Décisions historiques: recours et annulations ultérieurs non vérifiés systématiquement.",
+        "Responsables de traitement pseudonymisés dans les PDF.",
+        "La décision Amazon du 15 juillet 2021 (746 millions d’euros), absente de l’index, a été annulée sous tous ses volets par la Cour administrative le 12 mars 2026 et est consignée parmi les exclusions. Le dossier a été renvoyé à la CNPD, sans nouvelle amende vérifiée à la date d’audit.",
+        "La délibération 34FR/2021 relève de la loi luxembourgeoise sur les données en matière pénale/sécurité nationale et est exclue du périmètre RGPD.",
+        "Le registre officiel comporte 56 titres avec amende, dont 55 sous le RGPD retenus ici. Le rapport 2021 annonce 25 amendes alors que 26 titres monétaires de cette année figurent dans l’archive; les montants des 26 concordent avec le total annuel, sans que l’écart de décompte soit expliqué.",
+        "La délibération datée du 2 février 2022 et classée en 2022 par la CNPD porte 2FR/2021 dans l’en-tête de son PDF; la référence 2FR/2022 est normalisée et l’anomalie est signalée sur la ligne."
+      ],
+      "amount_note": "Montant des 55 cas publiés extrait du dispositif de chaque décision PDF officielle. Leur somme est un minimum documentaire : l’amende 2025 hors index, estimée à 18 000 euros par rapprochement avec le rapport annuel, n’entre pas dans les 55 lignes. Montants historiques; recours ultérieurs non réconciliés systématiquement.",
+      "date_start": "2021-04-08",
+      "date_end": "2025-12-16",
+      "input_status": "Dates et montants du dispositif vérifiés dans les PDF officiels CNPD; une référence 2022 est normalisée avec anomalie documentée; statut des recours non vérifié systématiquement."
+    }
+  ],
+  "themes": [
+    {
+      "id": "transparency",
+      "label": "Mal informer les personnes",
+      "definition": "Information insuffisante sur l’utilisation des données ou l’exercice des droits.",
+      "check": "Vérifier que les personnes comprennent les usages de leurs données et les moyens d’exercer leurs droits."
+    },
+    {
+      "id": "rights",
+      "label": "Ne pas respecter les demandes des personnes",
+      "definition": "Accès, effacement, opposition et autres droits mentionnés dans la source.",
+      "check": "Tester le circuit de réception, de suivi et de réponse aux demandes."
+    },
+    {
+      "id": "security",
+      "label": "Protéger insuffisamment les données",
+      "definition": "Mesures de sécurité jugées insuffisantes ; une fuite seule ne prouve pas un manquement.",
+      "check": "Contrôler les accès, l’authentification, les mises à jour et la détection des accès anormaux."
+    },
+    {
+      "id": "cooperation",
+      "label": "Ne pas coopérer avec l’autorité de contrôle",
+      "definition": "Défaut de coopération explicitement mentionné ; distinct d’une simple injonction de mise en conformité.",
+      "check": "Désigner un responsable et conserver les réponses aux demandes de l’autorité."
+    },
+    {
+      "id": "minimization",
+      "label": "Collecter ou surveiller de façon excessive",
+      "definition": "Données excessives ou surveillance disproportionnée mentionnées par la source.",
+      "check": "Vérifier quelles données sont indispensables à chaque objectif."
+    },
+    {
+      "id": "retention",
+      "label": "Conserver les données trop longtemps",
+      "definition": "Durées de conservation non conformes ou suppression insuffisante.",
+      "check": "Vérifier que les durées définies sont effectivement appliquées dans les outils et sauvegardes concernés."
+    },
+    {
+      "id": "lawfulness",
+      "label": "Ne pas respecter les conditions légales d’utilisation",
+      "definition": "Licéité ou base légale explicitement en cause.",
+      "check": "Documenter le fondement de chaque usage, sans supposer que le consentement convient à tout."
+    },
+    {
+      "id": "cookies",
+      "label": "Ne pas respecter les règles sur les cookies",
+      "definition": "Information, consentement ou opposition aux cookies/traceurs en cause.",
+      "check": "Tester le dépôt de traceurs et les choix proposés avant et après refus."
+    },
+    {
+      "id": "consent",
+      "label": "Mal recueillir ou gérer le consentement",
+      "definition": "Consentement hors cookies, preuve ou retrait explicitement en cause.",
+      "check": "Vérifier la preuve du consentement, sa portée et la possibilité de le retirer."
+    },
+    {
+      "id": "processors",
+      "label": "Ne pas respecter les obligations de sous-traitance",
+      "definition": "Obligations d’un sous-traitant ou encadrement de la relation responsable de traitement/sous-traitant explicitement en cause.",
+      "check": "Vérifier les engagements et responsabilités des prestataires qui traitent des données."
+    },
+    {
+      "id": "dpia",
+      "label": "Omettre ou mal réaliser l’analyse d’impact requise",
+      "definition": "Analyse d’impact requise et absente ou défaillante.",
+      "check": "Examiner si le traitement nécessite une analyse d’impact et tenir cette analyse à jour."
+    },
+    {
+      "id": "register",
+      "label": "Mal tenir le registre des traitements",
+      "definition": "Registre des activités de traitement explicitement en cause.",
+      "check": "Vérifier que le registre décrit les traitements réellement effectués."
+    },
+    {
+      "id": "breach_response",
+      "label": "Mal gérer une violation de données",
+      "definition": "Documentation, notification à l’autorité ou communication aux personnes défaillante.",
+      "check": "Préparer un circuit de documentation et d’évaluation des notifications et communications nécessaires."
+    },
+    {
+      "id": "purpose",
+      "label": "Ne pas respecter la finalité prévue",
+      "definition": "Limitation ou compatibilité des finalités explicitement en cause.",
+      "check": "Vérifier la compatibilité d’un nouvel usage avant de réutiliser des données."
+    },
+    {
+      "id": "accuracy",
+      "label": "Utiliser des données inexactes",
+      "definition": "Exactitude ou actualisation des données en cause.",
+      "check": "Prévoir un moyen de rectifier et de mettre à jour les données."
+    },
+    {
+      "id": "dpo",
+      "label": "Mal organiser la fonction de DPO",
+      "definition": "Désignation, indépendance ou missions du délégué explicitement en cause.",
+      "check": "Vérifier le rôle, les moyens et les éventuels conflits d’intérêts du DPO."
+    },
+    {
+      "id": "privacy_by_design",
+      "label": "Négliger la protection dès la conception",
+      "definition": "Protection dès la conception ou par défaut explicitement en cause.",
+      "check": "Examiner les paramètres par défaut et les données accessibles dès la conception."
+    },
+    {
+      "id": "sensitive_data",
+      "label": "Traiter des données sensibles sans condition valable",
+      "definition": "Régime des données sensibles explicitement en cause, au-delà du simple contexte santé.",
+      "check": "Vérifier les conditions spécifiques applicables avant de traiter ces données."
+    },
+    {
+      "id": "health_authorization",
+      "label": "Ne pas respecter les règles des traitements de santé",
+      "definition": "Règles spécifiques au traitement de données de santé explicitement en cause ; une autorisation ou une disposition précise n’est pas présumée.",
+      "check": "Vérifier les formalités applicables au projet de traitement de données de santé."
+    },
+    {
+      "id": "international_transfers",
+      "label": "Mal encadrer un transfert international",
+      "definition": "Transferts de données hors du cadre autorisé explicitement en cause.",
+      "check": "Identifier les destinations et les garanties applicables aux transferts."
+    },
+    {
+      "id": "automated_decisions",
+      "label": "Prendre une décision automatisée sans garanties",
+      "definition": "Décision automatisée ou garanties associées explicitement en cause.",
+      "check": "Examiner les effets de la décision et les garanties requises pour les personnes."
+    },
+    {
+      "id": "accountability",
+      "label": "Ne pas démontrer le respect des règles",
+      "definition": "Principe de responsabilité ou obligation de pouvoir justifier la licéité du traitement explicitement en cause. La preuve du consentement et le registre restent dans leurs thèmes spécifiques.",
+      "check": "Conserver des preuves des choix, contrôles et mesures de conformité appliqués."
+    },
+    {
+      "id": "joint_controllers",
+      "label": "Mal définir les responsabilités entre organismes",
+      "definition": "Obligations entre responsables conjoints explicitement en cause.",
+      "check": "Définir et communiquer la répartition des obligations entre responsables conjoints."
+    },
+    {
+      "id": "criminal_data",
+      "label": "Mal encadrer les données pénales",
+      "definition": "Traitement de données relatives aux infractions ou condamnations explicitement en cause, distinct des catégories particulières de données.",
+      "check": "Vérifier les règles spécifiques et habilitations applicables aux données relatives aux infractions et condamnations."
+    },
+    {
+      "id": "direct_marketing_unspecified",
+      "label": "Ne pas respecter les règles de prospection (motif non précisé)",
+      "definition": "Le résumé cite les règles de prospection électronique sans préciser si le grief porte sur le consentement, l’opposition ou une autre obligation. Ce thème de repli n’est pas ajouté lorsque le résumé précise déjà le manquement.",
+      "check": "Vérifier les conditions d’envoi et les moyens d’opposition applicables à chaque campagne."
+    },
+    {
+      "id": "authority_orders",
+      "label": "Ne pas exécuter une injonction",
+      "definition": "Une mesure corrective imposée par l’autorité n’a pas été exécutée.",
+      "check": "Suivre chaque injonction, son délai et la preuve de son exécution."
+    }
+  ],
+  "cases": [
+    {
+      "id": "LU-CNPD-7FR-2025",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "7FR/2025",
+      "date": "2025-12-16",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 7000,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2025/dcision-nr-7fr-2025-version-pseudonymise.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2025/dcision-nr-7fr-2025-version-pseudonymise.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 7000.0
+    },
+    {
+      "id": "LU-CNPD-6FR-2025",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "6FR/2025",
+      "date": "2025-12-16",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 1277,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2025/dcision-nr-6fr-2025-version-pseudonymise.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2025/dcision-nr-6fr-2025-version-pseudonymise.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 1277.0
+    },
+    {
+      "id": "LU-CNPD-5FR-2025",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "5FR/2025",
+      "date": "2025-12-16",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 5000,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2025/dcision-nr-5fr-2025-version-pseudonymise.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2025/dcision-nr-5fr-2025-version-pseudonymise.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 5000.0
+    },
+    {
+      "id": "LU-CNPD-4FR-2025",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "4FR/2025",
+      "date": "2025-12-16",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 2784,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2025/dcision-nr-4fr-2025-version-pseudonymise.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2025/dcision-nr-4fr-2025-version-pseudonymise.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 2784.0
+    },
+    {
+      "id": "LU-CNPD-3FR-2025",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "3FR/2025",
+      "date": "2025-04-30",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 7000,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2025/dcision-de-la-fr-nr-3fr-2025-du-30-avril-2025-version-pseudonymise.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2025/dcision-de-la-fr-nr-3fr-2025-du-30-avril-2025-version-pseudonymise.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 7000.0
+    },
+    {
+      "id": "LU-CNPD-1FR-2025",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "1FR/2025",
+      "date": "2025-01-06",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 175000,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2025/dlibration-n1fr-2025-anonymise.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2025/dlibration-n1fr-2025-anonymise.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 175000.0
+    },
+    {
+      "id": "LU-CNPD-3FR-2024",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "3FR/2024",
+      "date": "2024-11-20",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 2300,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2024/dcision-3fr-2024-version-pseudonymise-version-finale.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2024/dcision-3fr-2024-version-pseudonymise-version-finale.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 2300.0
+    },
+    {
+      "id": "LU-CNPD-13FR-2023",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "13FR/2023",
+      "date": "2023-09-21",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 2500,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2023/dcision-13fr-2023-sous-forme-anonymise.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2023/dcision-13fr-2023-sous-forme-anonymise.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 2500.0
+    },
+    {
+      "id": "LU-CNPD-6FR-2023",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "6FR/2023",
+      "date": "2023-07-05",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 2500,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2023/dcision-6fr-2023-sous-forme-anonymise.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2023/dcision-6fr-2023-sous-forme-anonymise.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 2500.0
+    },
+    {
+      "id": "LU-CNPD-5FR-2023",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "5FR/2023",
+      "date": "2023-07-05",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 1500,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2023/dcision-5fr-2023-sous-forme-anonymise.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2023/dcision-5fr-2023-sous-forme-anonymise.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 1500.0
+    },
+    {
+      "id": "LU-CNPD-24FR-2022",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "24FR/2022",
+      "date": "2022-12-13",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 2100,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/dcision-24fr-2022-sous-forme-anonymise.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/dcision-24fr-2022-sous-forme-anonymise.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 2100.0
+    },
+    {
+      "id": "LU-CNPD-23FR-2022",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "23FR/2022",
+      "date": "2022-12-13",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 1000,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/dcision-23fr-2022-sous-forme-anonymise.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/dcision-23fr-2022-sous-forme-anonymise.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 1000.0
+    },
+    {
+      "id": "LU-CNPD-22FR-2022",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "22FR/2022",
+      "date": "2022-12-13",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 1400,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/dcision-22fr-2022-sous-forme-anonymise.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/dcision-22fr-2022-sous-forme-anonymise.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 1400.0
+    },
+    {
+      "id": "LU-CNPD-21FR-2022",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "21FR/2022",
+      "date": "2022-12-13",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 2500,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/dcision-21fr-2022-sous-forme-anonymise.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/dcision-21fr-2022-sous-forme-anonymise.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 2500.0
+    },
+    {
+      "id": "LU-CNPD-20FR-2022",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "20FR/2022",
+      "date": "2022-12-13",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 3000,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/dcision-20fr-2022-sous-forme-anonymise.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/dcision-20fr-2022-sous-forme-anonymise.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 3000.0
+    },
+    {
+      "id": "LU-CNPD-19FR-2022",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "19FR/2022",
+      "date": "2022-12-13",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 700,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/dcision-19fr-2022-sous-forme-anonymise.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/dcision-19fr-2022-sous-forme-anonymise.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 700.0
+    },
+    {
+      "id": "LU-CNPD-18FR-2022",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "18FR/2022",
+      "date": "2022-12-13",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 1500,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-avis/2023/dlibration-18-fr-2022-du-13-dcembre-2022.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-avis/2023/dlibration-18-fr-2022-du-13-dcembre-2022.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 1500.0
+    },
+    {
+      "id": "LU-CNPD-16FR-2022",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "16FR/2022",
+      "date": "2022-07-07",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 10000,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/dcision-16fr-2022-sous-forme-anonymise.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/dcision-16fr-2022-sous-forme-anonymise.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 10000.0
+    },
+    {
+      "id": "LU-CNPD-15FR-2022",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "15FR/2022",
+      "date": "2022-06-30",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 1000,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-15fr-2022-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-15fr-2022-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 1000.0
+    },
+    {
+      "id": "LU-CNPD-14FR-2022",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "14FR/2022",
+      "date": "2022-06-30",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 1000,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-14fr-2022-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-14fr-2022-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 1000.0
+    },
+    {
+      "id": "LU-CNPD-13FR-2022",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "13FR/2022",
+      "date": "2022-06-30",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 1400,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-13fr-2022-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-13fr-2022-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 1400.0
+    },
+    {
+      "id": "LU-CNPD-12FR-2022",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "12FR/2022",
+      "date": "2022-06-22",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 3000,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-12fr-2022-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-12fr-2022-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 3000.0
+    },
+    {
+      "id": "LU-CNPD-11FR-2022",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "11FR/2022",
+      "date": "2022-04-22",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 1500,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-11fr-2022-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-11fr-2022-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 1500.0
+    },
+    {
+      "id": "LU-CNPD-10FR-2022",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "10FR/2022",
+      "date": "2022-04-22",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 3500,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-10fr-2022-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-10fr-2022-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 3500.0
+    },
+    {
+      "id": "LU-CNPD-9FR-2022",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "9FR/2022",
+      "date": "2022-04-20",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 1500,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-9fr-2022-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-9fr-2022-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 1500.0
+    },
+    {
+      "id": "LU-CNPD-7FR-2022",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "7FR/2022",
+      "date": "2022-03-10",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 1225,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-7fr-2022-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-7fr-2022-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 1225.0
+    },
+    {
+      "id": "LU-CNPD-4FR-2022",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "4FR/2022",
+      "date": "2022-02-16",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 1550,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-4fr-2022-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-4fr-2022-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 1550.0
+    },
+    {
+      "id": "LU-CNPD-3FR-2022",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "3FR/2022",
+      "date": "2022-02-02",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 1000,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-3fr-2022-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-3fr-2022-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 1000.0
+    },
+    {
+      "id": "LU-CNPD-2FR-2022",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "2FR/2022",
+      "date": "2022-02-02",
+      "date_kind": "decision",
+      "date_note": "Décision datée du 2 février 2022 et classée sous 2022 dans l’index CNPD; son PDF imprime 2FR/2021 dans l’en-tête, en contradiction avec son année et l’URL officielle.",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 4600,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-2fr-2022-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-2fr-2022-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "source_reference_as_printed": "2FR/2021",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 4600.0
+    },
+    {
+      "id": "LU-CNPD-1FR-2022",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "1FR/2022",
+      "date": "2022-02-02",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 4900,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-1fr-2022-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2022/decision-1fr-2022-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 4900.0
+    },
+    {
+      "id": "LU-CNPD-48FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "48FR/2021",
+      "date": "2021-12-15",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 4900,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-48FR-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-48FR-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 4900.0
+    },
+    {
+      "id": "LU-CNPD-47FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "47FR/2021",
+      "date": "2021-12-01",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 6800,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-47FR-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-47FR-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 6800.0
+    },
+    {
+      "id": "LU-CNPD-46FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "46FR/2021",
+      "date": "2021-12-01",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 200,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-46FR-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-46FR-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 200.0
+    },
+    {
+      "id": "LU-CNPD-45FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "45FR/2021",
+      "date": "2021-12-01",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 6700,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-45FR-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-45FR-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 6700.0
+    },
+    {
+      "id": "LU-CNPD-44FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "44FR/2021",
+      "date": "2021-11-09",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 1500,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-44FR-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-44FR-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 1500.0
+    },
+    {
+      "id": "LU-CNPD-41FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "41FR/2021",
+      "date": "2021-10-27",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 18700,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-41FR-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-41FR-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 18700.0
+    },
+    {
+      "id": "LU-CNPD-40FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "40FR/2021",
+      "date": "2021-10-27",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 15400,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-40FR-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-40FR-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 15400.0
+    },
+    {
+      "id": "LU-CNPD-38FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "38FR/2021",
+      "date": "2021-10-15",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 18000,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-38FR-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-38FR-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 18000.0
+    },
+    {
+      "id": "LU-CNPD-36FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "36FR/2021",
+      "date": "2021-10-13",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 13200,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-36FR-2021-sous-forme-anomyisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-36FR-2021-sous-forme-anomyisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 13200.0
+    },
+    {
+      "id": "LU-CNPD-35FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "35FR/2021",
+      "date": "2021-10-06",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 5300,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/decision-35fr-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/decision-35fr-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 5300.0
+    },
+    {
+      "id": "LU-CNPD-33FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "33FR/2021",
+      "date": "2021-08-05",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 1000,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/decision-33fr-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/decision-33fr-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 1000.0
+    },
+    {
+      "id": "LU-CNPD-31FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "31FR/2021",
+      "date": "2021-08-05",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 135000,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-31FR-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-31FR-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 135000.0
+    },
+    {
+      "id": "LU-CNPD-30FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "30FR/2021",
+      "date": "2021-08-04",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 6600,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-30FR-2021-sous-forme-anoymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-30FR-2021-sous-forme-anoymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 6600.0
+    },
+    {
+      "id": "LU-CNPD-29FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "29FR/2021",
+      "date": "2021-08-04",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 10700,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-29FR-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-29FR-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 10700.0
+    },
+    {
+      "id": "LU-CNPD-27FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "27FR/2021",
+      "date": "2021-07-15",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 3500,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-27FR-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-27FR-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 3500.0
+    },
+    {
+      "id": "LU-CNPD-24FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "24FR/2021",
+      "date": "2021-06-29",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 12500,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-24FR-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-24FR-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 12500.0
+    },
+    {
+      "id": "LU-CNPD-22FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "22FR/2021",
+      "date": "2021-06-11",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 7200,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-22FR-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-22FR-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 7200.0
+    },
+    {
+      "id": "LU-CNPD-21FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "21FR/2021",
+      "date": "2021-06-11",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 7600,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-21FR-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-21FR-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 7600.0
+    },
+    {
+      "id": "LU-CNPD-20FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "20FR/2021",
+      "date": "2021-06-11",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 15000,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-20FR-2021-sous-forme-anonymisee-.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-20FR-2021-sous-forme-anonymisee-.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 15000.0
+    },
+    {
+      "id": "LU-CNPD-18FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "18FR/2021",
+      "date": "2021-05-31",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 18000,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-18FR-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-18FR-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 18000.0
+    },
+    {
+      "id": "LU-CNPD-17FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "17FR/2021",
+      "date": "2021-05-12",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 1900,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-17FR-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-17FR-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 1900.0
+    },
+    {
+      "id": "LU-CNPD-16FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "16FR/2021",
+      "date": "2021-05-12",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 1000,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-16FR-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-16FR-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 1000.0
+    },
+    {
+      "id": "LU-CNPD-15FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "15FR/2021",
+      "date": "2021-05-12",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 2400,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-15FR-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-15FR-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 2400.0
+    },
+    {
+      "id": "LU-CNPD-14FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "14FR/2021",
+      "date": "2021-05-12",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 2600,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-14FR-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-14FR-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 2600.0
+    },
+    {
+      "id": "LU-CNPD-11FR-2021",
+      "country_code": "LU",
+      "authority": "CNPD",
+      "decision_reference": "11FR/2021",
+      "date": "2021-04-08",
+      "date_kind": "decision",
+      "organisation": "Contrôlé pseudonymisé",
+      "amount_original": 2800,
+      "currency": "EUR",
+      "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-11FR-2021-sous-forme-anonymisee.pdf",
+      "source_level": "Texte intégral de la décision CNPD (dispositif)",
+      "summary_fr": "Amende administrative prononcée par la CNPD; motif et dispositif dans la décision officielle.",
+      "themes": [],
+      "evidence": [
+        {
+          "source_url": "https://cnpd.public.lu/content/dam/cnpd/fr/decisions-fr/2021/Decision-11FR-2021-sous-forme-anonymisee.pdf",
+          "paraphrase": "Publication officielle complémentaire."
+        }
+      ],
+      "case_status_notice": "Montant historique; statut des recours non vérifié.",
+      "fine_count": null,
+      "source_topics": [],
+      "amount_eur": 2800.0
+    }
+  ]
+}
