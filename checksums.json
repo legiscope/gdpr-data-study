@@ -473,13 +473,13 @@
     },
     {
       "path": "scripts/build.py",
-      "bytes": 31668,
-      "sha256": "db9068f27b19a815fe7870f0c37d727858168b2818359596b54559788baabd22"
+      "bytes": 31716,
+      "sha256": "ab8436d478386d5d99da21afcc1eeebc5897d9470ec9f10025e32f1590f7074a"
     },
     {
       "path": "scripts/charts.py",
-      "bytes": 5325,
-      "sha256": "ad3d57a1eb0341210579f676dbc44d7950e146c6a7df546efc6fc85bcea7a491"
+      "bytes": 5375,
+      "sha256": "24c2f5cac2c4bb33928c3c8fb763912b2cd38f0a8ac7148c8b080974f961beae"
     },
     {
       "path": "source/audit-2026-10-25.fr.md",

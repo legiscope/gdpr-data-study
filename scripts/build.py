@@ -463,8 +463,8 @@ def main():
     parser.add_argument('--package', action='store_true', help='Build verified local release ZIPs under dist/')
     args = parser.parse_args()
     require(not (args.check and args.package), 'Choose --check or --package')
-    data = json.loads((ROOT / 'data/dataset.json').read_text())
-    provenance = json.loads((ROOT / 'provenance.json').read_text())
+    data = json.loads((ROOT / 'data/dataset.json').read_text(encoding='utf-8'))
+    provenance = json.loads((ROOT / 'provenance.json').read_text(encoding='utf-8'))
     validate(data, provenance)
     generated = outputs(data, provenance)
     for relative, content in generated.items():
@@ -476,7 +476,7 @@ def main():
             path.write_bytes(content)
     check_path = ROOT / 'checksums.json'
     if args.check:
-        require(json.loads(check_path.read_text()) == manifest(), 'Release checksum manifest differs')
+        require(json.loads(check_path.read_text(encoding='utf-8')) == manifest(), 'Release checksum manifest differs')
     else:
         check_path.write_bytes(json_bytes(manifest()))
     if args.package:

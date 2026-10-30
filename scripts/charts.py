@@ -10,7 +10,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 ROOT = Path(__file__).resolve().parents[1]
-DATA = json.loads((ROOT / 'data/dataset.json').read_text())
+DATA = json.loads((ROOT / 'data/dataset.json').read_text(encoding='utf-8'))
 NAMES = dict(FR='France', DE='Germany', ES='Spain', LT='Lithuania', PL='Poland',
              LV='Latvia', IT='Italy', EE='Estonia', LU='Luxembourg', GR='Greece')
 SOURCE = 'https://www.legiscope.com/blog/amendes-rgpd-europe-comparaison-pays.html'
@@ -41,7 +41,7 @@ def save(figure, name):
     folder.mkdir(exist_ok=True)
     svg = folder / f'{name}.svg'
     figure.savefig(svg, metadata={'Date': None, 'Creator': 'Legiscope'})
-    svg.write_text('\n'.join(line.rstrip() for line in svg.read_text().splitlines()) + '\n')
+    svg.write_text('\n'.join(line.rstrip() for line in svg.read_text(encoding='utf-8').splitlines()) + '\n', encoding='utf-8')
     figure.savefig(folder / f'{name}.png', dpi=160, metadata={'Software': 'Legiscope'})
     plt.close(figure)
 
